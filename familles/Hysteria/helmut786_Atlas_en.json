@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "helmut786",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-05T23:33:28",
+  "publie_le": "2026-10-05T23:36:38",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "helmut",
+      "coordonnees": "[91:22]",
+      "bois": 39674,
+      "vin": 11664,
+      "marbre": 3177,
+      "cristal": 639,
+      "soufre": 3387
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[89:20]",
+      "bois": 9241,
+      "vin": 6685,
+      "marbre": 11380,
+      "cristal": 0,
+      "soufre": 74
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[90:20]",
+      "bois": 34007,
+      "vin": 19044,
+      "marbre": 2434,
+      "cristal": 0,
+      "soufre": 5845
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[87:19]",
+      "bois": 4408,
+      "vin": 2500,
+      "marbre": 1155,
+      "cristal": 0,
+      "soufre": 0
+    }
+  ]
+}
