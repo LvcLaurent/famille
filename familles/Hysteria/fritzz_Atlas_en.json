@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "fritzz",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-05T23:36:22",
+  "publie_le": "2026-10-05T23:36:38",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "Oly City",
+      "coordonnees": "[91:22]",
+      "bois": 82772,
+      "vin": 29955,
+      "marbre": 25926,
+      "cristal": 0,
+      "soufre": 3387
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[89:20]",
+      "bois": 8704,
+      "vin": 11946,
+      "marbre": 31366,
+      "cristal": 0,
+      "soufre": 69
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[90:20]",
+      "bois": 26924,
+      "vin": 2726,
+      "marbre": 0,
+      "cristal": 0,
+      "soufre": 15848
+    }
+  ]
+}
