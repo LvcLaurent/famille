@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "groupe": "marcel",
   "joueur": "Bakanonos",
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-05T10:22:21",
-  "publie_le": "2026-10-05T12:32:41",
+  "publie_le": "2026-10-05T15:36:50",
   "points_course": null,
   "villes": [
     {
