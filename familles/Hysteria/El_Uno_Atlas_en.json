@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "El Uno",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-05T23:35:30",
+  "publie_le": "2026-10-05T23:36:38",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "Brock vin",
+      "coordonnees": "[91:22]",
+      "bois": 54721,
+      "vin": 26230,
+      "marbre": 28496,
+      "cristal": 0,
+      "soufre": 0
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[89:20]",
+      "bois": 9544,
+      "vin": 5985,
+      "marbre": 40915,
+      "cristal": 0,
+      "soufre": 86
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[90:20]",
+      "bois": 2834,
+      "vin": 3725,
+      "marbre": 0,
+      "cristal": 0,
+      "soufre": 14035
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[87:19]",
+      "bois": 0,
+      "vin": 2500,
+      "marbre": 0,
+      "cristal": 0,
+      "soufre": 0
+    }
+  ]
+}
