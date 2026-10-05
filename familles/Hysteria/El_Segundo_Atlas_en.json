@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "El Segundo",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-05T23:33:29",
+  "publie_le": "2026-10-05T23:36:38",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "Djo vino I",
+      "coordonnees": "[91:22]",
+      "bois": 9836,
+      "vin": 12458,
+      "marbre": 7426,
+      "cristal": 0,
+      "soufre": 0
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[89:20]",
+      "bois": 3205,
+      "vin": 11363,
+      "marbre": 3449,
+      "cristal": 0,
+      "soufre": 226
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[90:20]",
+      "bois": 43289,
+      "vin": 5605,
+      "marbre": 31,
+      "cristal": 0,
+      "soufre": 8611
+    }
+  ]
+}
