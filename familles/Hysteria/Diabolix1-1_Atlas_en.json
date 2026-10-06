@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "Diabolix1-1",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-06T09:59:38",
+  "publie_le": "2026-10-06T10:04:43",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "marbre",
+      "coordonnees": "[92:24]",
+      "bois": 29978,
+      "vin": 40338,
+      "marbre": 20414,
+      "cristal": 176,
+      "soufre": 0
+    },
+    {
+      "nom": "vin",
+      "coordonnees": "[91:22]",
+      "bois": 50312,
+      "vin": 16369,
+      "marbre": 10738,
+      "cristal": 0,
+      "soufre": 709
+    },
+    {
+      "nom": "cristal",
+      "coordonnees": "[88:22]",
+      "bois": 14942,
+      "vin": 0,
+      "marbre": 712,
+      "cristal": 15897,
+      "soufre": 145
+    },
+    {
+      "nom": "souffre",
+      "coordonnees": "[90:20]",
+      "bois": 19469,
+      "vin": 0,
+      "marbre": 212,
+      "cristal": 0,
+      "soufre": 12707
+    }
+  ]
+}
