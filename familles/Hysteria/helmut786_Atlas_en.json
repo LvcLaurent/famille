@@ -4,36 +4,36 @@
   "joueur": "helmut786",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-05T23:33:28",
-  "publie_le": "2026-10-05T23:42:10",
+  "scanne_le": "2026-10-06T09:59:37",
+  "publie_le": "2026-10-06T10:04:43",
   "points_course": null,
   "villes": [
     {
       "nom": "helmut",
       "coordonnees": "[91:22]",
-      "bois": 39674,
-      "vin": 11664,
-      "marbre": 3177,
+      "bois": 50993,
+      "vin": 14902,
+      "marbre": 2688,
       "cristal": 639,
       "soufre": 3387
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 9241,
-      "vin": 6685,
-      "marbre": 11380,
+      "bois": 3454,
+      "vin": 6421,
+      "marbre": 8952,
       "cristal": 0,
       "soufre": 74
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 34007,
-      "vin": 19044,
+      "bois": 36022,
+      "vin": 22956,
       "marbre": 2434,
       "cristal": 0,
-      "soufre": 5845
+      "soufre": 6324
     },
     {
       "nom": "Polis",
