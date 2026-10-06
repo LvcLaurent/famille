@@ -4,36 +4,36 @@
   "joueur": "Mutch",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-06T17:19:36",
-  "publie_le": "2026-10-06T17:20:49",
+  "scanne_le": "2026-10-06T17:34:51",
+  "publie_le": "2026-10-06T17:35:48",
   "points_course": null,
   "villes": [
     {
       "nom": "Mutch",
       "coordonnees": "[90:23]",
-      "bois": 302434,
+      "bois": 302722,
       "vin": 14150,
       "marbre": 0,
-      "cristal": 72893,
+      "cristal": 72940,
       "soufre": 54
     },
     {
       "nom": "m-1",
       "coordonnees": "[93:20]",
-      "bois": 62495,
+      "bois": 62583,
       "vin": 5576,
-      "marbre": 22375,
+      "marbre": 22471,
       "cristal": 19973,
       "soufre": 0
     },
     {
       "nom": "s-1",
       "coordonnees": "[90:20]",
-      "bois": 143298,
+      "bois": 143483,
       "vin": 4743,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 39249
+      "soufre": 39280
     }
   ]
 }
