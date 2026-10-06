@@ -4,24 +4,24 @@
   "joueur": "Dovah",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-06T14:00:48",
-  "publie_le": "2026-10-06T14:01:45",
+  "scanne_le": "2026-10-06T17:19:40",
+  "publie_le": "2026-10-06T17:20:49",
   "points_course": null,
   "villes": [
     {
       "nom": "Dovah",
       "coordonnees": "[90:23]",
       "bois": 293290,
-      "vin": 6846,
+      "vin": 6756,
       "marbre": 0,
-      "cristal": 82673,
+      "cristal": 83437,
       "soufre": 11940
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 147190,
-      "vin": 87271,
+      "bois": 148592,
+      "vin": 88089,
       "marbre": 0,
       "cristal": 0,
       "soufre": 0
@@ -29,20 +29,20 @@
     {
       "nom": "m-1",
       "coordonnees": "[94:22]",
-      "bois": 26069,
-      "vin": 14110,
-      "marbre": 15890,
+      "bois": 29075,
+      "vin": 14020,
+      "marbre": 15936,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[92:20]",
-      "bois": 10470,
-      "vin": 27398,
+      "bois": 10028,
+      "vin": 27326,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 20077
+      "soufre": 20394
     }
   ]
 }
