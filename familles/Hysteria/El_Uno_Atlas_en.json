@@ -4,36 +4,36 @@
   "joueur": "El Uno",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-05T23:35:30",
-  "publie_le": "2026-10-05T23:42:10",
+  "scanne_le": "2026-10-06T10:03:35",
+  "publie_le": "2026-10-06T10:04:43",
   "points_course": null,
   "villes": [
     {
       "nom": "Brock vin",
       "coordonnees": "[91:22]",
-      "bois": 54721,
-      "vin": 26230,
-      "marbre": 28496,
+      "bois": 64683,
+      "vin": 30669,
+      "marbre": 28064,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 9544,
-      "vin": 5985,
-      "marbre": 40915,
+      "bois": 13077,
+      "vin": 5655,
+      "marbre": 46088,
       "cristal": 0,
       "soufre": 86
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 2834,
+      "bois": 3407,
       "vin": 3725,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 14035
+      "soufre": 14663
     },
     {
       "nom": "Polis",
