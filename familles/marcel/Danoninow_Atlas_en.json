@@ -4,33 +4,33 @@
   "joueur": "Danoninow",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-08T17:20:16",
-  "publie_le": "2026-10-08T17:24:29",
+  "scanne_le": "2026-10-08T14:00:03",
+  "publie_le": "2026-10-08T20:20:40",
   "points_course": null,
   "villes": [
     {
       "nom": "Atlantide",
       "coordonnees": "[94:21]",
-      "bois": 27689,
-      "vin": 42411,
+      "bois": 27991,
+      "vin": 42497,
       "marbre": 0,
-      "cristal": 37169,
+      "cristal": 36905,
       "soufre": 1297
     },
     {
       "nom": "Thèbes",
       "coordonnees": "[90:23]",
-      "bois": 124292,
-      "vin": 3111,
-      "marbre": 205,
-      "cristal": 47983,
+      "bois": 120992,
+      "vin": 3393,
+      "marbre": 171,
+      "cristal": 47270,
       "soufre": 1617
     },
     {
       "nom": "Argos",
       "coordonnees": "[88:20]",
-      "bois": 53899,
-      "vin": 1843,
+      "bois": 52901,
+      "vin": 391,
       "marbre": 0,
       "cristal": 2316,
       "soufre": 10000
@@ -38,18 +38,18 @@
     {
       "nom": "Sparte",
       "coordonnees": "[90:20]",
-      "bois": 289275,
-      "vin": 7004,
+      "bois": 286360,
+      "vin": 7223,
       "marbre": 0,
       "cristal": 2186,
-      "soufre": 93819
+      "soufre": 93143
     },
     {
       "nom": "Athènes",
       "coordonnees": "[89:20]",
-      "bois": 26342,
-      "vin": 3260,
-      "marbre": 7958,
+      "bois": 22796,
+      "vin": 3524,
+      "marbre": 8117,
       "cristal": 788,
       "soufre": 1121
     }
