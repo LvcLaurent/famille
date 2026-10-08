@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "versions": [
+    {
+      "version": "2.3.0",
+      "nom": "Essai du mécanisme de mise à jour",
+      "notes": "## Version d'essai\n\nCelle-ci ne change rien au programme : elle est **identique à la 2.2.3**,\nseul le numéro diffère. Elle existe pour vérifier le mécanisme de mise à\njour de bout en bout — détection, téléchargement, vérification de\nl'empreinte, installation silencieuse et redémarrage.\n\nSi tu lis ces lignes dans « Nouveautés » après une mise à jour qui s'est\nfaite toute seule, c'est que tout a fonctionné.",
+      "publiee_le": "2026-10-08",
+      "fichier": "IkaKit-v2-2.3.0-install.exe",
+      "taille": 65609957,
+      "sha256": "7ae99fc60e6c55056480bd2c94126843f933f40a3479f64b20ecb330406cf865"
+    },
+    {
+      "version": "2.2.3",
+      "nom": "Mises à jour automatiques et recherche",
+      "notes": "## Mises à jour automatiques\n\nIkaKit regarde tout seul, toutes les quatre heures, s'il existe une version\nplus récente — dans le dossier `maj/` du dépôt de la famille. Quand il y en\na une, la ligne sous le titre le dit et propose de l'installer : le\ntéléchargement a sa propre fenêtre, et l'installation attend que les\nsessions en cours se terminent avant de fermer l'application.\n\nDans Configuration : « Vérifier les mises à jour » et « Nouveautés ».\n\n## Recherche automatique\n\nUn onglet **Recherche** dans Up auto : on y coche les recherches autorisées,\net Up auto lance la moins chère de celles que le jeu propose déjà de\nlui-même. L'écran nomme, domaine par domaine, la recherche mise en avant —\nce sont les seules qui puissent partir.\n\n## Corrections\n\n- **La fermeture ne reste plus bloquée.** Up auto, en finissant son passage,\n  pouvait relancer la boucle de construction *après* l'arrêt des autres :\n  une boucle que plus personne n'arrêtait, et une fenêtre d'attente sans\n  fin.\n- **Un bâtiment déjà au bon niveau quitte la file.** Quand le jeu refuse une\n  expansion, la fenêtre ne prouve plus rien ; on lit désormais le niveau\n  dans la grille de la ville. Un Hôtel de ville bloquait ainsi un compte\n  toutes les dix minutes, indéfiniment.",
+      "publiee_le": "2026-10-08"
+    }
+  ]
+}
