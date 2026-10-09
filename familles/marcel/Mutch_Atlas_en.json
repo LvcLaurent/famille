@@ -5,16 +5,16 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-09T14:02:41",
-  "publie_le": "2026-10-09T14:03:56",
+  "publie_le": "2026-10-09T20:21:17",
   "points_course": null,
   "villes": [
     {
       "nom": "Mutch",
       "coordonnees": "[90:23]",
-      "bois": 352218,
+      "bois": 351194,
       "vin": 11416,
       "marbre": 0,
-      "cristal": 103132,
+      "cristal": 99710,
       "soufre": 54
     },
     {
@@ -22,7 +22,7 @@
       "coordonnees": "[93:20]",
       "bois": 66010,
       "vin": 2842,
-      "marbre": 7409,
+      "marbre": 3666,
       "cristal": 17106,
       "soufre": 0
     },
