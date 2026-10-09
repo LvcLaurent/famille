@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-09T14:03:02",
-  "publie_le": "2026-10-09T14:03:56",
+  "publie_le": "2026-10-09T20:21:17",
   "points_course": null,
   "villes": [
     {
       "nom": "Mel",
       "coordonnees": "[90:23]",
-      "bois": 106562,
+      "bois": 99912,
       "vin": 5135,
       "marbre": 0,
       "cristal": 33756,
@@ -20,9 +20,9 @@
     {
       "nom": "m-1",
       "coordonnees": "[89:20]",
-      "bois": 94827,
+      "bois": 90451,
       "vin": 13914,
-      "marbre": 12456,
+      "marbre": 1264,
       "cristal": 1004,
       "soufre": 0
     },
@@ -38,7 +38,7 @@
     {
       "nom": "s-1",
       "coordonnees": "[88:23]",
-      "bois": 425,
+      "bois": 0,
       "vin": 700,
       "marbre": 0,
       "cristal": 0,
