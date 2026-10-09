@@ -5,14 +5,14 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-09T14:00:04",
-  "publie_le": "2026-10-09T14:03:56",
+  "publie_le": "2026-10-09T20:21:17",
   "points_course": null,
   "villes": [
     {
       "nom": "Atlantide",
       "coordonnees": "[94:21]",
-      "bois": 22350,
-      "vin": 41812,
+      "bois": 21690,
+      "vin": 6812,
       "marbre": 0,
       "cristal": 38797,
       "soufre": 1297
@@ -22,16 +22,16 @@
       "coordonnees": "[90:23]",
       "bois": 146341,
       "vin": 1156,
-      "marbre": 144,
-      "cristal": 52598,
+      "marbre": 0,
+      "cristal": 52190,
       "soufre": 1617
     },
     {
       "nom": "Argos",
       "coordonnees": "[88:20]",
       "bois": 61903,
-      "vin": 10019,
-      "marbre": 280,
+      "vin": 800,
+      "marbre": 16,
       "cristal": 2316,
       "soufre": 10000
     },
@@ -40,16 +40,16 @@
       "coordonnees": "[90:20]",
       "bois": 308422,
       "vin": 5464,
-      "marbre": 1,
+      "marbre": 0,
       "cristal": 2186,
       "soufre": 98220
     },
     {
       "nom": "Athènes",
       "coordonnees": "[89:20]",
-      "bois": 45602,
+      "bois": 43712,
       "vin": 1412,
-      "marbre": 4314,
+      "marbre": 0,
       "cristal": 303,
       "soufre": 1121
     }
