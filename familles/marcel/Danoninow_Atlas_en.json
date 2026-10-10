@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-10T14:00:03",
-  "publie_le": "2026-10-10T14:03:42",
+  "publie_le": "2026-10-10T20:22:16",
   "points_course": null,
   "villes": [
     {
@@ -47,9 +47,9 @@
     {
       "nom": "Athènes",
       "coordonnees": "[89:20]",
-      "bois": 75083,
+      "bois": 73307,
       "vin": 24300,
-      "marbre": 5476,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 1121
     }
