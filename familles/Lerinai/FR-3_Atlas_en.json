@@ -4,8 +4,8 @@
   "joueur": "FR-3",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T15:19:35",
-  "publie_le": "2026-10-12T21:30:25",
+  "scanne_le": "2026-10-12T21:32:29",
+  "publie_le": "2026-10-12T21:33:37",
   "points_course": null,
   "villes": [
     {
@@ -20,18 +20,18 @@
     {
       "nom": "POLIS1",
       "coordonnees": "[92:20]",
-      "bois": 0,
+      "bois": null,
       "vin": null,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 0
+      "soufre": 55
     },
     {
       "nom": "POLIS2",
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 0,
+      "marbre": 74,
       "cristal": 0,
       "soufre": 0
     },
@@ -40,7 +40,7 @@
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 0,
+      "marbre": 74,
       "cristal": 0,
       "soufre": 0
     },
@@ -49,16 +49,16 @@
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 0,
+      "marbre": 73,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:22]",
-      "bois": 250,
+      "bois": 266,
       "vin": null,
-      "marbre": 0,
+      "marbre": 18,
       "cristal": 0,
       "soufre": 0
     }
