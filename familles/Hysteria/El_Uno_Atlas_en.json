@@ -5,31 +5,31 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-12T14:49:54",
-  "publie_le": "2026-10-12T14:55:40",
+  "publie_le": "2026-10-12T22:32:08",
   "points_course": null,
   "villes": [
     {
       "nom": "Brock vin",
       "coordonnees": "[91:22]",
-      "bois": 16452,
+      "bois": 14629,
       "vin": 13803,
-      "marbre": 11140,
+      "marbre": 10374,
       "cristal": 0,
       "soufre": 2928
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 11727,
+      "bois": 5474,
       "vin": 6071,
-      "marbre": 10074,
+      "marbre": 4768,
       "cristal": 0,
       "soufre": 86
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 29454,
+      "bois": 27434,
       "vin": 3725,
       "marbre": 0,
       "cristal": 0,
