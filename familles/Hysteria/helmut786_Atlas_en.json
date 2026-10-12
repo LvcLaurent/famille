@@ -4,43 +4,43 @@
   "joueur": "helmut786",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T00:00:59",
-  "publie_le": "2026-10-12T14:39:45",
+  "scanne_le": "2026-10-12T14:46:42",
+  "publie_le": "2026-10-12T14:47:48",
   "points_course": null,
   "villes": [
     {
       "nom": "Brock vin 2",
       "coordonnees": "[91:22]",
-      "bois": 241578,
-      "vin": 94246,
-      "marbre": 15393,
+      "bois": 229660,
+      "vin": 92053,
+      "marbre": 9443,
       "cristal": 639,
-      "soufre": 15887
+      "soufre": 8815
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 14792,
-      "vin": 2509,
-      "marbre": 25673,
+      "bois": 18558,
+      "vin": 2089,
+      "marbre": 35224,
       "cristal": 0,
       "soufre": 74
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 50285,
-      "vin": 32884,
-      "marbre": 330,
+      "bois": 50049,
+      "vin": 37334,
+      "marbre": 284,
       "cristal": 0,
-      "soufre": 811
+      "soufre": 3855
     },
     {
       "nom": "Polis",
       "coordonnees": "[87:19]",
-      "bois": 0,
+      "bois": 63,
       "vin": 2500,
-      "marbre": 76,
+      "marbre": 504,
       "cristal": 0,
       "soufre": 0
     }
