@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "groupe": "Lerinai",
+  "joueur": "FR-5",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-12T15:11:56",
+  "publie_le": "2026-10-12T15:12:56",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "AC1",
+      "coordonnees": "[90:23]",
+      "bois": 175151,
+      "vin": 16061,
+      "marbre": 3032,
+      "cristal": 144982,
+      "soufre": 13261
+    },
+    {
+      "nom": "AC2",
+      "coordonnees": "[90:23]",
+      "bois": 216161,
+      "vin": 1643,
+      "marbre": 11914,
+      "cristal": 23954,
+      "soufre": 13253
+    },
+    {
+      "nom": "AC3",
+      "coordonnees": "[92:20]",
+      "bois": 105750,
+      "vin": 16916,
+      "marbre": 642,
+      "cristal": 19177,
+      "soufre": 38491
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[94:22]",
+      "bois": 65274,
+      "vin": 4982,
+      "marbre": 129770,
+      "cristal": 4055,
+      "soufre": 1888
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[92:20]",
+      "bois": 18814,
+      "vin": 5620,
+      "marbre": 72,
+      "cristal": 2312,
+      "soufre": 11371
+    }
+  ]
+}
