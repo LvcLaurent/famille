@@ -4,15 +4,15 @@
   "joueur": "El Tercero",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T10:25:23",
-  "publie_le": "2026-10-12T14:47:48",
+  "scanne_le": "2026-10-12T14:51:58",
+  "publie_le": "2026-10-12T14:55:11",
   "points_course": null,
   "villes": [
     {
       "nom": "pinard a marcel",
       "coordonnees": "[91:22]",
-      "bois": 116739,
-      "vin": 81872,
+      "bois": 121853,
+      "vin": 84354,
       "marbre": 20988,
       "cristal": 6850,
       "soufre": 7778
@@ -20,27 +20,27 @@
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 4000,
-      "vin": 11537,
-      "marbre": 11844,
+      "bois": 4807,
+      "vin": 11465,
+      "marbre": 12660,
       "cristal": 450,
-      "soufre": 361
+      "soufre": 3361
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 16597,
+      "bois": 16342,
       "vin": 29230,
-      "marbre": 127,
+      "marbre": 2,
       "cristal": 1730,
-      "soufre": 1517
+      "soufre": 1698
     },
     {
       "nom": "Polis",
       "coordonnees": "[87:19]",
-      "bois": 1305,
+      "bois": 1195,
       "vin": 3030,
-      "marbre": 3429,
+      "marbre": 3588,
       "cristal": 530,
       "soufre": 530
     }
