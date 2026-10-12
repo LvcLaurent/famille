@@ -4,8 +4,8 @@
   "joueur": "FR-0",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T15:11:48",
-  "publie_le": "2026-10-12T15:12:56",
+  "scanne_le": "2026-10-12T15:20:01",
+  "publie_le": "2026-10-12T15:20:47",
   "points_course": null,
   "villes": [
     {
@@ -20,9 +20,9 @@
     {
       "nom": "V comme Victime",
       "coordonnees": "[89:20]",
-      "bois": 312413,
+      "bois": 312469,
       "vin": 36546,
-      "marbre": 75963,
+      "marbre": 75980,
       "cristal": 15611,
       "soufre": 18071
     },
