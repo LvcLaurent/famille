@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "groupe": "Hysteria",
+  "joueur": "Atlas-7440",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-12T14:49:45",
+  "publie_le": "2026-10-12T14:55:11",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "vin marcel",
+      "coordonnees": "[91:22]",
+      "bois": 27714,
+      "vin": 26065,
+      "marbre": 26977,
+      "cristal": 8184,
+      "soufre": 11126
+    },
+    {
+      "nom": "marbre",
+      "coordonnees": "[93:20]",
+      "bois": 43476,
+      "vin": 22479,
+      "marbre": 39051,
+      "cristal": 0,
+      "soufre": 1451
+    },
+    {
+      "nom": "cristal",
+      "coordonnees": "[92:23]",
+      "bois": 36341,
+      "vin": 328,
+      "marbre": 45,
+      "cristal": 10311,
+      "soufre": 0
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[89:20]",
+      "bois": 6289,
+      "vin": 2544,
+      "marbre": 18422,
+      "cristal": 0,
+      "soufre": 0
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[90:20]",
+      "bois": 4585,
+      "vin": 0,
+      "marbre": 0,
+      "cristal": 0,
+      "soufre": 2776
+    }
+  ]
+}
