@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-12T15:20:01",
-  "publie_le": "2026-10-12T16:46:37",
+  "publie_le": "2026-10-12T21:30:25",
   "points_course": null,
   "villes": [
     {
       "nom": "Batman",
       "coordonnees": "[92:20]",
-      "bois": 11708,
+      "bois": 10697,
       "vin": 13813,
       "marbre": 15426,
       "cristal": 14971,
@@ -20,7 +20,7 @@
     {
       "nom": "V comme Victime",
       "coordonnees": "[89:20]",
-      "bois": 295590,
+      "bois": 295031,
       "vin": 36546,
       "marbre": 75980,
       "cristal": 15611,
@@ -38,7 +38,7 @@
     {
       "nom": "Polis",
       "coordonnees": "[23:63]",
-      "bois": 11330,
+      "bois": 11164,
       "vin": 13330,
       "marbre": 11330,
       "cristal": 13773,
