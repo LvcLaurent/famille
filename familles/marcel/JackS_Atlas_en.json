@@ -4,45 +4,45 @@
   "joueur": "JackS",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T02:02:54",
-  "publie_le": "2026-10-12T02:03:29",
+  "scanne_le": "2026-10-12T14:03:22",
+  "publie_le": "2026-10-12T14:03:58",
   "points_course": null,
   "villes": [
     {
       "nom": "Jack_S",
       "coordonnees": "[90:23]",
-      "bois": 352339,
-      "vin": 10455,
-      "marbre": 2255,
-      "cristal": 116151,
+      "bois": 361572,
+      "vin": 9959,
+      "marbre": 0,
+      "cristal": 122345,
       "soufre": 23324
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 188255,
-      "vin": 160854,
-      "marbre": 673,
+      "bois": 191815,
+      "vin": 164442,
+      "marbre": 39,
       "cristal": 8450,
       "soufre": 8450
     },
     {
       "nom": "m-1",
       "coordonnees": "[94:22]",
-      "bois": 46689,
-      "vin": 18686,
-      "marbre": 15409,
+      "bois": 50841,
+      "vin": 18190,
+      "marbre": 16323,
       "cristal": 8450,
       "soufre": 8450
     },
     {
       "nom": "s-1",
       "coordonnees": "[92:20]",
-      "bois": 55143,
-      "vin": 10422,
-      "marbre": 5653,
+      "bois": 52804,
+      "vin": 9990,
+      "marbre": 0,
       "cristal": 7625,
-      "soufre": 59665
+      "soufre": 63218
     }
   ]
 }
