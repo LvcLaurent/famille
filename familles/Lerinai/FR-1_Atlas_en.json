@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "groupe": "Lerinai",
+  "joueur": "FR-1",
+  "monde": "Atlas",
+  "pays": "en",
+  "scanne_le": "2026-10-12T15:19:08",
+  "publie_le": "2026-10-12T15:20:47",
+  "points_course": null,
+  "villes": [
+    {
+      "nom": "Cristal",
+      "coordonnees": "[92:23]",
+      "bois": null,
+      "vin": 486,
+      "marbre": null,
+      "cristal": null,
+      "soufre": null
+    },
+    {
+      "nom": "Marbre",
+      "coordonnees": "[89:20]",
+      "bois": null,
+      "vin": null,
+      "marbre": null,
+      "cristal": null,
+      "soufre": 0
+    },
+    {
+      "nom": "Vin",
+      "coordonnees": "[88:20]",
+      "bois": null,
+      "vin": null,
+      "marbre": null,
+      "cristal": 0,
+      "soufre": 0
+    },
+    {
+      "nom": "Souffre",
+      "coordonnees": "[90:20]",
+      "bois": null,
+      "vin": null,
+      "marbre": null,
+      "cristal": 0,
+      "soufre": 0
+    },
+    {
+      "nom": "Souffre2",
+      "coordonnees": "[92:20]",
+      "bois": null,
+      "vin": null,
+      "marbre": null,
+      "cristal": null,
+      "soufre": null
+    },
+    {
+      "nom": "Polis",
+      "coordonnees": "[92:20]",
+      "bois": 250,
+      "vin": 450,
+      "marbre": 0,
+      "cristal": 0,
+      "soufre": 0
+    }
+  ]
+}
