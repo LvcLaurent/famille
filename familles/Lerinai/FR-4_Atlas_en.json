@@ -4,8 +4,8 @@
   "joueur": "FR-4",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-13T03:00:53",
-  "publie_le": "2026-10-13T03:01:58",
+  "scanne_le": "2026-10-13T19:36:10",
+  "publie_le": "2026-10-13T19:37:23",
   "points_course": null,
   "villes": [
     {
@@ -33,7 +33,7 @@
       "vin": null,
       "marbre": null,
       "cristal": 321,
-      "soufre": 957
+      "soufre": null
     }
   ]
 }
