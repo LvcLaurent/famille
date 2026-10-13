@@ -4,15 +4,15 @@
   "joueur": "El Segundo",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T14:47:38",
-  "publie_le": "2026-10-13T10:28:13",
+  "scanne_le": "2026-10-14T01:00:10",
+  "publie_le": "2026-10-14T01:03:31",
   "points_course": null,
   "villes": [
     {
       "nom": "Djo vino I",
       "coordonnees": "[91:22]",
-      "bois": 231482,
-      "vin": 167490,
+      "bois": 256748,
+      "vin": 191567,
       "marbre": 3596,
       "cristal": 0,
       "soufre": 5942
@@ -20,20 +20,20 @@
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 64615,
-      "vin": 23417,
-      "marbre": 6180,
+      "bois": 97827,
+      "vin": 26132,
+      "marbre": 12776,
       "cristal": 0,
       "soufre": 7057
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 94085,
-      "vin": 3538,
-      "marbre": 0,
+      "bois": 75056,
+      "vin": 3083,
+      "marbre": 633,
       "cristal": 0,
-      "soufre": 1505
+      "soufre": 3903
     }
   ]
 }
