@@ -2,13 +2,19 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.5",
+      "nom": "Les grands nombres se lisent partout",
+      "notes": "## Les grands nombres se lisent enfin partout\n\nSur certains comptes, **aucune valeur supérieure ou égale à 1 000 n'était lue**.\nNi les stocks, ni l'or, ni la population : tout ce qui dépassait trois chiffres\nrevenait vide, et s'affichait « — ».\n\nLa cause : le séparateur de milliers dépend de la **langue d'affichage du jeu**,\nqui se règle compte par compte — pas du serveur. IkaKit ne retirait que les\nespaces. Un compte qui affiche `1,364,505` à l'anglaise, `1.364.505` à\nl'allemande ou `1'364'505` à la suisse devenait donc illisible d'un coup.\n\nLe chiffre qui l'a démasqué, relevé le 13/10/2026 : sur quatre comptes d'un même\njoueur, **57 valeurs manquantes sur 33 villes, et pas une seule au-dessus de\n980** — tandis que ses trois autres comptes lisaient 316 881 sans broncher. Les\nsept sont pourtant sur le même serveur.\n\n**Ce n'était pas qu'un affichage.** Une valeur illisible n'est pas zéro : elle est\n*inconnue*. Up auto décidait donc des constructions et des approvisionnements de\nces villes sans savoir ce qu'elles avaient en magasin.\n\nLes quatre écritures sont désormais acceptées. La règle exige des groupes de\n**trois chiffres exactement** et un séparateur constant, ce qui la rend sûre :\nun nombre à virgule ne peut pas être multiplié par mille par erreur — `12,07`\nreste refusé, et `12,07M` garde son sens.\n\nRien à faire de votre côté : les valeurs manquantes se remplissent toutes seules\nau premier scan après la mise à jour.",
+      "publiee_le": "2026-10-13",
+      "fichier": "IkaKit-v2-2.4.5-install.exe",
+      "taille": 64211683,
+      "sha256": "bbcb44a257a696f4a034ffb7090b392b59e8082a112e5e08002a2511450cbb39"
+    },
+    {
       "version": "2.4.4",
       "nom": "Les stocks qui ne s'effacent plus",
       "notes": "## Les stocks ne s'effacent plus tout seuls\n\nCertaines villes affichaient **« — » au lieu d'un chiffre** dans la fenêtre\nRessources — pas un zéro, un trou : la valeur n'avait pas été lue du tout.\n\nLa cause : le relevé d'une ville ne vérifiait que la **grille des bâtiments**.\nLe bandeau des cinq stocks, en haut de la page, vit ailleurs et peut arriver\naprès elle. IkaKit recopiait alors des cases encore vides, et le dépôt\nremplaçait par du vide ce qu'il savait déjà.\n\nCe qui l'a prouvé : le bois manquait sur huit villes sur neuf — une ville\nd'Ikariam a toujours du bois — et la **même** ville, au passage suivant,\nrendait le bois mais plus le marbre. Un retard, donc, pas un état du jeu.\n\nDeux correctifs :\n\n- **on attend le bandeau** avant de recopier. Sans jamais abandonner la ville\n  pour autant : si l'attente n'aboutit pas, on prend ce qu'on a et le journal\n  le dit, en nommant les ressources manquantes ;\n- **un stock connu ne peut plus être écrasé par du vide.** À l'enregistrement,\n  une valeur non lue reprend celle du relevé précédent, tant qu'il a moins de\n  douze heures. Au-delà, le « — » honnête revient : un chiffre d'hier présenté\n  comme celui d'aujourd'hui tromperait plus qu'il n'aiderait.\n\nLe défaut existait sur toutes les machines. Il ne se voyait que là où la page\narrive un peu plus lentement — une connexion partagée depuis un téléphone,\nun Wi-Fi faible, un déplacement.\n\n## L'export de journaux emporte les stocks\n\nNouvelle case **« avec les stocks »**, cochée par défaut, à côté de celle des\ncaptures. Elle joint au journal le même résumé que la publication famille :\npar ville, son nom, ses coordonnées et ses cinq stocks.\n\n**Ni troupes, ni recherches, ni bâtiments** — le dépôt est public, et les\neffectifs d'un joueur dans un jeu où l'on s'attaque n'ont rien à y faire.\n\nElle est cochée par défaut parce qu'elle pèse quelques dizaines de kilooctets\net qu'elle sert exactement quand on ne l'avait pas prévu : le journal dit\nqu'une valeur *manque*, les stocks disent ce qu'elle *vaut*. Pour un chiffre\nfaux plutôt qu'absent, c'est la seule pièce utile.\n\nLe fichier part à côté du journal, sous `log/<pseudo>/stocks_AAAAMMJJHHMM.json`.",
-      "publiee_le": "2026-10-13",
-      "fichier": "IkaKit-v2-2.4.4-install.exe",
-      "taille": 64206240,
-      "sha256": "63e757cf1069a48994f56def3bfe037d4fddde8b7ec08d969135b061775b13c9"
+      "publiee_le": "2026-10-13"
     },
     {
       "version": "2.4.3",
