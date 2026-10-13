@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-13T14:03:10",
-  "publie_le": "2026-10-13T14:04:19",
+  "publie_le": "2026-10-13T20:24:25",
   "points_course": null,
   "villes": [
     {
       "nom": "Mutch",
       "coordonnees": "[90:23]",
-      "bois": 287668,
+      "bois": 267552,
       "vin": 4195,
       "marbre": 0,
       "cristal": 113042,
@@ -20,25 +20,25 @@
     {
       "nom": "m-1",
       "coordonnees": "[93:20]",
-      "bois": 39599,
+      "bois": 39150,
       "vin": 10767,
-      "marbre": 35389,
+      "marbre": 31911,
       "cristal": 24100,
       "soufre": 12050
     },
     {
       "nom": "s-1",
       "coordonnees": "[90:20]",
-      "bois": 215159,
+      "bois": 214962,
       "vin": 423,
-      "marbre": 123,
+      "marbre": 23,
       "cristal": 10850,
-      "soufre": 76833
+      "soufre": 74221
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 573,
+      "bois": 442,
       "vin": 131,
       "marbre": 0,
       "cristal": 0,
