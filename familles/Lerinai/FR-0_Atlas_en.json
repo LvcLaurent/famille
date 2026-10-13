@@ -4,43 +4,43 @@
   "joueur": "FR-0",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T21:31:19",
-  "publie_le": "2026-10-12T21:33:37",
+  "scanne_le": "2026-10-13T03:00:03",
+  "publie_le": "2026-10-13T03:01:58",
   "points_course": null,
   "villes": [
     {
       "nom": "Batman",
       "coordonnees": "[92:20]",
-      "bois": 11217,
-      "vin": 13555,
-      "marbre": 15239,
+      "bois": 11832,
+      "vin": 13297,
+      "marbre": 15049,
       "cristal": 14971,
-      "soufre": 12424
+      "soufre": 13285
     },
     {
       "nom": "V comme Victime",
       "coordonnees": "[89:20]",
-      "bois": 298854,
-      "vin": 36588,
-      "marbre": 79546,
+      "bois": 302471,
+      "vin": 36180,
+      "marbre": 83555,
       "cristal": 15611,
       "soufre": 18071
     },
     {
       "nom": "Ici",
       "coordonnees": "[92:20]",
-      "bois": 9463,
-      "vin": 10582,
+      "bois": 9708,
+      "vin": 10474,
       "marbre": 8690,
       "cristal": 8823,
-      "soufre": 8791
+      "soufre": 8912
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 10903,
-      "vin": 13136,
-      "marbre": 11143,
+      "bois": 10517,
+      "vin": 12961,
+      "marbre": 10953,
       "cristal": 13773,
       "soufre": 11400
     }
