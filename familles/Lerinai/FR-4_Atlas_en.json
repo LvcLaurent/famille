@@ -4,8 +4,8 @@
   "joueur": "FR-4",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-12T21:32:09",
-  "publie_le": "2026-10-12T21:33:37",
+  "scanne_le": "2026-10-13T03:00:53",
+  "publie_le": "2026-10-13T03:01:58",
   "points_course": null,
   "villes": [
     {
@@ -22,7 +22,7 @@
       "coordonnees": "[94:22]",
       "bois": null,
       "vin": null,
-      "marbre": 896,
+      "marbre": null,
       "cristal": 0,
       "soufre": 0
     },
@@ -33,7 +33,7 @@
       "vin": null,
       "marbre": null,
       "cristal": 321,
-      "soufre": 557
+      "soufre": 957
     }
   ]
 }
