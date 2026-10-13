@@ -4,15 +4,15 @@
   "joueur": "FR-1",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-13T03:00:30",
-  "publie_le": "2026-10-13T03:01:58",
+  "scanne_le": "2026-10-13T19:36:05",
+  "publie_le": "2026-10-13T19:37:23",
   "points_course": null,
   "villes": [
     {
       "nom": "Cristal",
       "coordonnees": "[92:23]",
       "bois": null,
-      "vin": 126,
+      "vin": 6,
       "marbre": null,
       "cristal": null,
       "soufre": null
@@ -42,7 +42,7 @@
       "vin": null,
       "marbre": null,
       "cristal": 0,
-      "soufre": 49
+      "soufre": 198
     },
     {
       "nom": "Souffre2",
@@ -56,11 +56,11 @@
     {
       "nom": "Polis",
       "coordonnees": "[92:20]",
-      "bois": 11,
+      "bois": 83,
       "vin": 450,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 28
+      "soufre": 75
     }
   ]
 }
