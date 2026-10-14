@@ -5,33 +5,33 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-14T01:03:13",
-  "publie_le": "2026-10-14T01:03:31",
+  "publie_le": "2026-10-14T10:29:15",
   "points_course": null,
   "villes": [
     {
       "nom": "Oly City",
       "coordonnees": "[91:22]",
-      "bois": 204961,
+      "bois": 202196,
       "vin": 159811,
-      "marbre": 50833,
+      "marbre": 49478,
       "cristal": 0,
       "soufre": 22815
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 24157,
+      "bois": 23024,
       "vin": 29976,
-      "marbre": 17491,
+      "marbre": 12036,
       "cristal": 0,
       "soufre": 69
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 58404,
+      "bois": 57943,
       "vin": 204,
-      "marbre": 41,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 13311
     }
