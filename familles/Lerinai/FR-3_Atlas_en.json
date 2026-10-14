@@ -4,15 +4,15 @@
   "joueur": "FR-3",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-13T21:59:31",
-  "publie_le": "2026-10-13T22:00:54",
+  "scanne_le": "2026-10-14T09:25:32",
+  "publie_le": "2026-10-14T09:26:44",
   "points_course": null,
   "villes": [
     {
       "nom": "Capital",
       "coordonnees": "[94:22]",
       "bois": null,
-      "vin": 980,
+      "vin": 692,
       "marbre": null,
       "cristal": null,
       "soufre": 0
@@ -31,7 +31,7 @@
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 316,
+      "marbre": 506,
       "cristal": 0,
       "soufre": 0
     },
@@ -40,7 +40,7 @@
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 481,
+      "marbre": 671,
       "cristal": 0,
       "soufre": 0
     },
@@ -49,16 +49,16 @@
       "coordonnees": "[93:20]",
       "bois": null,
       "vin": null,
-      "marbre": 481,
+      "marbre": 671,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:22]",
-      "bois": 360,
+      "bois": 404,
       "vin": null,
-      "marbre": 123,
+      "marbre": 172,
       "cristal": 0,
       "soufre": 0
     }
