@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-15T01:01:24",
-  "publie_le": "2026-10-15T01:04:47",
+  "publie_le": "2026-10-15T10:30:27",
   "points_course": null,
   "villes": [
     {
       "nom": "Ark city",
       "coordonnees": "[91:22]",
-      "bois": 94092,
+      "bois": 92159,
       "vin": 26307,
       "marbre": 12869,
       "cristal": 4905,
@@ -22,23 +22,23 @@
       "coordonnees": "[92:22]",
       "bois": 81986,
       "vin": 39749,
-      "marbre": 73611,
+      "marbre": 71817,
       "cristal": 9214,
       "soufre": 216
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 31713,
+      "bois": 31142,
       "vin": 4320,
-      "marbre": 11110,
+      "marbre": 11012,
       "cristal": 0,
       "soufre": 5912
     },
     {
       "nom": "Cristal1",
       "coordonnees": "[94:21]",
-      "bois": 490,
+      "bois": 254,
       "vin": 24991,
       "marbre": 0,
       "cristal": 10886,
@@ -47,9 +47,9 @@
     {
       "nom": "Marbre2",
       "coordonnees": "[89:20]",
-      "bois": 35148,
+      "bois": 34813,
       "vin": 6281,
-      "marbre": 31884,
+      "marbre": 31832,
       "cristal": 0,
       "soufre": 226
     }
