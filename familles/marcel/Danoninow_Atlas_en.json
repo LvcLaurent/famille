@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-16T14:00:04",
-  "publie_le": "2026-10-16T14:04:22",
+  "publie_le": "2026-10-17T00:15:08",
   "points_course": null,
   "villes": [
     {
@@ -30,7 +30,7 @@
       "nom": "Argos",
       "coordonnees": "[88:20]",
       "bois": 136025,
-      "vin": 31585,
+      "vin": 30085,
       "marbre": 7,
       "cristal": 2316,
       "soufre": 10000
@@ -47,9 +47,9 @@
     {
       "nom": "Athènes",
       "coordonnees": "[89:20]",
-      "bois": 286013,
+      "bois": 278924,
       "vin": 18503,
-      "marbre": 23027,
+      "marbre": 15010,
       "cristal": 0,
       "soufre": 1121
     }
