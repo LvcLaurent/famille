@@ -5,16 +5,16 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-16T14:04:05",
-  "publie_le": "2026-10-16T14:04:22",
+  "publie_le": "2026-10-17T00:15:08",
   "points_course": null,
   "villes": [
     {
       "nom": "GangP",
       "coordonnees": "[90:23]",
-      "bois": 375651,
-      "vin": 42463,
+      "bois": 374627,
+      "vin": 1963,
       "marbre": 266,
-      "cristal": 94897,
+      "cristal": 91475,
       "soufre": 12743
     },
     {
@@ -22,7 +22,7 @@
       "coordonnees": "[93:20]",
       "bois": 63733,
       "vin": 32,
-      "marbre": 43724,
+      "marbre": 38295,
       "cristal": 1817,
       "soufre": 5059
     },
@@ -39,7 +39,7 @@
       "nom": "v-1",
       "coordonnees": "[88:20]",
       "bois": 64218,
-      "vin": 13676,
+      "vin": 800,
       "marbre": 0,
       "cristal": 0,
       "soufre": 0
