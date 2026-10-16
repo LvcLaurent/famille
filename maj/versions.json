@@ -2,13 +2,19 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.6",
+      "nom": "Plus de plantage, et le bois arrive aux mines",
+      "notes": "## L'application ne meurt plus en pleine nuit\n\nUne session longue pouvait s'arrêter net, sans message : **violation d'accès**.\nConstaté le 15/10/2026 à 01:21, après dix-sept heures de marche.\n\nLa cause était dans la 2.4.4. Pour éviter qu'un stock non lu n'efface un stock\nconnu, chaque enregistrement relisait le relevé précédent — y compris lors\nd'un simple « noter un chantier », où cette relecture ne trouve jamais rien.\nElle n'était pas gratuite pour autant : reconstruire tout le compte déclenche\nun ramasse-miettes sur un fil de travail, au moment précis où l'écran\nBâtiments fabrique ses widgets. Le ramasse-miettes d'un fil peut alors\ndétruire un objet né sur l'autre, et le programme tombe.\n\nLa relecture n'a lieu que sur le chemin du **scan**, désormais — le seul qui\nlise vraiment des stocks, donc le seul qui puisse en manquer. La protection\ndes « — » reste entière, son coût disparaît partout ailleurs.\n\nAucune donnée n'a été perdue dans l'incident : l'écriture atomique a tenu.\n\n## Le bois envoyé aux mines arrive enfin dans les mines\n\nUne ville qui déborde de bois l'expédie vers une de nos villes d'une île qui\nen demande — le formulaire du jeu ne permet de donner qu'à la mine de sa\npropre île, d'où le détour par bateau.\n\nMais à l'arrivée, **rien ne se passait**. La ville de destination n'est pas\nen surplus, justement : c'est pour ça qu'on lui envoyait du bois. Elle ne\ndonnait donc qu'une fois son propre entrepôt au-dessus de 85 %.\n\nLe chiffre, relevé sur un compte les 13 et 14 octobre : **sept convois,\n118 500 de bois expédiés en douze heures, et pas un gramme donné**. Il aurait\nfallu treize voyages de plus pour que la ville d'arrivée franchisse son seuil.\n\nDésormais, un envoi pour les mines **laisse une promesse**. Le bois arrivé\nressemble à n'importe quel autre bois ; seul l'expéditeur sait à quoi il était\ndestiné, alors on l'écrit au départ :\n\n- l'heure d'arrivée **réveille le compte**, au lieu d'attendre le passage\n  ordinaire ;\n- la mine visée est celle qui est sous sa cible, scierie ou mine de luxe ;\n- le jeu ne prend que ce que le niveau réclame, le reste demeure en ville ;\n- et la promesse n'est effacée **que si du bois est réellement passé**. Une\n  mine déjà en expansion n'accepte rien : c'est une attente, pas un échec, et\n  le bois sera versé au passage suivant plutôt qu'oublié.\n\nVérifié en conditions réelles le 16/10 : 28 000 de bois arrivés par bateau,\nversés à la scierie dans la minute.",
+      "publiee_le": "2026-10-16",
+      "fichier": "IkaKit-v2-2.4.6-install.exe",
+      "taille": 64229083,
+      "sha256": "48f58482dc607015468e0eef4355b83bfc7ff6824a78cfdbc0d43882bab2215f"
+    },
+    {
       "version": "2.4.5",
       "nom": "Les grands nombres se lisent partout",
       "notes": "## Les grands nombres se lisent enfin partout\n\nSur certains comptes, **aucune valeur supérieure ou égale à 1 000 n'était lue**.\nNi les stocks, ni l'or, ni la population : tout ce qui dépassait trois chiffres\nrevenait vide, et s'affichait « — ».\n\nLa cause : le séparateur de milliers dépend de la **langue d'affichage du jeu**,\nqui se règle compte par compte — pas du serveur. IkaKit ne retirait que les\nespaces. Un compte qui affiche `1,364,505` à l'anglaise, `1.364.505` à\nl'allemande ou `1'364'505` à la suisse devenait donc illisible d'un coup.\n\nLe chiffre qui l'a démasqué, relevé le 13/10/2026 : sur quatre comptes d'un même\njoueur, **57 valeurs manquantes sur 33 villes, et pas une seule au-dessus de\n980** — tandis que ses trois autres comptes lisaient 316 881 sans broncher. Les\nsept sont pourtant sur le même serveur.\n\n**Ce n'était pas qu'un affichage.** Une valeur illisible n'est pas zéro : elle est\n*inconnue*. Up auto décidait donc des constructions et des approvisionnements de\nces villes sans savoir ce qu'elles avaient en magasin.\n\nLes quatre écritures sont désormais acceptées. La règle exige des groupes de\n**trois chiffres exactement** et un séparateur constant, ce qui la rend sûre :\nun nombre à virgule ne peut pas être multiplié par mille par erreur — `12,07`\nreste refusé, et `12,07M` garde son sens.\n\nRien à faire de votre côté : les valeurs manquantes se remplissent toutes seules\nau premier scan après la mise à jour.",
-      "publiee_le": "2026-10-13",
-      "fichier": "IkaKit-v2-2.4.5-install.exe",
-      "taille": 64211683,
-      "sha256": "bbcb44a257a696f4a034ffb7090b392b59e8082a112e5e08002a2511450cbb39"
+      "publiee_le": "2026-10-13"
     },
     {
       "version": "2.4.4",
