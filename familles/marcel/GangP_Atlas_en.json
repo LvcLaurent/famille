@@ -4,43 +4,43 @@
   "joueur": "GangP",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-18T02:04:05",
-  "publie_le": "2026-10-18T08:58:01",
+  "scanne_le": "2026-10-18T14:03:12",
+  "publie_le": "2026-10-18T14:03:28",
   "points_course": null,
   "villes": [
     {
       "nom": "GangP",
       "coordonnees": "[90:23]",
-      "bois": 275892,
-      "vin": 14090,
+      "bois": 296771,
+      "vin": 13574,
       "marbre": 1236,
-      "cristal": 75630,
+      "cristal": 80020,
       "soufre": 12743
     },
     {
       "nom": "m-1",
       "coordonnees": "[93:20]",
-      "bois": 87118,
-      "vin": 5252,
-      "marbre": 37978,
+      "bois": 29551,
+      "vin": 4736,
+      "marbre": 22540,
       "cristal": 1546,
       "soufre": 5059
     },
     {
       "nom": "S-1",
       "coordonnees": "[88:23]",
-      "bois": 2875,
-      "vin": 41921,
-      "marbre": 270,
+      "bois": 368,
+      "vin": 41405,
+      "marbre": 227,
       "cristal": 0,
-      "soufre": 32656
+      "soufre": 33993
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 78101,
-      "vin": 4227,
-      "marbre": 0,
+      "bois": 82700,
+      "vin": 7656,
+      "marbre": 1,
       "cristal": 0,
       "soufre": 0
     }
