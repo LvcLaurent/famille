@@ -2,13 +2,19 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.8",
+      "nom": "Le bouton Configuration, et le jeton Discord qui sort du paquet",
+      "notes": "Correctif de la 2.4.7, à installer par-dessus.\n\n### Le bouton Configuration ne faisait plus rien\n\nUne faute de frappe dans la fenêtre : l'erreur était levée **au clic**, pas au démarrage, donc rien ne la signalait. Un contrôle vérifie désormais que chaque écran s'ouvre — c'est la deuxième fois que Configuration tombait ainsi.\n\n### Le jeton Discord se saisit dans Configuration\n\nIl était livré avec l'application. **Discord l'a révoqué** quelques heures après la publication de la 2.4.7 : son scanner l'a trouvé dans l'installeur. L'alerte corsaire de la 2.4.7 ne pouvait donc pas fonctionner.\n\nLe jeton se colle maintenant dans **Configuration → Alerte corsaire**, reste sur votre machine et n'est jamais publié. Demandez-le en privé si vous voulez l'alerte ; sans lui, le reste de l'application fonctionne normalement.",
+      "publiee_le": "2026-10-18",
+      "fichier": "IkaKit-v2-2.4.8-install.exe",
+      "taille": 65897329,
+      "sha256": "8d442c59e414038ef15045f333f89ba91bdd0195ead71386056de28f76102852"
+    },
+    {
       "version": "2.4.7",
       "nom": "L'alerte corsaire, et des raids qui partent du bon endroit",
       "notes": "### Nouveau\n\n- **Alerte** (bouton sous Bastion) : prévient sur Discord quand une course de corsaires arrive sur une de vos villes. Dix comptes en moins d'une minute, une alerte par mouvement, liste de pseudos à ignorer.\n- **Atelier** dans Up auto : une cible par unité et par type, la moins chère en cristal d'abord.\n- **Groupes de pillage**, avec le délai de votre choix entre deux villes.\n- **« Programmer… »** : une série à partir des cibles déjà au carnet, sans rescanner.\n- **« Interrompre la série »** : arrête le passage en cours, le groupe repart à l'occurrence suivante.\n\n### Corrigé\n\n- **Sanctuaire** : un palier donne un niveau, pas une ville — la cible était jetée en silence. Neuf comptes visaient le niveau 10 sans jamais monter.\n- **D'où part une course** : le Bastion se bâtit dans chaque ville, et l'application ne basculait jamais. Un scan lancé depuis une ville sans Bastion marquait toute l'île « Raid : non ».\n- **Constructions bloquées** : le prix affiché est arrondi, on expédiait pile ce montant et le jeu refusait sans un mot. 91 clics sans effet en quinze heures sur une seule case. On envoie désormais une unité de plus, et on abandonne au bout de trois essais.\n- Les villes que le jeu ne propose qu'au **pillage** sont cochables dans un scan d'île.\n- La fenêtre Raid & pillage s'ouvre plus grande, le carnet n'est plus écrasé.",
-      "publiee_le": "2026-10-18",
-      "fichier": "IkaKit-v2-2.4.7-install.exe",
-      "taille": 65880539,
-      "sha256": "bf48a833cf3026995a148158e1c8cc628b7f580e645061ab55ac01cabee8e48b"
+      "publiee_le": "2026-10-18"
     },
     {
       "version": "2.4.6",
