@@ -2,13 +2,19 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.9",
+      "nom": "Qui est prévenu, et ce qu'on ne dit pas",
+      "notes": "### Nouveau\n\n- **Qui est prévenu** : l'alerte corsaire sonne `@everyone`, et une case par personne permet d'en mentionner d'autres dans le même message. « Tester l'envoi » sonne à l'identique, seul moyen de vérifier que le bot a bien le droit de mentionner.\n- **Les raids tus apparaissent au journal** : ceux d'un attaquant ignoré, et ceux déjà annoncés. Sans eux, « personne ne te raide » et « on te raide, on se tait » se ressemblaient exactement.",
+      "publiee_le": "2026-10-18",
+      "fichier": "IkaKit-v2-2.4.9-install.exe",
+      "taille": 65882781,
+      "sha256": "068282beff52085bc736d1a15f9c9fed779396763cbefd6bde38de90f7ef8fc7"
+    },
+    {
       "version": "2.4.8",
       "nom": "Le bouton Configuration, et le jeton Discord qui sort du paquet",
       "notes": "Correctif de la 2.4.7, à installer par-dessus.\n\n### Le bouton Configuration ne faisait plus rien\n\nUne faute de frappe dans la fenêtre : l'erreur était levée **au clic**, pas au démarrage, donc rien ne la signalait. Un contrôle vérifie désormais que chaque écran s'ouvre — c'est la deuxième fois que Configuration tombait ainsi.\n\n### Le jeton Discord se saisit dans Configuration\n\nIl était livré avec l'application. **Discord l'a révoqué** quelques heures après la publication de la 2.4.7 : son scanner l'a trouvé dans l'installeur. L'alerte corsaire de la 2.4.7 ne pouvait donc pas fonctionner.\n\nLe jeton se colle maintenant dans **Configuration → Alerte corsaire**, reste sur votre machine et n'est jamais publié. Demandez-le en privé si vous voulez l'alerte ; sans lui, le reste de l'application fonctionne normalement.",
-      "publiee_le": "2026-10-18",
-      "fichier": "IkaKit-v2-2.4.8-install.exe",
-      "taille": 65897329,
-      "sha256": "8d442c59e414038ef15045f333f89ba91bdd0195ead71386056de28f76102852"
+      "publiee_le": "2026-10-18"
     },
     {
       "version": "2.4.7",
