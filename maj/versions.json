@@ -2,13 +2,22 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.10",
+      "nom": "Claudus, et les notifications SMS",
+      "notes": "### Nouveau\n\n- **Claudus** (bouton sous Alerte) : vos applications se demandent des ripostes entre elles. Quand un compte se fait raider, l'alerte demande à la personne choisie d'aller taper l'attaquant ; son IkaKit ouvre le compte réglé et lance la course, ou annonce dans le salon quand son navire sera libre. **Éteint par défaut**, et une demande qui ne porte pas l'identifiant réglé dans Claudus est ignorée.\n- **Prévenir par SMS** dans Alerte : notification Jeedom pour Hysteria et Marcel, avec le même détail que sur Discord et un bouton « Tester les SMS ». Rien de coché par défaut — faire sonner un téléphone n'est pas du même ordre que poster dans un salon.\n- **Qui doit intervenir** se choisit dans Alerte, et chaque compte peut en être exclu : certains multis ne valent pas qu'on dérange quelqu'un.\n- **Les groupes de raid se mettent en pause** le temps d'une riposte — un compte n'a qu'un navire de corsaires. Ils repartent dès la course lancée, et le démarrage de l'application lève toute pause restée en l'air.\n\n### À surveiller\n\nClaudus a tourné trois fois en vrai avant publication, mais c'est la première fonction qui fait **agir la machine de quelqu'un d'autre**. Les deux écrans se règlent séparément, et il faut les deux pour qu'une riposte parte : **Alerte** dit qui vous appelez, **Claudus** dit ce que votre machine accepte d'entendre. Tant que Claudus est éteint, personne ne peut rien déclencher chez vous.",
+      "publiee_le": "2026-10-19",
+      "fichier": "IkaKit-v2-2.4.10-install.exe",
+      "taille": 64386817,
+      "sha256": "7dd69c177570a72d30d93b135a8e83810e28eb41ca29382c1cad534d041f0ec7"
+    },
+    {
       "version": "2.4.9",
       "nom": "Qui est prévenu, et ce qu'on ne dit pas",
       "notes": "### Nouveau\n\n- **Qui est prévenu** : l'alerte corsaire sonne `@everyone`, et une case par personne permet d'en mentionner d'autres dans le même message. « Tester l'envoi » sonne à l'identique, seul moyen de vérifier que le bot a bien le droit de mentionner.\n- **Les raids tus apparaissent au journal** : ceux d'un attaquant ignoré, et ceux déjà annoncés. Sans eux, « personne ne te raide » et « on te raide, on se tait » se ressemblaient exactement.",
       "publiee_le": "2026-10-18",
-      "fichier": "IkaKit-v2-2.4.9-install.exe",
-      "taille": 65882781,
-      "sha256": "068282beff52085bc736d1a15f9c9fed779396763cbefd6bde38de90f7ef8fc7"
+      "fichier": null,
+      "taille": null,
+      "sha256": null
     },
     {
       "version": "2.4.8",
