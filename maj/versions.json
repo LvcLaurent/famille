@@ -2,13 +2,19 @@
   "version": 1,
   "versions": [
     {
+      "version": "2.4.7",
+      "nom": "L'alerte corsaire, et des raids qui partent du bon endroit",
+      "notes": "### Nouveau\n\n- **Alerte** (bouton sous Bastion) : prévient sur Discord quand une course de corsaires arrive sur une de vos villes. Dix comptes en moins d'une minute, une alerte par mouvement, liste de pseudos à ignorer.\n- **Atelier** dans Up auto : une cible par unité et par type, la moins chère en cristal d'abord.\n- **Groupes de pillage**, avec le délai de votre choix entre deux villes.\n- **« Programmer… »** : une série à partir des cibles déjà au carnet, sans rescanner.\n- **« Interrompre la série »** : arrête le passage en cours, le groupe repart à l'occurrence suivante.\n\n### Corrigé\n\n- **Sanctuaire** : un palier donne un niveau, pas une ville — la cible était jetée en silence. Neuf comptes visaient le niveau 10 sans jamais monter.\n- **D'où part une course** : le Bastion se bâtit dans chaque ville, et l'application ne basculait jamais. Un scan lancé depuis une ville sans Bastion marquait toute l'île « Raid : non ».\n- **Constructions bloquées** : le prix affiché est arrondi, on expédiait pile ce montant et le jeu refusait sans un mot. 91 clics sans effet en quinze heures sur une seule case. On envoie désormais une unité de plus, et on abandonne au bout de trois essais.\n- Les villes que le jeu ne propose qu'au **pillage** sont cochables dans un scan d'île.\n- La fenêtre Raid & pillage s'ouvre plus grande, le carnet n'est plus écrasé.",
+      "publiee_le": "2026-10-18",
+      "fichier": "IkaKit-v2-2.4.7-install.exe",
+      "taille": 65880539,
+      "sha256": "bf48a833cf3026995a148158e1c8cc628b7f580e645061ab55ac01cabee8e48b"
+    },
+    {
       "version": "2.4.6",
       "nom": "Plus de plantage, et le bois arrive aux mines",
       "notes": "## L'application ne meurt plus en pleine nuit\n\nUne session longue pouvait s'arrêter net, sans message : **violation d'accès**.\nConstaté le 15/10/2026 à 01:21, après dix-sept heures de marche.\n\nLa cause était dans la 2.4.4. Pour éviter qu'un stock non lu n'efface un stock\nconnu, chaque enregistrement relisait le relevé précédent — y compris lors\nd'un simple « noter un chantier », où cette relecture ne trouve jamais rien.\nElle n'était pas gratuite pour autant : reconstruire tout le compte déclenche\nun ramasse-miettes sur un fil de travail, au moment précis où l'écran\nBâtiments fabrique ses widgets. Le ramasse-miettes d'un fil peut alors\ndétruire un objet né sur l'autre, et le programme tombe.\n\nLa relecture n'a lieu que sur le chemin du **scan**, désormais — le seul qui\nlise vraiment des stocks, donc le seul qui puisse en manquer. La protection\ndes « — » reste entière, son coût disparaît partout ailleurs.\n\nAucune donnée n'a été perdue dans l'incident : l'écriture atomique a tenu.\n\n## Le bois envoyé aux mines arrive enfin dans les mines\n\nUne ville qui déborde de bois l'expédie vers une de nos villes d'une île qui\nen demande — le formulaire du jeu ne permet de donner qu'à la mine de sa\npropre île, d'où le détour par bateau.\n\nMais à l'arrivée, **rien ne se passait**. La ville de destination n'est pas\nen surplus, justement : c'est pour ça qu'on lui envoyait du bois. Elle ne\ndonnait donc qu'une fois son propre entrepôt au-dessus de 85 %.\n\nLe chiffre, relevé sur un compte les 13 et 14 octobre : **sept convois,\n118 500 de bois expédiés en douze heures, et pas un gramme donné**. Il aurait\nfallu treize voyages de plus pour que la ville d'arrivée franchisse son seuil.\n\nDésormais, un envoi pour les mines **laisse une promesse**. Le bois arrivé\nressemble à n'importe quel autre bois ; seul l'expéditeur sait à quoi il était\ndestiné, alors on l'écrit au départ :\n\n- l'heure d'arrivée **réveille le compte**, au lieu d'attendre le passage\n  ordinaire ;\n- la mine visée est celle qui est sous sa cible, scierie ou mine de luxe ;\n- le jeu ne prend que ce que le niveau réclame, le reste demeure en ville ;\n- et la promesse n'est effacée **que si du bois est réellement passé**. Une\n  mine déjà en expansion n'accepte rien : c'est une attente, pas un échec, et\n  le bois sera versé au passage suivant plutôt qu'oublié.\n\nVérifié en conditions réelles le 16/10 : 28 000 de bois arrivés par bateau,\nversés à la scierie dans la minute.",
-      "publiee_le": "2026-10-16",
-      "fichier": "IkaKit-v2-2.4.6-install.exe",
-      "taille": 64229083,
-      "sha256": "48f58482dc607015468e0eef4355b83bfc7ff6824a78cfdbc0d43882bab2215f"
+      "publiee_le": "2026-10-16"
     },
     {
       "version": "2.4.5",
