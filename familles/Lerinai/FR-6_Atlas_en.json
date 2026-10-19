@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T03:00:04",
-  "publie_le": "2026-10-19T15:35:26",
+  "publie_le": "2026-10-19T21:01:07",
   "points_course": null,
   "villes": [
     {
@@ -20,9 +20,9 @@
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 164778,
+      "bois": 158028,
       "vin": 800,
-      "marbre": 14491,
+      "marbre": 11023,
       "cristal": 155,
       "soufre": 0
     },
