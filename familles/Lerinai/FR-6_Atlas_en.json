@@ -5,14 +5,14 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T03:00:04",
-  "publie_le": "2026-10-19T03:02:38",
+  "publie_le": "2026-10-19T12:39:32",
   "points_course": null,
   "villes": [
     {
       "nom": "Vin",
       "coordonnees": "[91:22]",
       "bois": 54817,
-      "vin": 58628,
+      "vin": 800,
       "marbre": 18046,
       "cristal": 43272,
       "soufre": 29552
@@ -20,9 +20,9 @@
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 177216,
-      "vin": 4293,
-      "marbre": 26472,
+      "bois": 164778,
+      "vin": 800,
+      "marbre": 14491,
       "cristal": 155,
       "soufre": 0
     },
@@ -30,10 +30,10 @@
       "nom": "Souffre",
       "coordonnees": "[90:20]",
       "bois": 157392,
-      "vin": 6161,
+      "vin": 800,
       "marbre": 68,
       "cristal": 109,
-      "soufre": 123910
+      "soufre": 116990
     },
     {
       "nom": "Polis",
