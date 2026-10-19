@@ -5,15 +5,15 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T03:00:59",
-  "publie_le": "2026-10-19T03:02:38",
+  "publie_le": "2026-10-19T12:39:32",
   "points_course": null,
   "villes": [
     {
       "nom": "Cristal",
       "coordonnees": "[92:23]",
-      "bois": 160921,
+      "bois": 155666,
       "vin": 6,
-      "marbre": 7420,
+      "marbre": 6979,
       "cristal": 182018,
       "soufre": 0
     },
@@ -22,7 +22,7 @@
       "coordonnees": "[89:20]",
       "bois": 11126,
       "vin": 800,
-      "marbre": 765,
+      "marbre": 0,
       "cristal": 2500,
       "soufre": 0
     },
@@ -42,7 +42,7 @@
       "vin": 10500,
       "marbre": 5908,
       "cristal": 0,
-      "soufre": 1614
+      "soufre": 0
     },
     {
       "nom": "Souffre2",
@@ -60,7 +60,7 @@
       "vin": 3800,
       "marbre": 2954,
       "cristal": 0,
-      "soufre": 1696
+      "soufre": 0
     },
     {
       "nom": "Polis",
@@ -69,7 +69,7 @@
       "vin": 0,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 52
+      "soufre": 0
     }
   ]
 }
