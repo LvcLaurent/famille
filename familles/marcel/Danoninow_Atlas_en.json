@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T02:00:04",
-  "publie_le": "2026-10-19T02:04:27",
+  "publie_le": "2026-10-19T08:58:45",
   "points_course": null,
   "villes": [
     {
@@ -22,7 +22,7 @@
       "coordonnees": "[90:23]",
       "bois": 217902,
       "vin": 29566,
-      "marbre": 1054,
+      "marbre": 1053,
       "cristal": 86751,
       "soufre": 1617
     },
@@ -30,26 +30,26 @@
       "nom": "Argos",
       "coordonnees": "[88:20]",
       "bois": 156479,
-      "vin": 1191,
-      "marbre": 1,
+      "vin": 800,
+      "marbre": 0,
       "cristal": 1321,
       "soufre": 10000
     },
     {
       "nom": "Sparte",
       "coordonnees": "[90:20]",
-      "bois": 234601,
-      "vin": 35865,
-      "marbre": 1,
-      "cristal": 2186,
+      "bois": 233577,
+      "vin": 4365,
+      "marbre": 0,
+      "cristal": 734,
       "soufre": 78821
     },
     {
       "nom": "Athènes",
       "coordonnees": "[89:20]",
-      "bois": 354978,
+      "bois": 352098,
       "vin": 5133,
-      "marbre": 1835,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 1121
     }
