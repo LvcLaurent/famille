@@ -5,52 +5,52 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T03:00:04",
-  "publie_le": "2026-10-19T03:02:38",
+  "publie_le": "2026-10-19T12:39:32",
   "points_course": null,
   "villes": [
     {
       "nom": "AC1",
       "coordonnees": "[90:23]",
-      "bois": 75005,
+      "bois": 71391,
       "vin": 6107,
-      "marbre": 7486,
+      "marbre": 5773,
       "cristal": 50634,
       "soufre": 6565
     },
     {
       "nom": "AC2",
       "coordonnees": "[90:23]",
-      "bois": 98280,
+      "bois": 94306,
       "vin": 49030,
-      "marbre": 25943,
+      "marbre": 23904,
       "cristal": 57428,
       "soufre": 16760
     },
     {
       "nom": "AC3",
       "coordonnees": "[92:20]",
-      "bois": 49367,
+      "bois": 46175,
       "vin": 18317,
-      "marbre": 19812,
+      "marbre": 18435,
       "cristal": 13878,
       "soufre": 43222
     },
     {
       "nom": "Polis",
       "coordonnees": "[94:22]",
-      "bois": 49034,
+      "bois": 46650,
       "vin": 16869,
-      "marbre": 27345,
+      "marbre": 25908,
       "cristal": 8642,
       "soufre": 13763
     },
     {
       "nom": "Polis",
       "coordonnees": "[92:20]",
-      "bois": 21423,
+      "bois": 20176,
       "vin": 5087,
-      "marbre": 5,
-      "cristal": 1693,
+      "marbre": 0,
+      "cristal": 1170,
       "soufre": 31479
     }
   ]
