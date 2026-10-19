@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-19T03:00:04",
-  "publie_le": "2026-10-19T12:39:32",
+  "publie_le": "2026-10-19T15:35:26",
   "points_course": null,
   "villes": [
     {
@@ -20,8 +20,8 @@
     {
       "nom": "V comme Victime",
       "coordonnees": "[89:20]",
-      "bois": 265371,
-      "vin": 22153,
+      "bois": 246871,
+      "vin": 800,
       "marbre": 135739,
       "cristal": 5670,
       "soufre": 18071
@@ -39,7 +39,7 @@
       "nom": "Polis",
       "coordonnees": "[88:20]",
       "bois": 65402,
-      "vin": 11941,
+      "vin": 800,
       "marbre": 10825,
       "cristal": 3832,
       "soufre": 11400
@@ -47,18 +47,18 @@
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 2740,
+      "bois": 2312,
       "vin": 868,
-      "marbre": 1164,
+      "marbre": 1047,
       "cristal": 0,
       "soufre": 1889
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 236,
+      "bois": 0,
       "vin": 868,
-      "marbre": 2282,
+      "marbre": 2165,
       "cristal": 0,
       "soufre": 1058
     }
