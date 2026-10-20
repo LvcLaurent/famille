@@ -4,15 +4,15 @@
   "joueur": "Kymera",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-20T01:01:52",
-  "publie_le": "2026-10-20T15:25:42",
+  "scanne_le": "2026-10-21T01:01:14",
+  "publie_le": "2026-10-21T01:15:09",
   "points_course": null,
   "villes": [
     {
       "nom": "Ark city",
       "coordonnees": "[91:22]",
-      "bois": 107655,
-      "vin": 104386,
+      "bois": 131119,
+      "vin": 126293,
       "marbre": 11351,
       "cristal": 4905,
       "soufre": 9952
@@ -20,36 +20,36 @@
     {
       "nom": "Polis",
       "coordonnees": "[92:22]",
-      "bois": 75346,
-      "vin": 16609,
-      "marbre": 0,
+      "bois": 105789,
+      "vin": 14997,
+      "marbre": 24961,
       "cristal": 29214,
       "soufre": 216
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 29039,
-      "vin": 1594,
-      "marbre": 0,
+      "bois": 26675,
+      "vin": 874,
+      "marbre": 5472,
       "cristal": 0,
-      "soufre": 26397
+      "soufre": 32612
     },
     {
       "nom": "Cristal1",
       "coordonnees": "[94:21]",
-      "bois": 3839,
-      "vin": 23133,
-      "marbre": 32,
-      "cristal": 2837,
+      "bois": 11467,
+      "vin": 22701,
+      "marbre": 4126,
+      "cristal": 5698,
       "soufre": 1618
     },
     {
       "nom": "Marbre2",
       "coordonnees": "[89:20]",
-      "bois": 10547,
-      "vin": 3569,
-      "marbre": 8407,
+      "bois": 7869,
+      "vin": 2993,
+      "marbre": 2642,
       "cristal": 0,
       "soufre": 226
     }
