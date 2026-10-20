@@ -4,8 +4,8 @@
   "joueur": "FR-2",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-19T03:01:55",
-  "publie_le": "2026-10-19T21:01:07",
+  "scanne_le": "2026-10-20T03:02:26",
+  "publie_le": "2026-10-20T03:02:59",
   "points_course": null,
   "villes": [
     {
@@ -14,41 +14,41 @@
       "bois": 190001,
       "vin": 25,
       "marbre": 3816,
-      "cristal": 136526,
+      "cristal": 143542,
       "soufre": 0
     },
     {
       "nom": "Pour toi",
       "coordonnees": "[92:20]",
-      "bois": 20304,
+      "bois": 21004,
       "vin": 9375,
       "marbre": 2941,
       "cristal": 0,
-      "soufre": 1818
+      "soufre": 2251
     },
     {
       "nom": "Polis",
       "coordonnees": "[93:20]",
-      "bois": 26398,
+      "bois": 27098,
       "vin": 11500,
-      "marbre": 5280,
+      "marbre": 5864,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Poulpe",
       "coordonnees": "[93:20]",
-      "bois": 26483,
+      "bois": 27183,
       "vin": 10500,
-      "marbre": 5287,
+      "marbre": 5870,
       "cristal": 0,
       "soufre": 1688
     },
     {
       "nom": "Polis",
       "coordonnees": "[91:22]",
-      "bois": 31338,
-      "vin": 28425,
+      "bois": 32271,
+      "vin": 29001,
       "marbre": 232,
       "cristal": 0,
       "soufre": 0
