@@ -4,42 +4,42 @@
   "joueur": "Bakanonos",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-21T14:03:32",
-  "publie_le": "2026-10-21T14:04:10",
+  "scanne_le": "2026-10-21T23:38:59",
+  "publie_le": "2026-10-21T23:39:18",
   "points_course": null,
   "villes": [
     {
       "nom": "Bakanonos",
       "coordonnees": "[90:23]",
-      "bois": 150658,
-      "vin": 188,
-      "marbre": 191,
-      "cristal": 46470,
+      "bois": 164043,
+      "vin": 99338,
+      "marbre": 397,
+      "cristal": 49986,
       "soufre": 6610
     },
     {
       "nom": "m-1",
       "coordonnees": "[89:20]",
-      "bois": 177925,
-      "vin": 9957,
-      "marbre": 8314,
+      "bois": 179008,
+      "vin": 341,
+      "marbre": 6056,
       "cristal": 1,
       "soufre": 0
     },
     {
       "nom": "s-1",
       "coordonnees": "[90:20]",
-      "bois": 196499,
-      "vin": 87140,
-      "marbre": 994,
+      "bois": 206133,
+      "vin": 341,
+      "marbre": 1,
       "cristal": 1,
-      "soufre": 37415
+      "soufre": 40174
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 177658,
-      "vin": 4912,
+      "bois": 183947,
+      "vin": 4151,
       "marbre": 0,
       "cristal": 1,
       "soufre": 6330
@@ -47,9 +47,9 @@
     {
       "nom": "Polis",
       "coordonnees": "[90:26]",
-      "bois": 565,
+      "bois": 1283,
       "vin": 0,
-      "marbre": 396,
+      "marbre": 746,
       "cristal": 0,
       "soufre": 1
     }
