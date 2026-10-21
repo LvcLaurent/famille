@@ -5,15 +5,15 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-21T03:02:32",
-  "publie_le": "2026-10-21T03:03:02",
+  "publie_le": "2026-10-21T15:37:52",
   "points_course": null,
   "villes": [
     {
       "nom": "Capital",
       "coordonnees": "[94:22]",
-      "bois": 129770,
+      "bois": 116640,
       "vin": 2018,
-      "marbre": 129770,
+      "marbre": 129270,
       "cristal": 7632,
       "soufre": 0
     },
@@ -21,7 +21,7 @@
       "nom": "POLIS1",
       "coordonnees": "[92:20]",
       "bois": 22196,
-      "vin": 15325,
+      "vin": 4450,
       "marbre": 2669,
       "cristal": 0,
       "soufre": 1477
@@ -29,7 +29,7 @@
     {
       "nom": "POLIS2",
       "coordonnees": "[93:20]",
-      "bois": 5656,
+      "bois": 5370,
       "vin": 7625,
       "marbre": 4740,
       "cristal": 0,
