@@ -4,24 +4,24 @@
   "joueur": "JackS",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-21T23:45:28",
-  "publie_le": "2026-10-21T23:46:09",
+  "scanne_le": "2026-10-22T02:02:49",
+  "publie_le": "2026-10-22T02:03:34",
   "points_course": null,
   "villes": [
     {
       "nom": "Jack_S",
       "coordonnees": "[90:23]",
-      "bois": 151191,
-      "vin": 11159,
+      "bois": 152778,
+      "vin": 11006,
       "marbre": 1,
-      "cristal": 97089,
+      "cristal": 98402,
       "soufre": 14734
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 143708,
-      "vin": 105025,
+      "bois": 143295,
+      "vin": 83756,
       "marbre": 1,
       "cristal": 5737,
       "soufre": 1531
@@ -29,27 +29,27 @@
     {
       "nom": "m-1",
       "coordonnees": "[94:22]",
-      "bois": 80907,
-      "vin": 1983,
-      "marbre": 7312,
+      "bois": 82679,
+      "vin": 1830,
+      "marbre": 7193,
       "cristal": 2991,
       "soufre": 1531
     },
     {
       "nom": "s-1",
       "coordonnees": "[92:20]",
-      "bois": 77222,
-      "vin": 12196,
-      "marbre": 394,
+      "bois": 76754,
+      "vin": 12043,
+      "marbre": 1758,
       "cristal": 4146,
-      "soufre": 100277
+      "soufre": 101315
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:26]",
-      "bois": 5598,
+      "bois": 5638,
       "vin": 0,
-      "marbre": 183,
+      "marbre": 225,
       "cristal": 0,
       "soufre": 1
     }
