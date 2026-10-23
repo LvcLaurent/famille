@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-23T03:02:10",
-  "publie_le": "2026-10-23T03:02:37",
+  "publie_le": "2026-10-23T15:42:52",
   "points_course": null,
   "villes": [
     {
       "nom": "Lockcenter",
       "coordonnees": "[92:23]",
-      "bois": 190001,
+      "bois": 175001,
       "vin": 25,
       "marbre": 3816,
       "cristal": 158758,
@@ -33,7 +33,7 @@
       "vin": 11500,
       "marbre": 4775,
       "cristal": 0,
-      "soufre": 1
+      "soufre": 0
     },
     {
       "nom": "Poulpe",
@@ -42,7 +42,7 @@
       "vin": 10500,
       "marbre": 7605,
       "cristal": 0,
-      "soufre": 239
+      "soufre": 0
     },
     {
       "nom": "Polis",
