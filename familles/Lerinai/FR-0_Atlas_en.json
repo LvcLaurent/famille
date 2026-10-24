@@ -4,42 +4,42 @@
   "joueur": "FR-0",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-23T03:00:03",
-  "publie_le": "2026-10-24T00:04:44",
+  "scanne_le": "2026-10-24T09:10:57",
+  "publie_le": "2026-10-24T10:03:08",
   "points_course": null,
   "villes": [
     {
       "nom": "Batman",
       "coordonnees": "[92:20]",
-      "bois": 120295,
-      "vin": 2977,
+      "bois": 137216,
+      "vin": 1687,
       "marbre": 14921,
       "cristal": 13471,
-      "soufre": 75265
+      "soufre": 88270
     },
     {
       "nom": "V comme Victime",
       "coordonnees": "[89:20]",
-      "bois": 301789,
+      "bois": 314133,
       "vin": 52,
-      "marbre": 190004,
+      "marbre": 202347,
       "cristal": 5670,
       "soufre": 18071
     },
     {
       "nom": "Ici",
       "coordonnees": "[92:20]",
-      "bois": 48944,
+      "bois": 59177,
       "vin": 15,
       "marbre": 0,
       "cristal": 11441,
-      "soufre": 38980
+      "soufre": 46871
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 111823,
-      "vin": 27474,
+      "bois": 129165,
+      "vin": 38341,
       "marbre": 10825,
       "cristal": 3832,
       "soufre": 11400
@@ -47,18 +47,18 @@
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 26910,
+      "bois": 29168,
       "vin": 12009,
       "marbre": 1047,
       "cristal": 0,
-      "soufre": 6490
+      "soufre": 8226
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 5759,
+      "bois": 8017,
       "vin": 22221,
-      "marbre": 8257,
+      "marbre": 10516,
       "cristal": 0,
       "soufre": 1058
     }
