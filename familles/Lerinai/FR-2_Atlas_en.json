@@ -4,51 +4,51 @@
   "joueur": "FR-2",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-24T10:02:35",
-  "publie_le": "2026-10-25T02:42:54",
+  "scanne_le": "2026-10-25T03:02:56",
+  "publie_le": "2026-10-25T03:03:26",
   "points_course": null,
   "villes": [
     {
       "nom": "Lockcenter",
       "coordonnees": "[92:23]",
-      "bois": 184853,
+      "bois": 190001,
       "vin": 25,
       "marbre": 3816,
-      "cristal": 165069,
+      "cristal": 169550,
       "soufre": 0
     },
     {
       "nom": "Pour toi",
       "coordonnees": "[92:20]",
-      "bois": 24126,
+      "bois": 11105,
       "vin": 9375,
-      "marbre": 2969,
+      "marbre": 15,
       "cristal": 0,
-      "soufre": 2534
+      "soufre": 4
     },
     {
       "nom": "Polis",
       "coordonnees": "[93:20]",
-      "bois": 31976,
+      "bois": 32935,
       "vin": 11500,
-      "marbre": 5912,
+      "marbre": 6711,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Poulpe",
       "coordonnees": "[93:20]",
-      "bois": 30304,
+      "bois": 31024,
       "vin": 10500,
-      "marbre": 8458,
+      "marbre": 9057,
       "cristal": 0,
-      "soufre": 0
+      "soufre": 412
     },
     {
       "nom": "Polis",
       "coordonnees": "[91:22]",
-      "bois": 36434,
-      "vin": 31605,
+      "bois": 37393,
+      "vin": 32254,
       "marbre": 232,
       "cristal": 0,
       "soufre": 0
