@@ -1,0 +1,458 @@
+{
+  "exporte_le": "2026-10-25T22:52:58",
+  "comptes": [
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "Atlas-7440",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T12:44:36",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "vin marcel",
+          "coordonnees": "[91:22]",
+          "bois": 206065,
+          "vin": 115209,
+          "marbre": 30764,
+          "cristal": 28384,
+          "soufre": 0
+        },
+        {
+          "nom": "marbre",
+          "coordonnees": "[93:20]",
+          "bois": 70000,
+          "vin": 4401,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "cristal",
+          "coordonnees": "[92:23]",
+          "bois": 13021,
+          "vin": 611,
+          "marbre": 0,
+          "cristal": 3876,
+          "soufre": 1
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 6600,
+          "vin": 1558,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 1
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 12687,
+          "vin": 9505,
+          "marbre": 15,
+          "cristal": 0,
+          "soufre": 10127
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "Kymera",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T12:42:42",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Ark city",
+          "coordonnees": "[91:22]",
+          "bois": 52804,
+          "vin": 43074,
+          "marbre": 0,
+          "cristal": 4905,
+          "soufre": 16900
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[92:22]",
+          "bois": 108321,
+          "vin": 12993,
+          "marbre": 58201,
+          "cristal": 18383,
+          "soufre": 216
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 18194,
+          "vin": 7153,
+          "marbre": 2578,
+          "cristal": 0,
+          "soufre": 41260
+        },
+        {
+          "nom": "Cristal1",
+          "coordonnees": "[94:21]",
+          "bois": 21320,
+          "vin": 20757,
+          "marbre": 4,
+          "cristal": 33592,
+          "soufre": 1618
+        },
+        {
+          "nom": "Marbre2",
+          "coordonnees": "[89:20]",
+          "bois": 9205,
+          "vin": 401,
+          "marbre": 20170,
+          "cristal": 0,
+          "soufre": 226
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "fritzz",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T01:27:12",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Oly City",
+          "coordonnees": "[91:22]",
+          "bois": 155538,
+          "vin": 112818,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 57600
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 10467,
+          "vin": 22679,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 69
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 3223,
+          "vin": 9,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 14339
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "El Tercero",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T01:26:09",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "pinard a marcel",
+          "coordonnees": "[91:22]",
+          "bois": 268592,
+          "vin": 143206,
+          "marbre": 51962,
+          "cristal": 6850,
+          "soufre": 30268
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 38822,
+          "vin": 5549,
+          "marbre": 20907,
+          "cristal": 450,
+          "soufre": 0
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 11323,
+          "vin": 25622,
+          "marbre": 0,
+          "cristal": 1730,
+          "soufre": 3934
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[87:19]",
+          "bois": 5366,
+          "vin": 3030,
+          "marbre": 5944,
+          "cristal": 530,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "Zala",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T01:13:05",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Djo vino II",
+          "coordonnees": "[91:22]",
+          "bois": 54711,
+          "vin": 66355,
+          "marbre": 32008,
+          "cristal": 0,
+          "soufre": 10000
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 0,
+          "vin": 8866,
+          "marbre": 42148,
+          "cristal": 0,
+          "soufre": 6645
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 0,
+          "vin": 40252,
+          "marbre": 1001,
+          "cristal": 0,
+          "soufre": 40095
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "El Segundo",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T01:00:47",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Djo vino I",
+          "coordonnees": "[91:22]",
+          "bois": 43204,
+          "vin": 42052,
+          "marbre": 1462,
+          "cristal": 0,
+          "soufre": 17380
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 0,
+          "vin": 16843,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 4502,
+          "vin": 2,
+          "marbre": 1597,
+          "cristal": 0,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "El Uno",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T00:26:13",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Brock vin",
+          "coordonnees": "[91:22]",
+          "bois": 38851,
+          "vin": 31451,
+          "marbre": 19300,
+          "cristal": 10000,
+          "soufre": 19300
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 0,
+          "vin": 9427,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 86
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 0,
+          "vin": 2573,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 3719
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "helmut786",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-25T00:20:09",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Brock vin 2",
+          "coordonnees": "[91:22]",
+          "bois": 118039,
+          "vin": 46990,
+          "marbre": 34277,
+          "cristal": 1736,
+          "soufre": 41257
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 0,
+          "vin": 13147,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 0,
+          "vin": 9852,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 8985
+        },
+        {
+          "nom": "ici",
+          "coordonnees": "[94:21]",
+          "bois": 0,
+          "vin": 2388,
+          "marbre": 0,
+          "cristal": 5821,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Hysteria",
+      "joueur": "Diabolix1-1",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-18T01:00:24",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Gengar pinard",
+          "coordonnees": "[91:22]",
+          "bois": 97729,
+          "vin": 57607,
+          "marbre": 30301,
+          "cristal": 15731,
+          "soufre": 15947
+        },
+        {
+          "nom": "marbre",
+          "coordonnees": "[92:24]",
+          "bois": 56022,
+          "vin": 11237,
+          "marbre": 48726,
+          "cristal": 5176,
+          "soufre": 0
+        },
+        {
+          "nom": "cristal",
+          "coordonnees": "[88:22]",
+          "bois": 29613,
+          "vin": 8856,
+          "marbre": 55,
+          "cristal": 20833,
+          "soufre": 145
+        },
+        {
+          "nom": "souffre",
+          "coordonnees": "[90:20]",
+          "bois": 21547,
+          "vin": 0,
+          "marbre": 134,
+          "cristal": 0,
+          "soufre": 16602
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "",
+      "joueur": "hysteria",
+      "monde": "Kappa",
+      "pays": "fi",
+      "scanne_le": "2026-10-11T00:03:26",
+      "publie_le": "2026-10-25T22:52:58",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Kaupunki",
+          "coordonnees": "[51:50]",
+          "bois": 207809,
+          "vin": 14962,
+          "marbre": 18604,
+          "cristal": 207663,
+          "soufre": 23942
+        },
+        {
+          "nom": "marbre1",
+          "coordonnees": "[50:48]",
+          "bois": 113980,
+          "vin": 18814,
+          "marbre": 114814,
+          "cristal": 32218,
+          "soufre": 22851
+        },
+        {
+          "nom": "marbre2",
+          "coordonnees": "[50:48]",
+          "bois": 81719,
+          "vin": 24405,
+          "marbre": 23196,
+          "cristal": 23908,
+          "soufre": 21550
+        }
+      ]
+    }
+  ]
+}
