@@ -4,52 +4,52 @@
   "joueur": "MissF",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-24T14:02:49",
-  "publie_le": "2026-10-24T14:03:55",
+  "scanne_le": "2026-10-25T02:03:13",
+  "publie_le": "2026-10-25T02:05:04",
   "points_course": null,
   "villes": [
     {
       "nom": "MissF",
       "coordonnees": "[90:23]",
-      "bois": 105465,
-      "vin": 7730,
-      "marbre": 1,
-      "cristal": 41609,
+      "bois": 44341,
+      "vin": 7022,
+      "marbre": 0,
+      "cristal": 30480,
       "soufre": 11160
     },
     {
       "nom": "m-1",
       "coordonnees": "[89:20]",
-      "bois": 65378,
-      "vin": 19502,
-      "marbre": 10732,
+      "bois": 80329,
+      "vin": 18794,
+      "marbre": 10769,
       "cristal": 1,
       "soufre": 1
     },
     {
       "nom": "v-3",
       "coordonnees": "[88:20]",
-      "bois": 204144,
-      "vin": 21478,
-      "marbre": 1051,
+      "bois": 210650,
+      "vin": 28334,
+      "marbre": 854,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "s-1",
       "coordonnees": "[92:20]",
-      "bois": 24140,
-      "vin": 21717,
-      "marbre": 1,
+      "bois": 33558,
+      "vin": 21005,
+      "marbre": 2,
       "cristal": 1,
-      "soufre": 23393
+      "soufre": 30349
     },
     {
       "nom": "m-2",
       "coordonnees": "[93:20]",
-      "bois": 1998,
-      "vin": 8920,
-      "marbre": 1781,
+      "bois": 1850,
+      "vin": 2020,
+      "marbre": 1787,
       "cristal": 0,
       "soufre": 1
     }
