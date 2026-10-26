@@ -5,16 +5,16 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-26T02:02:43",
-  "publie_le": "2026-10-26T02:05:14",
+  "publie_le": "2026-10-26T09:04:50",
   "points_course": null,
   "villes": [
     {
       "nom": "MissF",
       "coordonnees": "[90:23]",
-      "bois": 104461,
+      "bois": 102190,
       "vin": 5547,
-      "marbre": 1654,
-      "cristal": 45411,
+      "marbre": 0,
+      "cristal": 42063,
       "soufre": 11160
     },
     {
@@ -22,14 +22,14 @@
       "coordonnees": "[89:20]",
       "bois": 122239,
       "vin": 17319,
-      "marbre": 11324,
+      "marbre": 0,
       "cristal": 1,
       "soufre": 1
     },
     {
       "nom": "v-3",
       "coordonnees": "[88:20]",
-      "bois": 215413,
+      "bois": 206311,
       "vin": 43268,
       "marbre": 889,
       "cristal": 0,
@@ -49,7 +49,7 @@
       "coordonnees": "[93:20]",
       "bois": 2271,
       "vin": 2020,
-      "marbre": 1756,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 1
     }
