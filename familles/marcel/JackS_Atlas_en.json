@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-28T02:02:39",
-  "publie_le": "2026-10-28T02:03:27",
+  "publie_le": "2026-10-28T09:05:50",
   "points_course": null,
   "villes": [
     {
@@ -31,7 +31,7 @@
       "coordonnees": "[94:22]",
       "bois": 91828,
       "vin": 19927,
-      "marbre": 15324,
+      "marbre": 10100,
       "cristal": 1,
       "soufre": 1531
     },
