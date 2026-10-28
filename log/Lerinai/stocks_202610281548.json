@@ -1,0 +1,533 @@
+{
+  "exporte_le": "2026-10-28T15:48:20",
+  "comptes": [
+    {
+      "version": 2,
+      "groupe": "",
+      "joueur": "P2-G-L1",
+      "monde": "Nereus",
+      "pays": "fr",
+      "scanne_le": "2026-10-28T15:47:14",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "P2-L1-Capitale",
+          "coordonnees": "[86:73]",
+          "bois": 59088,
+          "vin": 491,
+          "marbre": 78330,
+          "cristal": 231,
+          "soufre": 424
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "",
+      "joueur": "P3-G-L1",
+      "monde": "Nereus",
+      "pays": "fr",
+      "scanne_le": "2026-10-28T15:47:07",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "P3-L1-Capitale",
+          "coordonnees": "[86:73]",
+          "bois": 56549,
+          "vin": 319,
+          "marbre": 76596,
+          "cristal": 130,
+          "soufre": 367
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "",
+      "joueur": "P1-G-L1",
+      "monde": "Nereus",
+      "pays": "fr",
+      "scanne_le": "2026-10-28T15:46:50",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "P1-L1-Capitale",
+          "coordonnees": "[86:73]",
+          "bois": 54844,
+          "vin": 919,
+          "marbre": 76068,
+          "cristal": 1129,
+          "soufre": 247
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[85:74]",
+          "bois": 250,
+          "vin": 0,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "",
+      "joueur": "P4-G-L1",
+      "monde": "Nereus",
+      "pays": "fr",
+      "scanne_le": "2026-10-28T15:46:50",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "P4-L1-Capitale",
+          "coordonnees": "[86:73]",
+          "bois": 58654,
+          "vin": 319,
+          "marbre": 77157,
+          "cristal": 130,
+          "soufre": 367
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-2",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:02:53",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Lockcenter",
+          "coordonnees": "[92:23]",
+          "bois": 190001,
+          "vin": 25,
+          "marbre": 3816,
+          "cristal": 175202,
+          "soufre": 0
+        },
+        {
+          "nom": "Pour toi",
+          "coordonnees": "[92:20]",
+          "bois": 12357,
+          "vin": 9375,
+          "marbre": 15,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[93:20]",
+          "bois": 34213,
+          "vin": 11500,
+          "marbre": 7776,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Poulpe",
+          "coordonnees": "[93:20]",
+          "bois": 31982,
+          "vin": 10500,
+          "marbre": 9857,
+          "cristal": 0,
+          "soufre": 424
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[91:22]",
+          "bois": 38671,
+          "vin": 18117,
+          "marbre": 232,
+          "cristal": 0,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-3",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:02:18",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Capital",
+          "coordonnees": "[94:22]",
+          "bois": 121491,
+          "vin": 2,
+          "marbre": 128730,
+          "cristal": 7422,
+          "soufre": 0
+        },
+        {
+          "nom": "POLIS1",
+          "coordonnees": "[92:20]",
+          "bois": 31056,
+          "vin": 4450,
+          "marbre": 2669,
+          "cristal": 0,
+          "soufre": 24
+        },
+        {
+          "nom": "POLIS2",
+          "coordonnees": "[93:20]",
+          "bois": 26684,
+          "vin": 800,
+          "marbre": 13655,
+          "cristal": 0,
+          "soufre": 1
+        },
+        {
+          "nom": "POLIS3",
+          "coordonnees": "[93:20]",
+          "bois": 13016,
+          "vin": 800,
+          "marbre": 11264,
+          "cristal": 0,
+          "soufre": 1
+        },
+        {
+          "nom": "POLIS4",
+          "coordonnees": "[93:20]",
+          "bois": 5975,
+          "vin": 10500,
+          "marbre": 10018,
+          "cristal": 0,
+          "soufre": 1
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:22]",
+          "bois": 18666,
+          "vin": 2500,
+          "marbre": 12331,
+          "cristal": 0,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-1",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:01:41",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Cristal",
+          "coordonnees": "[92:23]",
+          "bois": 126677,
+          "vin": 6,
+          "marbre": 2256,
+          "cristal": 208097,
+          "soufre": 0
+        },
+        {
+          "nom": "Marbre",
+          "coordonnees": "[89:20]",
+          "bois": 19494,
+          "vin": 800,
+          "marbre": 0,
+          "cristal": 2500,
+          "soufre": 0
+        },
+        {
+          "nom": "Vin",
+          "coordonnees": "[88:20]",
+          "bois": 11122,
+          "vin": 31296,
+          "marbre": 0,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Souffre",
+          "coordonnees": "[90:20]",
+          "bois": 10679,
+          "vin": 10500,
+          "marbre": 4079,
+          "cristal": 0,
+          "soufre": 974
+        },
+        {
+          "nom": "Souffre2",
+          "coordonnees": "[92:20]",
+          "bois": 9381,
+          "vin": 10500,
+          "marbre": 2892,
+          "cristal": 2500,
+          "soufre": 932
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[92:20]",
+          "bois": 33954,
+          "vin": 18901,
+          "marbre": 4079,
+          "cristal": 0,
+          "soufre": 0
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[42:53]",
+          "bois": 11286,
+          "vin": 0,
+          "marbre": 765,
+          "cristal": 0,
+          "soufre": 0
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-4",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:01:30",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Polis",
+          "coordonnees": "[94:22]",
+          "bois": 95456,
+          "vin": 8770,
+          "marbre": 95799,
+          "cristal": 20468,
+          "soufre": 15467
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[92:20]",
+          "bois": 64438,
+          "vin": 9633,
+          "marbre": 501,
+          "cristal": 0,
+          "soufre": 54723
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[88:20]",
+          "bois": 19209,
+          "vin": 15586,
+          "marbre": 91,
+          "cristal": 1,
+          "soufre": 1
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[88:20]",
+          "bois": 0,
+          "vin": 7106,
+          "marbre": 2453,
+          "cristal": 0,
+          "soufre": 1
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-0",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:00:06",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Batman",
+          "coordonnees": "[92:20]",
+          "bois": 166650,
+          "vin": 10,
+          "marbre": 14921,
+          "cristal": 13471,
+          "soufre": 112333
+        },
+        {
+          "nom": "V comme Victime",
+          "coordonnees": "[89:20]",
+          "bois": 333558,
+          "vin": 52,
+          "marbre": 221920,
+          "cristal": 5670,
+          "soufre": 18071
+        },
+        {
+          "nom": "Ici",
+          "coordonnees": "[92:20]",
+          "bois": 74277,
+          "vin": 15,
+          "marbre": 0,
+          "cristal": 11441,
+          "soufre": 59281
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[88:20]",
+          "bois": 159629,
+          "vin": 60048,
+          "marbre": 10825,
+          "cristal": 3832,
+          "soufre": 11400
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 33103,
+          "vin": 12009,
+          "marbre": 1047,
+          "cristal": 0,
+          "soufre": 11444
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[89:20]",
+          "bois": 11952,
+          "vin": 22221,
+          "marbre": 14486,
+          "cristal": 0,
+          "soufre": 1058
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-5",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:00:06",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "AC1",
+          "coordonnees": "[90:23]",
+          "bois": 274126,
+          "vin": 2540,
+          "marbre": 17,
+          "cristal": 199868,
+          "soufre": 9673
+        },
+        {
+          "nom": "AC2",
+          "coordonnees": "[90:23]",
+          "bois": 214145,
+          "vin": 48090,
+          "marbre": 0,
+          "cristal": 165917,
+          "soufre": 16760
+        },
+        {
+          "nom": "AC3",
+          "coordonnees": "[92:20]",
+          "bois": 164690,
+          "vin": 11637,
+          "marbre": 0,
+          "cristal": 13878,
+          "soufre": 139794
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[94:22]",
+          "bois": 93794,
+          "vin": 10855,
+          "marbre": 24582,
+          "cristal": 8642,
+          "soufre": 13763
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[92:20]",
+          "bois": 82656,
+          "vin": 222,
+          "marbre": 1,
+          "cristal": 1170,
+          "soufre": 100591
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "groupe": "Lerinai",
+      "joueur": "FR-6",
+      "monde": "Atlas",
+      "pays": "en",
+      "scanne_le": "2026-10-26T03:00:06",
+      "publie_le": "2026-10-28T15:48:20",
+      "points_course": null,
+      "villes": [
+        {
+          "nom": "Vin",
+          "coordonnees": "[91:22]",
+          "bois": 251355,
+          "vin": 61669,
+          "marbre": 4189,
+          "cristal": 9192,
+          "soufre": 29552
+        },
+        {
+          "nom": "Marbre",
+          "coordonnees": "[89:20]",
+          "bois": 169240,
+          "vin": 46,
+          "marbre": 40603,
+          "cristal": 14655,
+          "soufre": 1
+        },
+        {
+          "nom": "Souffre",
+          "coordonnees": "[90:20]",
+          "bois": 159663,
+          "vin": 1934,
+          "marbre": 1,
+          "cristal": 1,
+          "soufre": 137848
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[90:20]",
+          "bois": 108370,
+          "vin": 29,
+          "marbre": 1,
+          "cristal": 0,
+          "soufre": 56737
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[88:20]",
+          "bois": 22904,
+          "vin": 6233,
+          "marbre": 1599,
+          "cristal": 0,
+          "soufre": 1
+        },
+        {
+          "nom": "Polis",
+          "coordonnees": "[93:20]",
+          "bois": 8251,
+          "vin": 519,
+          "marbre": 12738,
+          "cristal": 0,
+          "soufre": 1
+        }
+      ]
+    }
+  ]
+}
