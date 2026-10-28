@@ -1,0 +1,1083 @@
+2026-10-28 13:50:18,350 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52861, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 13:50:48,645 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 13:50:49,079 DEBUG   [ikakit.navigateur] taskkill 40628 : code 128, 
+2026-10-28 13:50:51,083 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64500, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 13:51:21,381 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 13:51:21,806 DEBUG   [ikakit.navigateur] taskkill 36400 : code 128, 
+2026-10-28 13:51:21,807 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 13:51:21,819 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 13:51:23,446 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64526, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 13:51:39,749 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 13:51:39,749 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 13:51:53,727 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 13:51:54,193 DEBUG   [ikakit.navigateur] taskkill 11796 : code 128, 
+2026-10-28 13:51:56,196 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62166, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 13:52:26,435 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 13:52:26,883 DEBUG   [ikakit.navigateur] taskkill 25492 : code 128, 
+2026-10-28 13:52:26,884 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 13:52:26,895 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 13:57:39,752 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 13:57:43,083 INFO    [ikakit.bastion] Ronde 212 terminee — prochaine vers 14:05 (8 min)
+2026-10-28 13:58:10,916 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52518, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 13:58:41,218 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 13:58:41,727 DEBUG   [ikakit.navigateur] taskkill 22092 : code 128, 
+2026-10-28 13:58:43,730 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64735, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 13:59:14,037 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 13:59:14,418 DEBUG   [ikakit.navigateur] taskkill 39304 : code 128, 
+2026-10-28 13:59:14,420 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 13:59:14,435 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:01:21,835 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52674, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:01:52,250 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:01:52,747 DEBUG   [ikakit.navigateur] taskkill 25456 : code 128, 
+2026-10-28 14:01:54,751 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62213, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:02:25,036 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:02:25,548 DEBUG   [ikakit.navigateur] taskkill 18948 : code 128, 
+2026-10-28 14:02:25,550 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:02:25,568 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:02:26,913 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51300, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:02:57,205 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:02:57,695 DEBUG   [ikakit.navigateur] taskkill 41580 : code 128, 
+2026-10-28 14:02:59,698 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51184, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:03:29,995 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:03:30,459 DEBUG   [ikakit.navigateur] taskkill 5924 : code 128, 
+2026-10-28 14:03:30,459 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:03:30,471 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:05:13,094 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 14:05:13,094 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 14:09:14,446 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64291, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:09:44,712 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:09:45,154 DEBUG   [ikakit.navigateur] taskkill 14736 : code 128, 
+2026-10-28 14:09:47,157 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52684, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:10:17,461 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:10:17,918 DEBUG   [ikakit.navigateur] taskkill 15768 : code 128, 
+2026-10-28 14:10:17,919 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:10:17,929 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:11:13,096 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 14:11:17,228 INFO    [ikakit.bastion] Ronde 213 terminee — prochaine vers 14:18 (8 min)
+2026-10-28 14:12:25,582 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54317, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:12:55,891 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:12:56,378 DEBUG   [ikakit.navigateur] taskkill 24676 : code 128, 
+2026-10-28 14:12:58,381 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62582, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:13:28,682 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:13:29,233 DEBUG   [ikakit.navigateur] taskkill 29464 : code 128, 
+2026-10-28 14:13:29,234 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:13:29,249 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:13:30,486 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 57081, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:14:00,787 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:14:01,252 DEBUG   [ikakit.navigateur] taskkill 33876 : code 128, 
+2026-10-28 14:14:03,259 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55993, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:14:33,563 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:14:34,015 DEBUG   [ikakit.navigateur] taskkill 35628 : code 128, 
+2026-10-28 14:14:34,016 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:14:34,024 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:18:47,242 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 14:18:47,242 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 14:20:17,940 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51630, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:20:48,194 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:20:48,632 DEBUG   [ikakit.navigateur] taskkill 14376 : code 128, 
+2026-10-28 14:20:50,635 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 60820, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:21:20,908 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:21:21,369 DEBUG   [ikakit.navigateur] taskkill 448 : code 128, 
+2026-10-28 14:21:21,370 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:21:21,380 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:23:29,266 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 60847, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:23:59,665 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:24:00,129 DEBUG   [ikakit.navigateur] taskkill 15568 : code 128, 
+2026-10-28 14:24:02,133 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 56749, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:24:32,406 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:24:32,838 DEBUG   [ikakit.navigateur] taskkill 40572 : code 128, 
+2026-10-28 14:24:32,838 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:24:32,848 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:24:34,048 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62249, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:24:47,244 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 14:24:49,904 INFO    [ikakit.bastion] Ronde 214 terminee — prochaine vers 14:32 (8 min)
+2026-10-28 14:25:04,356 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:25:04,770 DEBUG   [ikakit.navigateur] taskkill 3524 : code 128, 
+2026-10-28 14:25:06,772 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 63065, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:25:37,055 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:25:37,504 DEBUG   [ikakit.navigateur] taskkill 31440 : code 128, 
+2026-10-28 14:25:37,506 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:25:37,522 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:31:21,396 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 49329, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:31:51,673 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:31:52,086 DEBUG   [ikakit.navigateur] taskkill 27416 : code 128, 
+2026-10-28 14:31:54,094 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58877, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:32:19,916 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 14:32:19,916 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 14:32:24,410 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:32:24,846 DEBUG   [ikakit.navigateur] taskkill 16780 : code 128, 
+2026-10-28 14:32:24,847 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:32:24,859 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:34:32,856 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 50106, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:35:03,167 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:35:03,708 DEBUG   [ikakit.navigateur] taskkill 25492 : code 128, 
+2026-10-28 14:35:05,711 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52658, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:35:35,961 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:35:36,433 DEBUG   [ikakit.navigateur] taskkill 33848 : code 128, 
+2026-10-28 14:35:36,434 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:35:36,446 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:35:37,529 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62807, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:36:07,813 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:36:08,277 DEBUG   [ikakit.navigateur] taskkill 7756 : code 128, 
+2026-10-28 14:36:10,280 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55234, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:36:40,570 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:36:41,043 DEBUG   [ikakit.navigateur] taskkill 19692 : code 128, 
+2026-10-28 14:36:41,043 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:36:41,055 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:38:19,931 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 14:38:23,189 INFO    [ikakit.bastion] Ronde 215 terminee — prochaine vers 14:45 (8 min)
+2026-10-28 14:42:24,865 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59685, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:42:55,118 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:42:55,618 DEBUG   [ikakit.navigateur] taskkill 35284 : code 128, 
+2026-10-28 14:42:57,620 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59846, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:43:27,948 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:43:28,544 DEBUG   [ikakit.navigateur] taskkill 40348 : code 128, 
+2026-10-28 14:43:28,544 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:43:28,553 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:45:36,458 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54147, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:45:53,194 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 14:45:53,195 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 14:46:06,751 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:46:07,244 DEBUG   [ikakit.navigateur] taskkill 41912 : code 128, 
+2026-10-28 14:46:09,248 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62962, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:46:39,591 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:46:40,057 DEBUG   [ikakit.navigateur] taskkill 7712 : code 128, 
+2026-10-28 14:46:40,058 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:46:40,069 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:46:41,105 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 50790, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:47:11,408 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:47:11,860 DEBUG   [ikakit.navigateur] taskkill 20952 : code 128, 
+2026-10-28 14:47:13,863 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 61643, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:47:44,122 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:47:44,601 DEBUG   [ikakit.navigateur] taskkill 33948 : code 128, 
+2026-10-28 14:47:44,602 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:47:44,614 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:51:53,196 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 14:51:57,331 INFO    [ikakit.bastion] Ronde 216 terminee — prochaine vers 14:59 (8 min)
+2026-10-28 14:53:28,557 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 65103, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:53:58,853 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:53:59,340 DEBUG   [ikakit.navigateur] taskkill 41140 : code 128, 
+2026-10-28 14:54:01,343 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51961, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:54:31,647 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:54:32,198 DEBUG   [ikakit.navigateur] taskkill 15116 : code 128, 
+2026-10-28 14:54:32,199 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:54:32,208 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:56:40,075 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52396, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:57:10,365 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 14:57:10,781 DEBUG   [ikakit.navigateur] taskkill 40100 : code 128, 
+2026-10-28 14:57:12,786 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51898, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 14:57:43,041 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 14:57:43,477 DEBUG   [ikakit.navigateur] taskkill 42564 : code 128, 
+2026-10-28 14:57:43,478 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:57:43,486 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:57:44,622 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51756, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:58:14,897 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 14:58:15,315 DEBUG   [ikakit.navigateur] taskkill 5628 : code 128, 
+2026-10-28 14:58:17,319 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55680, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 14:58:47,635 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 14:58:48,064 DEBUG   [ikakit.navigateur] taskkill 25748 : code 128, 
+2026-10-28 14:58:48,065 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 14:58:48,077 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 14:59:27,333 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 14:59:27,334 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 15:00:00,056 INFO    [ikakit.service-scan] Scan automatique : 11 compte(s)
+2026-10-28 15:00:00,057 INFO    [ikakit.scan] Scan parallele : 11 compte(s) sur 5 profil(s), 3 en meme temps
+2026-10-28 15:00:00,060 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 15:00:00,062 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62765, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:00:00,064 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62766, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:00:30,344 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 15:00:30,359 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:00:30,809 DEBUG   [ikakit.navigateur] taskkill 40620 : code 128, 
+2026-10-28 15:00:30,817 DEBUG   [ikakit.navigateur] taskkill 36444 : code 128, 
+2026-10-28 15:00:32,813 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52415, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:00:32,820 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 52416, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:01:03,075 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:01:03,091 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 15:01:03,560 DEBUG   [ikakit.navigateur] taskkill 38388 : code 128, 
+2026-10-28 15:01:03,561 DEBUG   [ikakit.navigateur] taskkill 36780 : code 128, 
+2026-10-28 15:01:03,561 ERROR   [ikakit.scan] Echec inattendu du scan de FR-6 (Atlas)
+Traceback (most recent call last):
+  File "ikakit\scan.py", line 804, in scanner
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:01:03,562 ERROR   [ikakit.scan] Echec inattendu du scan de FR-0 (Atlas)
+Traceback (most recent call last):
+  File "ikakit\scan.py", line 804, in scanner
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:01:03,570 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54186, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:01:03,576 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54187, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:01:04,567 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:01:04,929 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:01:05,297 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:05,378 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:01:06,294 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:01:06,625 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:01:06,690 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:06,691 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:01:06,711 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:06,718 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 occupe par P1-G-L1 (Nereus) — scan
+2026-10-28 15:01:08,434 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:10,594 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53901
+2026-10-28 15:01:10,750 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:10,752 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:10,909 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:11,088 INFO    [ikakit.scan] P1-G-L1 (Nereus) : 2 ville(s), courante 0
+2026-10-28 15:01:11,108 INFO    [ikakit.scan]   P1-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:01:11,647 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:11,695 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53901&currentCityId=53901&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:11,747 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:11,747 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:12,016 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:12,784 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:01:15,101 INFO    [ikakit.scan]   P1-L1-Capitale : Port, 6 navire(s) acheté(s), prochain à 3178
+2026-10-28 15:01:15,536 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:15,572 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:15,599 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:15,600 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:15,705 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:16,466 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:16,483 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:16,530 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:16,531 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:16,571 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:17,236 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:17,272 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:17,272 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:17,416 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:18,232 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:18,265 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=54012&currentCityId=54012&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:18,312 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:18,313 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:18,500 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:18,587 INFO    [ikakit.scan]   Polis [85:74] : 25 emplacements, 23 libres
+2026-10-28 15:01:19,322 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:19,343 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:19,380 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:19,381 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:19,493 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:20,022 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:20,057 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=3&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:20,108 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:20,109 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:20,277 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:20,845 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:20,899 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:20,906 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:21,035 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:23,330 INFO    [ikakit.etat-recherches] Recherches : 19 acquise(s) sur 77, 5/5 domaine(s) lu(s), 2209 point(s)
+2026-10-28 15:01:23,330 INFO    [ikakit.scan] Scan termine : 2 ville(s) lue(s) en 16.6 s
+2026-10-28 15:01:26,799 INFO    [ikakit.entrepot] Scan de P1-G-L1 (Nereus) enregistre : 2 ville(s) -> P1-G-L1-Nereus-fr.json
+2026-10-28 15:01:26,803 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51193, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:01:27,782 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:01:28,189 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:01:28,540 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:28,622 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:01:29,358 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:01:29,792 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:01:29,944 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:29,945 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:01:29,965 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:29,970 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 occupe par P2-G-L1 (Nereus) — scan
+2026-10-28 15:01:31,706 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:32,794 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53902
+2026-10-28 15:01:32,885 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:32,886 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:33,085 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:33,234 INFO    [ikakit.scan] P2-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:01:33,259 INFO    [ikakit.scan]   P2-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:01:33,776 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:33,780 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53902&currentCityId=53902&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:33,813 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:01:33,865 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:33,883 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:34,163 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:34,310 DEBUG   [ikakit.navigateur] taskkill 16784 : code 128, 
+2026-10-28 15:01:34,808 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:01:36,314 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51987, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:01:36,800 INFO    [ikakit.scan]   P2-L1-Capitale : Port, 2 navire(s) acheté(s), prochain à 1326
+2026-10-28 15:01:37,204 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:37,230 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:37,280 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:37,283 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:37,442 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:37,892 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:37,901 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:37,960 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:37,962 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:38,142 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:38,720 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:38,746 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:38,747 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:38,911 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:41,464 INFO    [ikakit.etat-recherches] Recherches : 19 acquise(s) sur 77, 5/5 domaine(s) lu(s), 2679 point(s)
+2026-10-28 15:01:41,464 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 11.5 s
+2026-10-28 15:01:43,347 INFO    [ikakit.entrepot] Scan de P2-G-L1 (Nereus) enregistre : 1 ville(s) -> P2-G-L1-Nereus-fr.json
+2026-10-28 15:01:43,349 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55006, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_6
+2026-10-28 15:01:44,588 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:01:44,848 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:01:45,089 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:45,198 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:01:45,797 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:01:46,253 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:01:46,347 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:46,349 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:01:46,369 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:01:46,376 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_6 occupe par P4-G-L1 (Nereus) — scan
+2026-10-28 15:01:47,502 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:01:48,864 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53904
+2026-10-28 15:01:48,946 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:48,947 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:49,089 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:49,259 INFO    [ikakit.scan] P4-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:01:49,288 INFO    [ikakit.scan]   P4-L1-Capitale [86:73] : 25 emplacements, 10 libres
+2026-10-28 15:01:50,173 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:50,200 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53904&currentCityId=53904&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:50,308 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:50,326 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:50,530 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:50,887 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:01:52,852 INFO    [ikakit.scan]   P4-L1-Capitale : Port, 2 navire(s) acheté(s), prochain à 1326
+2026-10-28 15:01:53,180 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:53,194 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:01:53,232 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:53,233 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:53,417 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:53,988 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:01:54,016 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:54,039 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:54,041 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:54,191 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:54,788 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:01:54,814 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:01:54,815 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:01:54,973 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:01:58,813 INFO    [ikakit.etat-recherches] Recherches : 17 acquise(s) sur 77, 5/5 domaine(s) lu(s), 2991 point(s)
+2026-10-28 15:01:58,814 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 12.4 s
+2026-10-28 15:02:00,290 INFO    [ikakit.entrepot] Scan de P4-G-L1 (Nereus) enregistre : 1 ville(s) -> P4-G-L1-Nereus-fr.json
+2026-10-28 15:02:00,294 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59315, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_6
+2026-10-28 15:02:01,486 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:02:01,799 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:02:02,116 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:02:02,260 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:02:02,897 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:02:03,284 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:02:03,398 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:02:03,398 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:02:03,415 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:02:03,421 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_6 occupe par P3-G-L1 (Nereus) — scan
+2026-10-28 15:02:04,680 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:02:06,665 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:02:07,247 DEBUG   [ikakit.navigateur] taskkill 42836 : code 128, 
+2026-10-28 15:02:07,247 ERROR   [ikakit.scan] Echec inattendu du scan de FR-1 (Atlas)
+Traceback (most recent call last):
+  File "ikakit\scan.py", line 804, in scanner
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:02:07,254 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59937, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:02:07,622 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53903
+2026-10-28 15:02:07,691 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:02:07,694 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:02:07,856 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:02:08,077 INFO    [ikakit.scan] P3-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:02:08,113 INFO    [ikakit.scan]   P3-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:02:08,821 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:02:08,840 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53903&currentCityId=53903&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:02:08,895 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:02:08,896 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:02:09,135 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:02:09,759 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:02:11,701 INFO    [ikakit.scan]   P3-L1-Capitale : Port, 5 navire(s) acheté(s), prochain à 2694
+2026-10-28 15:02:12,140 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:02:12,159 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:02:12,190 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:02:12,191 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:02:12,610 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:02:13,068 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:02:13,075 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:02:13,108 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:02:13,109 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:02:13,296 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:02:13,831 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:02:13,932 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:02:13,933 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:02:14,087 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:02:16,453 INFO    [ikakit.etat-recherches] Recherches : 17 acquise(s) sur 77, 5/5 domaine(s) lu(s), 3315 point(s)
+2026-10-28 15:02:16,454 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 13.0 s
+2026-10-28 15:02:18,134 INFO    [ikakit.entrepot] Scan de P3-G-L1 (Nereus) enregistre : 1 ville(s) -> P3-G-L1-Nereus-fr.json
+2026-10-28 15:02:37,590 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:02:38,094 DEBUG   [ikakit.navigateur] taskkill 4504 : code 128, 
+2026-10-28 15:02:40,098 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 63271, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:03:10,316 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:03:10,782 DEBUG   [ikakit.navigateur] taskkill 36252 : code 128, 
+2026-10-28 15:03:10,783 ERROR   [ikakit.scan] Echec inattendu du scan de FR-2 (Atlas)
+Traceback (most recent call last):
+  File "ikakit\scan.py", line 804, in scanner
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:04:32,223 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58327, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:05:02,534 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:05:03,065 DEBUG   [ikakit.navigateur] taskkill 37924 : code 128, 
+2026-10-28 15:05:05,068 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62725, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:05:27,349 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 15:05:29,859 INFO    [ikakit.bastion] Ronde 217 terminee — prochaine vers 15:12 (8 min)
+2026-10-28 15:05:35,353 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:05:35,903 DEBUG   [ikakit.navigateur] taskkill 25480 : code 128, 
+2026-10-28 15:05:35,904 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:05:35,922 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:06:00,066 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-4 attend son tour
+2026-10-28 15:07:43,506 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55494, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:08:13,792 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:08:14,205 DEBUG   [ikakit.navigateur] taskkill 16592 : code 128, 
+2026-10-28 15:08:16,208 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 53794, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:08:46,471 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:08:46,936 DEBUG   [ikakit.navigateur] taskkill 26004 : code 128, 
+2026-10-28 15:08:46,937 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:08:46,952 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:08:48,092 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 63098, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:09:18,375 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 15:09:18,783 DEBUG   [ikakit.navigateur] taskkill 35356 : code 128, 
+2026-10-28 15:09:20,787 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 50658, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:09:51,077 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 15:09:51,535 DEBUG   [ikakit.navigateur] taskkill 31964 : code 128, 
+2026-10-28 15:09:51,536 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:09:51,546 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:12:00,082 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-3 attend son tour
+2026-10-28 15:12:59,861 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 15:12:59,862 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 15:15:35,933 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55076, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:16:06,247 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:16:06,685 DEBUG   [ikakit.navigateur] taskkill 36320 : code 128, 
+2026-10-28 15:16:08,706 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 55106, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:16:39,201 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:16:39,862 DEBUG   [ikakit.navigateur] taskkill 30132 : code 128, 
+2026-10-28 15:16:39,865 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:16:39,890 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:18:01,214 INFO    [ikakit.famille] Famille : aucun compte n'appartient à une famille dans LvcLaurent/famille
+2026-10-28 15:18:01,215 INFO    [ikakit.service-scan] Scan automatique terminé : 4/11 compte(s) scanné(s), 5 ville(s) — echecs : FR-0, FR-1, FR-2, FR-5, FR-6, FR-4, FR-3 — aucun compte n'appartient à une famille
+2026-10-28 15:18:46,972 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 61446, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:18:59,860 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 15:19:02,320 INFO    [ikakit.bastion] Ronde 218 terminee — prochaine vers 15:26 (8 min)
+2026-10-28 15:19:17,254 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:19:17,903 DEBUG   [ikakit.navigateur] taskkill 14104 : code 128, 
+2026-10-28 15:19:19,907 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54604, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:19:50,184 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:19:50,793 DEBUG   [ikakit.navigateur] taskkill 27716 : code 128, 
+2026-10-28 15:19:50,795 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:19:50,819 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:19:51,854 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 49669, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:20:22,174 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 15:20:22,827 DEBUG   [ikakit.navigateur] taskkill 29060 : code 128, 
+2026-10-28 15:20:24,833 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58600, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:20:55,141 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 15:20:55,768 DEBUG   [ikakit.navigateur] taskkill 25344 : code 128, 
+2026-10-28 15:20:55,770 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:20:55,791 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:25:57,612 INFO    [ikakit.interface] Ouverture du module Up auto
+2026-10-28 15:26:32,324 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 15:26:32,324 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 15:26:39,895 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54339, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:27:10,166 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:27:10,792 DEBUG   [ikakit.navigateur] taskkill 11844 : code 128, 
+2026-10-28 15:27:12,796 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59194, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:27:43,079 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:27:43,685 DEBUG   [ikakit.navigateur] taskkill 8000 : code 128, 
+2026-10-28 15:27:43,686 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:27:43,693 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:28:45,014 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P2-G-L1|Nereus|fr
+2026-10-28 15:29:50,833 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 57109, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:30:20,742 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P3-G-L1|Nereus|fr
+2026-10-28 15:30:21,078 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:30:21,681 DEBUG   [ikakit.navigateur] taskkill 34204 : code 128, 
+2026-10-28 15:30:23,685 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59363, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:30:53,982 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:30:54,623 DEBUG   [ikakit.navigateur] taskkill 7340 : code 128, 
+2026-10-28 15:30:54,623 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:30:54,629 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:30:55,796 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 57048, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:31:21,984 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P4-G-L1|Nereus|fr
+2026-10-28 15:31:26,071 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 15:31:26,651 DEBUG   [ikakit.navigateur] taskkill 29812 : code 128, 
+2026-10-28 15:31:28,653 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 53039, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:31:58,946 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 15:31:59,373 DEBUG   [ikakit.navigateur] taskkill 5580 : code 128, 
+2026-10-28 15:31:59,373 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:31:59,378 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:32:04,601 INFO    [ikakit.service-up-auto] Passage forcé sur P1-G-L1|Nereus|fr
+2026-10-28 15:32:05,744 INFO    [ikakit.service-up-auto] Passage forcé sur P1-G-L1|Nereus|fr
+2026-10-28 15:32:06,642 INFO    [ikakit.service-up-auto] Passage forcé sur P2-G-L1|Nereus|fr
+2026-10-28 15:32:07,395 INFO    [ikakit.service-up-auto] Passage forcé sur P3-G-L1|Nereus|fr
+2026-10-28 15:32:32,326 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 15:32:34,366 INFO    [ikakit.bastion] Ronde 219 terminee — prochaine vers 15:40 (8 min)
+2026-10-28 15:32:43,067 INFO    [ikakit.interface] Ouverture du module Up auto
+2026-10-28 15:34:02,800 INFO    [ikakit.details] Jouer demande : P1-G-L1 (Nereus)
+2026-10-28 15:34:02,808 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 56640, avec fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:34:04,159 INFO    [ikakit.navigateur] Fenetre maximisee : 1536x730
+2026-10-28 15:34:04,159 INFO    [ikakit.lobby] Jouer : P1-G-L1 (Nereus) — profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:34:04,170 DEBUG   [ikakit.chrome] [lobby] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:34:04,567 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:34:04,668 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:34:05,369 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:34:06,332 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:34:06,348 DEBUG   [ikakit.chrome] [jeu] [warning] <link rel=preload> has an invalid `href` value
+2026-10-28 15:34:06,349 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:34:06,349 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:34:06,497 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:34:06,498 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:34:06,520 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:34:06,527 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 occupe par P1-G-L1 (Nereus) — jeu
+2026-10-28 15:34:45,592 INFO    [ikakit.interface] Ouverture du module Up auto
+2026-10-28 15:35:26,726 INFO    [ikakit.paliers] 2 table(s) écrites dans C:\Users\basti\Documents\IkaKit v2\paliers.json
+2026-10-28 15:35:41,954 INFO    [ikakit.paliers] 1 table(s) de paliers lues dans paliers.json : Standard (26)
+2026-10-28 15:35:41,956 INFO    [ikakit.paliers] 2 table(s) de paliers lues dans paliers.json : Farm multi (19), Compte Or (13)
+2026-10-28 15:35:41,957 INFO    [ikakit.paliers] 2 table(s) écrites dans C:\Users\basti\Documents\IkaKit v2\paliers.json
+2026-10-28 15:35:41,972 INFO    [ikakit.paliers] 1 table(s) de paliers lues dans paliers.json : Standard (26)
+2026-10-28 15:35:41,974 INFO    [ikakit.paliers] 2 table(s) de paliers lues dans paliers.json : Farm multi (19), Compte Or (13)
+2026-10-28 15:37:43,704 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59835, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:38:13,958 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:38:14,591 DEBUG   [ikakit.navigateur] taskkill 4740 : code 128, 
+2026-10-28 15:38:16,594 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62628, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:38:46,886 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:38:47,494 DEBUG   [ikakit.navigateur] taskkill 27276 : code 128, 
+2026-10-28 15:38:47,494 ERROR   [ikakit.service-construction] Construction : echec sur FR-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:38:47,503 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:40:04,369 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 7m30) — 1 compte(s) sur 1 profil(s), 1 de front
+2026-10-28 15:40:04,369 INFO    [ikakit.session] Profil 3d8733ae-8745-4910-8d23-12caa4f26d54_1 occupé — FR-5 attend son tour
+2026-10-28 15:40:54,644 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59372, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:41:10,711 INFO    [ikakit.service-up-auto] Passage forcé sur P1-G-L1|Nereus|fr
+2026-10-28 15:41:24,934 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 1) — nettoyage
+2026-10-28 15:41:25,413 DEBUG   [ikakit.navigateur] taskkill 37988 : code 128, 
+2026-10-28 15:41:27,416 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 53228, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_0
+2026-10-28 15:41:57,669 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_0 (tentative 2) — nettoyage
+2026-10-28 15:41:58,168 DEBUG   [ikakit.navigateur] taskkill 39940 : code 128, 
+2026-10-28 15:41:58,169 ERROR   [ikakit.service-construction] Construction : echec sur FR-2
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:41:58,173 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:41:59,402 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58665, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:42:29,644 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 1) — nettoyage
+2026-10-28 15:42:30,164 DEBUG   [ikakit.navigateur] taskkill 22748 : code 128, 
+2026-10-28 15:42:32,167 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 53848, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\3d8733ae-8745-4910-8d23-12caa4f26d54_2
+2026-10-28 15:43:02,457 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 3d8733ae-8745-4910-8d23-12caa4f26d54_2 (tentative 2) — nettoyage
+2026-10-28 15:43:03,024 DEBUG   [ikakit.navigateur] taskkill 7440 : code 128, 
+2026-10-28 15:43:03,025 ERROR   [ikakit.service-construction] Construction : echec sur FR-6
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-10-28 15:43:03,030 DEBUG   [ikakit.construction-etat] File enregistree : 4 entree(s)
+2026-10-28 15:43:04,720 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P3-G-L1|Nereus|fr
+2026-10-28 15:43:10,998 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P4-G-L1|Nereus|fr
+2026-10-28 15:43:20,755 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P2-G-L1|Nereus|fr
+2026-10-28 15:43:23,161 DEBUG   [ikakit.memoire] Retenu : upauto.compte = P1-G-L1|Nereus|fr
+2026-10-28 15:43:59,459 INFO    [ikakit.paliers] 2 table(s) écrites dans C:\Users\basti\Documents\IkaKit v2\paliers.json
+2026-10-28 15:43:59,489 INFO    [ikakit.paliers] 1 table(s) de paliers lues dans paliers.json : Standard (26)
+2026-10-28 15:43:59,491 INFO    [ikakit.paliers] 2 table(s) de paliers lues dans paliers.json : Farm multi (19), Compte Or (13)
+2026-10-28 15:44:59,148 INFO    [ikakit.interface] Ouverture du module Famille
+2026-10-28 15:46:04,369 INFO    [ikakit.bastion]   FR-5 : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « FR-5 » n'a pas été traité.
+2026-10-28 15:46:06,512 INFO    [ikakit.interface] Ouverture du module Alerte
+2026-10-28 15:46:07,414 INFO    [ikakit.bastion] Ronde 220 terminee — prochaine vers 15:53 (8 min)
+2026-10-28 15:46:44,456 INFO    [ikakit.details] Scan demande pour IkaGold : 4 compte(s)
+2026-10-28 15:46:44,459 INFO    [ikakit.scan] Scan parallele : 4 compte(s) sur 2 profil(s), 2 en meme temps
+2026-10-28 15:46:44,468 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59709, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_6
+2026-10-28 15:46:45,475 INFO    [ikakit.occupation] Occupation perimee sur 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 (P1-G-L1) — profil libere
+2026-10-28 15:46:45,480 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 59257, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:46:45,796 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:46:46,359 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:46:46,591 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:46:46,718 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:46:47,135 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:46:47,594 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:46:47,616 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:46:47,722 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:46:47,900 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:46:48,241 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:46:48,289 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:46:48,291 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:46:48,841 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:46:48,900 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:49,692 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:49,765 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:46:49,904 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-10-28 15:46:49,910 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: true, statistics: true, marketing: true}
+2026-10-28 15:46:50,338 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:46:50,344 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_6 occupe par P4-G-L1 (Nereus) — scan
+2026-10-28 15:46:50,656 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:46:50,898 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-10-28 15:46:50,907 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 occupe par P1-G-L1 (Nereus) — scan
+2026-10-28 15:46:51,008 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:46:51,130 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:46:51,312 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:51,477 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:51,599 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53904
+2026-10-28 15:46:51,650 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:51,651 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:46:51,837 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:51,901 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53901
+2026-10-28 15:46:51,970 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:51,972 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:51,989 INFO    [ikakit.scan] P4-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:46:52,052 INFO    [ikakit.scan]   P4-L1-Capitale [86:73] : 25 emplacements, 10 libres
+2026-10-28 15:46:52,112 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:52,538 INFO    [ikakit.scan] P1-G-L1 (Nereus) : 2 ville(s), courante 0
+2026-10-28 15:46:52,614 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:52,685 INFO    [ikakit.scan]   P1-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:46:52,809 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:46:52,816 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:52,820 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53904&currentCityId=53904&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:46:52,944 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:52,951 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:46:53,045 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:53,065 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53901&currentCityId=53901&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:46:53,130 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:53,132 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:53,151 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:53,253 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:53,696 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:46:54,251 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:46:54,721 WARNING [ikakit.chrome] [jeu] [pageerror] Cannot set properties of undefined (setting 'res')
+2026-10-28 15:46:55,448 INFO    [ikakit.scan]   P4-L1-Capitale : Port, 2 navire(s) acheté(s), prochain à 1326
+2026-10-28 15:46:55,763 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:55,770 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:46:55,861 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:55,863 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:46:56,062 INFO    [ikakit.scan]   P1-L1-Capitale : Port, 6 navire(s) acheté(s), prochain à 3178
+2026-10-28 15:46:56,262 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:56,358 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:56,381 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:46:56,453 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:56,457 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:56,776 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:56,912 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:56,929 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:46:56,981 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:56,983 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:46:57,123 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:57,299 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:57,305 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:46:57,339 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:57,340 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:57,468 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:57,574 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:46:57,631 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:57,633 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:46:57,872 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:58,353 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:46:58,397 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:58,399 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:58,642 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:59,212 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:46:59,230 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=54012&currentCityId=54012&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:46:59,289 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:46:59,303 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:46:59,533 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:46:59,595 INFO    [ikakit.scan]   Polis [85:74] : 25 emplacements, 23 libres
+2026-10-28 15:47:00,485 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:00,507 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:47:00,571 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:00,574 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:00,593 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:00,874 INFO    [ikakit.etat-recherches] Recherches : 17 acquise(s) sur 77, 5/5 domaine(s) lu(s), 3013 point(s)
+2026-10-28 15:47:00,874 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 10.5 s
+2026-10-28 15:47:01,514 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:01,529 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=3&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:01,574 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:01,578 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:01,675 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:02,376 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:02,403 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:02,404 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:02,501 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:02,797 INFO    [ikakit.entrepot] Scan de P4-G-L1 (Nereus) enregistre : 1 ville(s) -> P4-G-L1-Nereus-fr.json
+2026-10-28 15:47:02,806 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 49669, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_6
+2026-10-28 15:47:04,961 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:47:05,115 INFO    [ikakit.etat-recherches] Recherches : 19 acquise(s) sur 77, 5/5 domaine(s) lu(s), 2231 point(s)
+2026-10-28 15:47:05,115 INFO    [ikakit.scan] Scan termine : 2 ville(s) lue(s) en 14.2 s
+2026-10-28 15:47:05,553 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:47:05,686 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:47:05,789 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:47:06,475 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:47:07,064 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-10-28 15:47:07,189 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:47:07,190 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: undefined, statistics: undefined, marketing: undefined}
+2026-10-28 15:47:07,942 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-10-28 15:47:07,945 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_6 occupe par P3-G-L1 (Nereus) — scan
+2026-10-28 15:47:08,093 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:47:08,418 INFO    [ikakit.entrepot] Scan de P1-G-L1 (Nereus) enregistre : 2 ville(s) -> P1-G-L1-Nereus-fr.json
+2026-10-28 15:47:08,422 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 53917, sans fenetre) sur C:\Users\basti\AppData\Local\IkaKit v2\profils\5a569a6d-3e01-4a1b-8539-e582661c27f2_5
+2026-10-28 15:47:09,014 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53903
+2026-10-28 15:47:09,083 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:09,093 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:47:09,268 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:09,580 INFO    [ikakit.scan] P3-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:47:09,625 INFO    [ikakit.scan]   P3-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:47:10,169 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:10,185 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53903&currentCityId=53903&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:47:10,222 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:10,223 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:47:10,434 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:10,607 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+2026-10-28 15:47:11,200 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-10-28 15:47:11,288 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:47:11,343 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:47:11,444 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:47:12,449 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-10-28 15:47:12,538 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:12,596 INFO    [ikakit.scan]   P3-L1-Capitale : Port, 5 navire(s) acheté(s), prochain à 2694
+2026-10-28 15:47:12,985 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:12,994 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:47:13,010 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:13,030 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:13,030 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:47:13,297 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:13,857 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:13,867 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:13,946 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:13,947 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:47:14,071 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:14,559 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:14,586 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:14,587 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-10-28 15:47:14,620 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:14,896 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-10-28 15:47:14,902 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-10-28 15:47:14,907 INFO    [ikakit.occupation] Profil 5a569a6d-3e01-4a1b-8539-e582661c27f2_5 occupe par P2-G-L1 (Nereus) — scan
+2026-10-28 15:47:15,018 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-10-28 15:47:15,109 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-10-28 15:47:15,366 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:15,650 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:15,961 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53902
+2026-10-28 15:47:16,018 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:16,018 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:16,235 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:16,400 INFO    [ikakit.scan] P2-G-L1 (Nereus) : 1 ville(s), courante 0
+2026-10-28 15:47:16,415 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:16,726 INFO    [ikakit.scan]   P2-L1-Capitale [86:73] : 25 emplacements, 9 libres
+2026-10-28 15:47:16,731 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-10-28 15:47:17,098 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:17,116 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&cityId=53902&currentCityId=53902&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:47:17,156 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:17,158 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:17,283 INFO    [ikakit.etat-recherches] Recherches : 17 acquise(s) sur 77, 5/5 domaine(s) lu(s), 3336 point(s)
+2026-10-28 15:47:17,284 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 9.3 s
+2026-10-28 15:47:17,398 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:18,339 DEBUG   [ikakit.scan] tavern : dialogue absent au premier clic, on reclique
+2026-10-28 15:47:19,152 INFO    [ikakit.entrepot] Scan de P3-G-L1 (Nereus) enregistre : 1 ville(s) -> P3-G-L1-Nereus-fr.json
+2026-10-28 15:47:19,778 INFO    [ikakit.scan]   P2-L1-Capitale : Port, 2 navire(s) acheté(s), prochain à 1326
+2026-10-28 15:47:20,064 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:20,070 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=resource&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-130px&cityLeft=-1629px&cityRight=&cityWorldviewScale=1
+2026-10-28 15:47:20,094 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:20,094 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:20,184 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:20,829 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-10-28 15:47:20,836 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=island&dialog=tradegood&type=1&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:20,861 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:20,861 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:20,914 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:21,383 INFO    [ikakit.chrome] [jeu] [navigation] https://s70-fr.ikariam.gameforge.com/?view=city&oldBackgroundView=island&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&islandTop=-408px&islandLeft=-1629px&islandRight=&islandWorldviewScale=1
+2026-10-28 15:47:21,407 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-10-28 15:47:21,408 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-10-28 15:47:21,469 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-10-28 15:47:23,929 INFO    [ikakit.etat-recherches] Recherches : 19 acquise(s) sur 77, 5/5 domaine(s) lu(s), 2701 point(s)
+2026-10-28 15:47:23,930 INFO    [ikakit.scan] Scan termine : 1 ville(s) lue(s) en 9.0 s
+2026-10-28 15:47:25,394 INFO    [ikakit.entrepot] Scan de P2-G-L1 (Nereus) enregistre : 1 ville(s) -> P2-G-L1-Nereus-fr.json
+2026-10-28 15:47:26,156 INFO    [ikakit.famille] Famille : aucun compte n'appartient à une famille dans LvcLaurent/famille
+2026-10-28 15:47:57,857 INFO    [ikakit.interface] Ouverture du module Up auto
