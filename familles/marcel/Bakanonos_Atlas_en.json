@@ -5,13 +5,13 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-28T02:02:39",
-  "publie_le": "2026-10-28T02:03:27",
+  "publie_le": "2026-10-28T09:05:50",
   "points_course": null,
   "villes": [
     {
       "nom": "Bakanonos",
       "coordonnees": "[90:23]",
-      "bois": 318460,
+      "bois": 317837,
       "vin": 30430,
       "marbre": 475,
       "cristal": 81963,
@@ -22,7 +22,7 @@
       "coordonnees": "[89:20]",
       "bois": 303306,
       "vin": 71985,
-      "marbre": 18743,
+      "marbre": 9076,
       "cristal": 1,
       "soufre": 1
     },
@@ -47,9 +47,9 @@
     {
       "nom": "Polis",
       "coordonnees": "[90:26]",
-      "bois": 135,
+      "bois": 0,
       "vin": 0,
-      "marbre": 2127,
+      "marbre": 2083,
       "cristal": 0,
       "soufre": 1
     }
