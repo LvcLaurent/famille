@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-28T13:02:47",
-  "publie_le": "2026-10-28T17:27:42",
+  "publie_le": "2026-10-28T22:59:23",
   "points_course": null,
   "villes": [
     {
@@ -38,7 +38,7 @@
     {
       "nom": "ici",
       "coordonnees": "[94:21]",
-      "bois": 359,
+      "bois": 0,
       "vin": 2044,
       "marbre": 0,
       "cristal": 16879,
