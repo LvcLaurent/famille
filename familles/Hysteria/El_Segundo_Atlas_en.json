@@ -5,24 +5,24 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-29T01:49:52",
-  "publie_le": "2026-10-29T01:58:10",
+  "publie_le": "2026-10-29T17:29:01",
   "points_course": null,
   "villes": [
     {
       "nom": "Djo vino I",
       "coordonnees": "[91:22]",
-      "bois": 220618,
+      "bois": 219492,
       "vin": 100570,
-      "marbre": 51215,
+      "marbre": 50551,
       "cristal": 0,
       "soufre": 40832
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 24701,
+      "bois": 23575,
       "vin": 12470,
-      "marbre": 8252,
+      "marbre": 7567,
       "cristal": 0,
       "soufre": 0
     },
@@ -33,7 +33,7 @@
       "vin": 2,
       "marbre": 499,
       "cristal": 0,
-      "soufre": 2739
+      "soufre": 0
     }
   ]
 }
