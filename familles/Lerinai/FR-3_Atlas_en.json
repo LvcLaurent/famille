@@ -4,16 +4,16 @@
   "joueur": "FR-3",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-29T15:02:35",
-  "publie_le": "2026-10-29T17:35:39",
+  "scanne_le": "2026-10-29T21:02:44",
+  "publie_le": "2026-10-29T21:03:15",
   "points_course": null,
   "villes": [
     {
       "nom": "Capital",
       "coordonnees": "[94:22]",
-      "bois": 147587,
+      "bois": 149138,
       "vin": 2,
-      "marbre": 150402,
+      "marbre": 151953,
       "cristal": 7422,
       "soufre": 0
     },
@@ -24,41 +24,41 @@
       "vin": 22150,
       "marbre": 6746,
       "cristal": 0,
-      "soufre": 4602
+      "soufre": 4894
     },
     {
       "nom": "POLIS2",
       "coordonnees": "[93:20]",
-      "bois": 32591,
+      "bois": 32986,
       "vin": 800,
-      "marbre": 19598,
+      "marbre": 19992,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "POLIS3",
       "coordonnees": "[93:20]",
-      "bois": 18506,
+      "bois": 18890,
       "vin": 800,
-      "marbre": 16873,
+      "marbre": 17261,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "POLIS4",
       "coordonnees": "[93:20]",
-      "bois": 14860,
+      "bois": 15233,
       "vin": 8000,
-      "marbre": 15001,
+      "marbre": 15374,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:22]",
-      "bois": 9405,
+      "bois": 9732,
       "vin": 5000,
-      "marbre": 14139,
+      "marbre": 14465,
       "cristal": 0,
       "soufre": 0
     }
