@@ -4,42 +4,42 @@
   "joueur": "FR-4",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-29T03:02:32",
-  "publie_le": "2026-10-29T03:03:47",
+  "scanne_le": "2026-10-29T15:02:50",
+  "publie_le": "2026-10-29T15:03:20",
   "points_course": null,
   "villes": [
     {
       "nom": "Polis",
       "coordonnees": "[94:22]",
-      "bois": 136800,
-      "vin": 6610,
-      "marbre": 135838,
+      "bois": 143081,
+      "vin": 6250,
+      "marbre": 142083,
       "cristal": 20468,
       "soufre": 15467
     },
     {
       "nom": "Polis",
       "coordonnees": "[92:20]",
-      "bois": 98750,
-      "vin": 7473,
+      "bois": 104026,
+      "vin": 7113,
       "marbre": 501,
       "cristal": 0,
-      "soufre": 81062
+      "soufre": 84995
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 29534,
-      "vin": 25895,
-      "marbre": 8,
+      "bois": 32056,
+      "vin": 27841,
+      "marbre": 1,
       "cristal": 1,
       "soufre": 1
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 889,
-      "vin": 11823,
+      "bois": 2625,
+      "vin": 12821,
       "marbre": 53,
       "cristal": 1,
       "soufre": 1
