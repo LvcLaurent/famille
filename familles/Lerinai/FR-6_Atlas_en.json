@@ -4,15 +4,15 @@
   "joueur": "FR-6",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-29T15:01:24",
-  "publie_le": "2026-10-29T17:35:39",
+  "scanne_le": "2026-10-29T21:01:17",
+  "publie_le": "2026-10-29T21:03:15",
   "points_course": null,
   "villes": [
     {
       "nom": "Vin",
       "coordonnees": "[91:22]",
-      "bois": 350275,
-      "vin": 95720,
+      "bois": 357054,
+      "vin": 97969,
       "marbre": 4189,
       "cristal": 9192,
       "soufre": 29552
@@ -20,35 +20,35 @@
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 198168,
+      "bois": 199897,
       "vin": 46,
-      "marbre": 55599,
+      "marbre": 56497,
       "cristal": 14655,
       "soufre": 1
     },
     {
       "nom": "Souffre",
       "coordonnees": "[90:20]",
-      "bois": 237013,
+      "bois": 240638,
       "vin": 46,
       "marbre": 1,
       "cristal": 1,
-      "soufre": 168358
+      "soufre": 169740
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 129417,
+      "bois": 130754,
       "vin": 29,
       "marbre": 1,
       "cristal": 0,
-      "soufre": 65442
+      "soufre": 65976
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 27651,
-      "vin": 9854,
+      "bois": 27977,
+      "vin": 10096,
       "marbre": 1599,
       "cristal": 0,
       "soufre": 1
@@ -56,9 +56,9 @@
     {
       "nom": "Polis",
       "coordonnees": "[93:20]",
-      "bois": 14185,
+      "bois": 14592,
       "vin": 519,
-      "marbre": 18672,
+      "marbre": 19080,
       "cristal": 0,
       "soufre": 1
     }
