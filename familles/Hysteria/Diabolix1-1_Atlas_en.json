@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-29T01:02:38",
-  "publie_le": "2026-10-29T01:58:10",
+  "publie_le": "2026-10-29T17:29:01",
   "points_course": null,
   "villes": [
     {
@@ -13,7 +13,7 @@
       "coordonnees": "[92:24]",
       "bois": 164763,
       "vin": 65,
-      "marbre": 102163,
+      "marbre": 100882,
       "cristal": 5176,
       "soufre": 0
     },
@@ -38,9 +38,9 @@
     {
       "nom": "souffre",
       "coordonnees": "[90:20]",
-      "bois": 53455,
+      "bois": 52902,
       "vin": 0,
-      "marbre": 175,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 58040
     }
