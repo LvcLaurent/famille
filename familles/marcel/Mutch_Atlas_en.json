@@ -4,52 +4,52 @@
   "joueur": "Mutch",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-29T14:02:43",
-  "publie_le": "2026-10-29T14:03:35",
+  "scanne_le": "2026-10-30T02:02:35",
+  "publie_le": "2026-10-30T02:03:37",
   "points_course": null,
   "villes": [
     {
       "nom": "Mutch",
       "coordonnees": "[90:23]",
-      "bois": 94410,
-      "vin": 3305,
-      "marbre": 1269,
-      "cristal": 61548,
+      "bois": 107110,
+      "vin": 2717,
+      "marbre": 2276,
+      "cristal": 68635,
       "soufre": 10850
     },
     {
       "nom": "m-1",
       "coordonnees": "[93:20]",
-      "bois": 88395,
-      "vin": 7117,
-      "marbre": 9500,
+      "bois": 99689,
+      "vin": 6409,
+      "marbre": 9515,
       "cristal": 20590,
       "soufre": 11944
     },
     {
       "nom": "s-1",
       "coordonnees": "[90:20]",
-      "bois": 35301,
+      "bois": 31053,
       "vin": 15,
-      "marbre": 0,
+      "marbre": 1509,
       "cristal": 5760,
-      "soufre": 34497
+      "soufre": 36159
     },
     {
       "nom": "Polis",
       "coordonnees": "[88:20]",
-      "bois": 60685,
-      "vin": 49672,
-      "marbre": 2,
+      "bois": 65773,
+      "vin": 53619,
+      "marbre": 245,
       "cristal": 1,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:26]",
-      "bois": 11831,
+      "bois": 2848,
       "vin": 349,
-      "marbre": 9263,
+      "marbre": 710,
       "cristal": 0,
       "soufre": 1
     }
