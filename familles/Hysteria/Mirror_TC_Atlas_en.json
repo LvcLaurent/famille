@@ -5,60 +5,60 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-10-28T13:00:53",
-  "publie_le": "2026-10-29T17:29:01",
+  "publie_le": "2026-10-30T17:29:44",
   "points_course": null,
   "villes": [
     {
       "nom": "oly",
       "coordonnees": "[91:22]",
-      "bois": 172572,
+      "bois": 159492,
       "vin": 130510,
-      "marbre": 40923,
+      "marbre": 33085,
       "cristal": 849,
       "soufre": 2122
     },
     {
       "nom": "Marcel",
       "coordonnees": "[92:23]",
-      "bois": 457447,
+      "bois": 447805,
       "vin": 16971,
-      "marbre": 960,
+      "marbre": 0,
       "cristal": 270528,
       "soufre": 4032
     },
     {
       "nom": "Lerinai",
       "coordonnees": "[92:23]",
-      "bois": 134716,
+      "bois": 124335,
       "vin": 3211,
-      "marbre": 6649,
+      "marbre": 593,
       "cristal": 58787,
       "soufre": 0
     },
     {
       "nom": "brocky",
       "coordonnees": "[92:23]",
-      "bois": 46458,
+      "bois": 37531,
       "vin": 15493,
-      "marbre": 5967,
+      "marbre": 710,
       "cristal": 37949,
       "soufre": 1103
     },
     {
       "nom": "Premium",
       "coordonnees": "[91:24]",
-      "bois": 26258,
+      "bois": 25410,
       "vin": 39788,
-      "marbre": 593,
+      "marbre": 211,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 160513,
+      "bois": 149530,
       "vin": 561,
-      "marbre": 74396,
+      "marbre": 67108,
       "cristal": 312,
       "soufre": 19349
     }
