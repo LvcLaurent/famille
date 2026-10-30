@@ -4,24 +4,24 @@
   "joueur": "Diabolix1-1",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-29T01:02:38",
-  "publie_le": "2026-10-29T17:29:01",
+  "scanne_le": "2026-10-30T01:00:41",
+  "publie_le": "2026-10-30T01:31:20",
   "points_course": null,
   "villes": [
     {
       "nom": "marbre",
       "coordonnees": "[92:24]",
-      "bois": 164763,
+      "bois": 176128,
       "vin": 65,
-      "marbre": 100882,
+      "marbre": 83622,
       "cristal": 5176,
       "soufre": 0
     },
     {
       "nom": "Gengar pinard",
       "coordonnees": "[91:22]",
-      "bois": 71190,
-      "vin": 51923,
+      "bois": 91971,
+      "vin": 64610,
       "marbre": 18020,
       "cristal": 17839,
       "soufre": 16072
@@ -29,20 +29,20 @@
     {
       "nom": "cristal",
       "coordonnees": "[88:22]",
-      "bois": 45298,
-      "vin": 2418,
-      "marbre": 454,
-      "cristal": 51055,
+      "bois": 44819,
+      "vin": 1614,
+      "marbre": 1,
+      "cristal": 55508,
       "soufre": 145
     },
     {
       "nom": "souffre",
       "coordonnees": "[90:20]",
-      "bois": 52902,
+      "bois": 49368,
       "vin": 0,
-      "marbre": 0,
+      "marbre": 5303,
       "cristal": 0,
-      "soufre": 58040
+      "soufre": 61903
     }
   ]
 }
