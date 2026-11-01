@@ -5,14 +5,14 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-01T02:02:12",
-  "publie_le": "2026-11-01T02:02:55",
+  "publie_le": "2026-11-01T09:09:42",
   "points_course": null,
   "villes": [
     {
       "nom": "Jack_S",
       "coordonnees": "[90:23]",
       "bois": 193463,
-      "vin": 36858,
+      "vin": 800,
       "marbre": 1,
       "cristal": 122390,
       "soufre": 14734
@@ -21,7 +21,7 @@
       "nom": "v-1",
       "coordonnees": "[88:20]",
       "bois": 89578,
-      "vin": 6197,
+      "vin": 800,
       "marbre": 1,
       "cristal": 1,
       "soufre": 1531
@@ -29,9 +29,9 @@
     {
       "nom": "m-1",
       "coordonnees": "[94:22]",
-      "bois": 25854,
+      "bois": 19023,
       "vin": 664,
-      "marbre": 8944,
+      "marbre": 0,
       "cristal": 1,
       "soufre": 1531
     },
@@ -39,7 +39,7 @@
       "nom": "s-1",
       "coordonnees": "[92:20]",
       "bois": 115598,
-      "vin": 24916,
+      "vin": 4916,
       "marbre": 625,
       "cristal": 1,
       "soufre": 86849
@@ -49,7 +49,7 @@
       "coordonnees": "[90:26]",
       "bois": 21698,
       "vin": 0,
-      "marbre": 782,
+      "marbre": 532,
       "cristal": 0,
       "soufre": 1
     }
