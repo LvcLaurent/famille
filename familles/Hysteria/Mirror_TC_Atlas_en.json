@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-01T01:00:17",
-  "publie_le": "2026-11-01T01:04:06",
+  "publie_le": "2026-11-01T17:31:25",
   "points_course": null,
   "villes": [
     {
@@ -20,9 +20,9 @@
     {
       "nom": "Marcel",
       "coordonnees": "[92:23]",
-      "bois": 262232,
+      "bois": 251654,
       "vin": 14018,
-      "marbre": 7876,
+      "marbre": 1391,
       "cristal": 170679,
       "soufre": 4032
     },
@@ -47,18 +47,18 @@
     {
       "nom": "Premium",
       "coordonnees": "[91:24]",
-      "bois": 89040,
+      "bois": 88115,
       "vin": 42476,
-      "marbre": 101,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 170409,
+      "bois": 150615,
       "vin": 7111,
-      "marbre": 84635,
+      "marbre": 49989,
       "cristal": 312,
       "soufre": 19349
     }
