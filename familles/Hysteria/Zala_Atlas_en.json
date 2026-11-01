@@ -4,15 +4,15 @@
   "joueur": "Zala",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-10-31T01:04:02",
-  "publie_le": "2026-10-31T17:30:27",
+  "scanne_le": "2026-11-01T01:01:59",
+  "publie_le": "2026-11-01T01:04:06",
   "points_course": null,
   "villes": [
     {
       "nom": "Djo vino II",
       "coordonnees": "[91:22]",
-      "bois": 23826,
-      "vin": 33183,
+      "bois": 25410,
+      "vin": 38078,
       "marbre": 19300,
       "cristal": 0,
       "soufre": 19300
@@ -20,9 +20,9 @@
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 0,
-      "vin": 311,
-      "marbre": 194079,
+      "bois": 9484,
+      "vin": 16,
+      "marbre": 215372,
       "cristal": 0,
       "soufre": 6645
     },
@@ -30,10 +30,10 @@
       "nom": "Polis",
       "coordonnees": "[90:20]",
       "bois": 0,
-      "vin": 34807,
+      "vin": 35833,
       "marbre": 1001,
       "cristal": 0,
-      "soufre": 198818
+      "soufre": 222144
     }
   ]
 }
