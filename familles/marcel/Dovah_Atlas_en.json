@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-01T02:02:06",
-  "publie_le": "2026-11-01T02:02:55",
+  "publie_le": "2026-11-01T09:09:42",
   "points_course": null,
   "villes": [
     {
@@ -14,7 +14,7 @@
       "bois": 86995,
       "vin": 41658,
       "marbre": 0,
-      "cristal": 40953,
+      "cristal": 37213,
       "soufre": 6448
     },
     {
@@ -29,9 +29,9 @@
     {
       "nom": "m-1",
       "coordonnees": "[94:22]",
-      "bois": 146117,
+      "bois": 137771,
       "vin": 13239,
-      "marbre": 6355,
+      "marbre": 0,
       "cristal": 1,
       "soufre": 1
     },
