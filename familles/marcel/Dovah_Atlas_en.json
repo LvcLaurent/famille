@@ -5,24 +5,24 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-02T02:02:09",
-  "publie_le": "2026-11-02T02:03:05",
+  "publie_le": "2026-11-02T09:10:05",
   "points_course": null,
   "villes": [
     {
       "nom": "Dovah",
       "coordonnees": "[90:23]",
-      "bois": 99785,
+      "bois": 90134,
       "vin": 44698,
-      "marbre": 21352,
+      "marbre": 14193,
       "cristal": 50261,
       "soufre": 24355
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 331207,
+      "bois": 320988,
       "vin": 49204,
-      "marbre": 20068,
+      "marbre": 12950,
       "cristal": 19876,
       "soufre": 19876
     },
@@ -38,9 +38,9 @@
     {
       "nom": "s-1",
       "coordonnees": "[92:20]",
-      "bois": 225518,
+      "bois": 215867,
       "vin": 47143,
-      "marbre": 18075,
+      "marbre": 10916,
       "cristal": 18076,
       "soufre": 128028
     }
