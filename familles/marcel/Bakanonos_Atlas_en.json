@@ -5,51 +5,51 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-02T02:02:30",
-  "publie_le": "2026-11-02T02:03:05",
+  "publie_le": "2026-11-02T09:10:05",
   "points_course": null,
   "villes": [
     {
       "nom": "Bakanonos",
       "coordonnees": "[90:23]",
-      "bois": 223025,
+      "bois": 212425,
       "vin": 45329,
-      "marbre": 23198,
+      "marbre": 17363,
       "cristal": 92026,
       "soufre": 31897
     },
     {
       "nom": "m-1",
       "coordonnees": "[89:20]",
-      "bois": 257173,
+      "bois": 251071,
       "vin": 66449,
-      "marbre": 35390,
+      "marbre": 32002,
       "cristal": 25288,
       "soufre": 25288
     },
     {
       "nom": "s-1",
       "coordonnees": "[90:20]",
-      "bois": 286319,
+      "bois": 276181,
       "vin": 37357,
-      "marbre": 25289,
+      "marbre": 19347,
       "cristal": 25288,
       "soufre": 111827
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 219034,
+      "bois": 210497,
       "vin": 93900,
-      "marbre": 27453,
+      "marbre": 21224,
       "cristal": 25288,
       "soufre": 31617
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:26]",
-      "bois": 2879,
+      "bois": 588,
       "vin": 3027,
-      "marbre": 3889,
+      "marbre": 2626,
       "cristal": 2543,
       "soufre": 3028
     }
