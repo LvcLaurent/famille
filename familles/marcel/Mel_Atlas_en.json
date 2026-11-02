@@ -4,45 +4,45 @@
   "joueur": "Mel",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-11-01T14:01:58",
-  "publie_le": "2026-11-01T14:03:05",
+  "scanne_le": "2026-11-02T02:02:01",
+  "publie_le": "2026-11-02T02:03:05",
   "points_course": null,
   "villes": [
     {
       "nom": "Mel",
       "coordonnees": "[90:23]",
-      "bois": 182138,
-      "vin": 105014,
-      "marbre": 7237,
-      "cristal": 57095,
-      "soufre": 1
+      "bois": 211227,
+      "vin": 127493,
+      "marbre": 23115,
+      "cristal": 83980,
+      "soufre": 23188
     },
     {
       "nom": "m-1",
       "coordonnees": "[89:20]",
-      "bois": 172798,
-      "vin": 7714,
-      "marbre": 10263,
-      "cristal": 1,
-      "soufre": 1
+      "bois": 203545,
+      "vin": 32185,
+      "marbre": 35615,
+      "cristal": 25288,
+      "soufre": 25288
     },
     {
       "nom": "v-1",
       "coordonnees": "[88:20]",
-      "bois": 79315,
-      "vin": 12188,
-      "marbre": 0,
-      "cristal": 1,
-      "soufre": 1
+      "bois": 113280,
+      "vin": 41055,
+      "marbre": 26672,
+      "cristal": 23188,
+      "soufre": 23188
     },
     {
       "nom": "s-1",
       "coordonnees": "[88:23]",
-      "bois": 12905,
-      "vin": 6,
-      "marbre": 1002,
-      "cristal": 1,
-      "soufre": 37791
+      "bois": 11485,
+      "vin": 5433,
+      "marbre": 2218,
+      "cristal": 2361,
+      "soufre": 44708
     }
   ]
 }
