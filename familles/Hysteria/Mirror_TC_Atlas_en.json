@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-04T01:00:18",
-  "publie_le": "2026-11-04T01:05:23",
+  "publie_le": "2026-11-04T20:48:41",
   "points_course": null,
   "villes": [
     {
@@ -29,9 +29,9 @@
     {
       "nom": "Lerinai",
       "coordonnees": "[92:23]",
-      "bois": 258022,
+      "bois": 239302,
       "vin": 34236,
-      "marbre": 22947,
+      "marbre": 11322,
       "cristal": 161333,
       "soufre": 36675
     },
@@ -58,7 +58,7 @@
       "coordonnees": "[89:20]",
       "bois": 218266,
       "vin": 25538,
-      "marbre": 73559,
+      "marbre": 60497,
       "cristal": 24867,
       "soufre": 43904
     }
