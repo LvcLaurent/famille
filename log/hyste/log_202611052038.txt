@@ -1,0 +1,2040 @@
+2026-11-05 19:38:51,589 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:38:52,830 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:39:19,908 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:39:20,441 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:39:22,734 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:39:23,394 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:39:29,820 ERROR   [ikakit.service-alerte] Alerte : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:39:29,832 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 24479, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 19:39:29,871 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — Zala attend son tour
+2026-11-05 19:39:31,836 ERROR   [ikakit.service-alerte] Alerte : echec sur Atlas-7440|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Atlas-7440 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:39:31,869 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 24483, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 19:39:40,043 ERROR   [ikakit.service-alerte] Alerte : echec sur El Segundo|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Segundo n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:39:40,492 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 5254, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:39:42,651 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Tercero attend son tour
+2026-11-05 19:40:08,830 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:40:40,455 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:40:50,008 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8558
+2026-11-05 19:40:50,572 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:40:51,781 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:40:56,241 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:41:03,997 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:41:06,865 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:41:07,561 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:41:08,275 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:41:08,416 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:41:11,573 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:41:11,791 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:41:12,799 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:12,823 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:13,242 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:13,243 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:13,484 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:41:13,577 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:41:14,108 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:41:14,185 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:41:16,011 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:18,617 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:41:19,995 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:41:33,022 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:41:45,807 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:41:46,004 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:41:51,536 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:41:51,775 DEBUG   [ikakit.chrome] [lobby] [info] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3-static.geo.gfsrv.net/browsergamelobby/ikariam/7.3.0-r1/media/glyphicons-halflings-regular.448c34a5.woff2
+2026-11-05 19:41:53,818 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:41:53,819 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:41:56,397 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:42:03,301 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:42:05,472 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:42:05,474 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:42:05,868 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 19:42:07,386 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 43628, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 19:42:07,431 INFO    [ikakit.entrepot] Scan de helmut786 (Atlas) enregistre : 4 ville(s) -> helmut786-Atlas-en.json
+2026-11-05 19:42:07,456 ERROR   [ikakit.service-up-auto] Up auto : echec sur helmut786|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de helmut786 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:42:10,201 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:42:10,206 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:42:10,475 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-194146-alerte_0.png, jouer-clic-intercepte-20261105-194146-alerte_0.html
+2026-11-05 19:42:13,008 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:42:16,150 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:42:16,370 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:42:16,381 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:42:16,485 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:42:16,714 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Tercero (Atlas) — scan
+2026-11-05 19:42:27,964 ERROR   [ikakit.service-alerte] Alerte : echec sur Kymera|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Kymera n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:42:32,824 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58732, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:42:33,278 INFO    [ikakit.entrepot] Scan de El Tercero (Atlas) enregistre : 4 ville(s) -> El_Tercero-Atlas-en.json
+2026-11-05 19:42:33,454 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 560, in _visiter
+  File "ikakit\scan.py", line 222, in attendre_le_jeu
+  File "ikakit\scan.py", line 181, in _attendre_vrai
+  File "playwright\sync_api\_generated.py", line 12744, in wait_for_timeout
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.wait_for_timeout(timeout=to_milliseconds(timeout))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 1144, in wait_for_timeout
+    await self._main_frame.wait_for_timeout(timeout)
+  File "playwright\_impl\_frame.py", line 925, in wait_for_timeout
+    await self._channel.send("waitForTimeout", None, {"waitTimeout": timeout})
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+2026-11-05 19:42:38,882 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:42:51,653 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:42:58,125 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:43:00,664 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:43:02,144 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:43:13,794 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:43:14,233 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:43:14,288 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:43:14,399 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:43:14,900 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:43:15,029 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:43:15,086 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:43:15,141 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:43:15,218 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:43:15,733 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:43:27,864 INFO    [ikakit.service-construction] Construction : Diabolix1-1 attend son tour (Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.)
+2026-11-05 19:43:27,892 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 19:43:28,006 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 60377, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 19:43:28,749 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 60378, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 19:43:47,902 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:43:49,517 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:43:55,520 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:43:56,174 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:43:56,175 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:44:02,171 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:44:02,172 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 19:44:02,913 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 19:44:14,204 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:44:14,455 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 19:44:17,734 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-194349-alerte_2.png, jouer-clic-intercepte-20261105-194349-alerte_2.html
+2026-11-05 19:44:19,011 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:44:26,847 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:44:26,898 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:44:30,779 ERROR   [ikakit.service-alerte] Alerte : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Tercero n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:44:33,258 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 23664, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:44:36,905 INFO    [ikakit.bastion] Ronde bastion (durée fixe — 30m) — 10 compte(s) sur 5 profil(s), 3 de front
+2026-11-05 19:44:36,909 INFO    [ikakit.session] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupé — Diabolix1-1 attend son tour
+2026-11-05 19:44:37,666 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 63159, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 19:44:37,881 INFO    [ikakit.session] Profil bfad6c55-2f5e-4eba-9349-60d371155609_1 occupé — Mirror TC attend son tour
+2026-11-05 19:45:11,734 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:45:11,914 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:45:16,023 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:45:16,258 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:45:26,188 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:45:49,399 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:45:50,924 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:45:52,966 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:45:53,043 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:45:54,265 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:45:54,267 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:45:54,637 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:45:55,951 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:45:57,161 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:45:58,620 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:46:32,396 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:46:34,904 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:46:36,020 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:46:36,523 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:46:38,895 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:46:43,595 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:46:56,654 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:00,577 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:00,696 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:01,776 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:47:01,777 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:47:02,178 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 19:47:02,572 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:02,956 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:04,159 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:47:04,159 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:47:04,706 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 19:47:06,122 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:06,129 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:47:06,131 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:06,133 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:47:06,135 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:47:06,138 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:06,141 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:07,102 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:47:07,135 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:47:07,172 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:47:07,269 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:47:07,412 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:47:07,417 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:07,421 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:07,528 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+
+2026-11-05 19:47:07,579 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:07,671 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:47:09,831 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:47:10,082 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:47:17,723 WARNING [ikakit.navigateur] Chrome (pid 24304) tient encore le profil apres 20.0 s
+2026-11-05 19:47:17,724 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 24304)
+2026-11-05 19:47:28,560 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64317, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 19:47:29,589 INFO    [ikakit.entrepot] Scan de Diabolix1-1 (Atlas) enregistre : 4 ville(s) -> Diabolix1-1-Atlas-en.json
+2026-11-05 19:47:29,854 WARNING [ikakit.navigateur] Chrome (pid 24648) tient encore le profil apres 20.0 s
+2026-11-05 19:47:29,854 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 24648)
+2026-11-05 19:47:30,107 ERROR   [ikakit.service-up-auto] Up auto : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:47:30,283 DEBUG   [ikakit.navigateur] taskkill 24304 : code 128, 
+2026-11-05 19:47:31,021 ERROR   [ikakit.service-alerte] Alerte : echec sur Zala|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Zala n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:47:31,052 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 23512, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 19:47:33,696 INFO    [ikakit.service-up-auto] Tournee Up auto : 2 compte(s) sur 2 profil(s), 2 de front
+2026-11-05 19:47:38,036 INFO    [ikakit.session] Profil bfad6c55-2f5e-4eba-9349-60d371155609_1 occupé — Mirror TC attend son tour
+2026-11-05 19:47:46,649 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Segundo attend son tour
+2026-11-05 19:47:46,653 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:47:49,389 WARNING [ikakit.navigateur] Fermeture de Chrome (pid 24648) impossible : Command '['taskkill', '/PID', '24648', '/T', '/F']' timed out after 15 seconds
+2026-11-05 19:47:49,395 INFO    [ikakit.service-construction] Construction : Mirror TC attend son tour (Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.)
+2026-11-05 19:47:49,418 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 19225, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 19:47:49,528 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:47:49,528 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 19:47:50,208 INFO    [ikakit.session] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupé — Diabolix1-1 attend son tour
+2026-11-05 19:47:59,028 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:47:59,377 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:48:13,282 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:48:17,201 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:48:17,388 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:48:19,652 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:48:19,655 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:48:21,694 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:48:21,696 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:48:22,762 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6420
+2026-11-05 19:48:27,271 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8567
+2026-11-05 19:48:31,276 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:48:40,472 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:48:40,478 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:48:50,240 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:48:50,648 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:49:21,372 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:49:36,767 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:49:41,770 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:49:46,111 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:50:03,375 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:50:09,522 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:50:09,790 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:50:10,894 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:11,942 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:11,947 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:50:11,958 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:50:12,008 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:50:13,403 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:14,985 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:50:21,334 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:25,825 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:25,929 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:28,306 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:28,681 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:50:29,085 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:50:29,499 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:50:30,632 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:50:32,093 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:50:34,147 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:50:39,335 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:51:09,784 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:51:11,284 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:51:15,475 ERROR   [ikakit.service-alerte] Alerte : echec sur El Uno|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Uno n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:51:15,627 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 57390, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:51:16,837 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:51:17,676 DEBUG   [ikakit.chrome] [lobby] [info] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3-static.geo.gfsrv.net/browsergamelobby/ikariam/7.3.0-r1/media/glyphicons-halflings-regular.448c34a5.woff2
+2026-11-05 19:51:19,177 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:51:19,178 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:51:19,773 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:51:19,946 DEBUG   [ikakit.chrome] [lobby] [info] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3-static.geo.gfsrv.net/browsergamelobby/ikariam/7.3.0-r1/media/glyphicons-halflings-regular.448c34a5.woff2
+2026-11-05 19:51:20,419 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:51:20,421 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 19:51:20,804 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:51:40,916 INFO    [ikakit.bastion]   Kymera : refuse — Le bouton « Jouer » de Kymera n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:51:41,238 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-195111-alerte_1.png, jouer-clic-intercepte-20261105-195111-alerte_1.html
+2026-11-05 19:51:41,240 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-195109-bastion_0.png, jouer-clic-intercepte-20261105-195109-bastion_0.html
+2026-11-05 19:51:44,276 INFO    [ikakit.chrome] [lobby] [onglet ferme]
+2026-11-05 19:51:46,536 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 41072, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 19:51:51,649 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:51:52,116 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:52:01,502 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:52:01,505 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:52:03,098 ERROR   [ikakit.service-alerte] Alerte : echec sur fritzz|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de fritzz n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:52:03,137 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 46314, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 19:52:05,231 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 19:52:06,518 INFO    [ikakit.bastion]   Diabolix1-1 : refuse — Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:52:06,521 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 44790, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 19:52:07,739 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:52:11,015 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Tercero attend son tour
+2026-11-05 19:52:16,615 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:52:16,998 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:53:23,782 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:53:36,671 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:53:38,221 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:53:38,279 INFO    [ikakit.entrepot] Scan de Mirror TC (Atlas) enregistre : 6 ville(s) -> Mirror_TC-Atlas-en.json
+2026-11-05 19:53:38,308 ERROR   [ikakit.service-up-auto] Up auto : echec sur Mirror TC|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 133, in partie_ouverte
+ikakit.session.Refus: Le profil est resté occupé plus de 6 min par une autre tâche. « Mirror TC » n'a pas été traité.
+2026-11-05 19:53:39,743 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:53:45,787 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:54:31,330 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:54:33,474 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:54:41,291 ERROR   [ikakit.bastion] Bastion : echec inattendu sur Atlas-7440
+Traceback (most recent call last):
+  File "ikakit\bastion.py", line 613, in un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 19:54:41,362 INFO    [ikakit.bastion]   Atlas-7440 : erreur — TimeoutError : : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 19:54:42,316 ERROR   [ikakit.service-alerte] Alerte : echec sur helmut786|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 19:54:42,452 INFO    [ikakit.service-alerte] Alerte : tour de 9 compte(s) en 1195 s — 0 annonce(s)
+2026-11-05 19:54:43,867 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62233, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:54:44,021 INFO    [ikakit.entrepot] Scan de El Segundo (Atlas) enregistre : 3 ville(s) -> El_Segundo-Atlas-en.json
+2026-11-05 19:54:44,053 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Segundo|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 19:54:44,424 INFO    [ikakit.service-up-auto] Tournee Up auto : 5 compte(s) sur 3 profil(s), 3 de front
+2026-11-05 19:54:45,187 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62235, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 19:54:45,283 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — Zala attend son tour
+2026-11-05 19:54:46,751 INFO    [ikakit.session] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupé — Diabolix1-1 attend son tour
+2026-11-05 19:54:47,366 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Tercero attend son tour
+2026-11-05 19:54:57,436 INFO    [ikakit.bastion]   Mirror TC : refuse — Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:55:00,247 WARNING [ikakit.navigateur] Chrome (pid 23068) tient encore le profil apres 20.0 s
+2026-11-05 19:55:00,248 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 23068)
+2026-11-05 19:55:05,523 DEBUG   [ikakit.navigateur] taskkill 23068 : code 128, Op‚ration r‚ussieÿ: le processus de PID 22516 (processus enfant de PID 23068) a ‚t‚
+arrˆt‚.
+Op‚ration r‚ussieÿ: le processus de PID 23068 (processus enfant de PID 16796) a ‚t‚
+arrˆt‚.
+2026-11-05 19:55:05,532 ERROR   [ikakit.service-construction] Construction : echec sur Diabolix1-1
+Traceback (most recent call last):
+  File "ikakit\interface\service_construction.py", line 212, in _passer
+  File "ikakit\interface\service_construction.py", line 256, in _un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 19:55:05,577 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 19:55:05,622 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 23786, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 19:55:05,757 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 23785, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 19:56:11,645 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:56:11,676 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:56:25,441 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:56:26,338 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:56:38,380 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:56:38,438 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:56:38,527 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:56:38,646 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:56:38,668 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:56:38,764 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:56:38,793 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 19:56:38,869 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 19:56:40,320 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,474 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,587 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,589 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:56:40,667 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:56:40,701 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,752 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,821 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:56:40,922 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:56:40,964 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:56:41,068 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 19:56:41,283 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:56:41,292 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:56:42,101 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 19:57:13,421 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:57:13,833 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:57:14,457 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:57:16,235 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 19:57:44,964 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:57:47,149 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:57:48,153 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:57:50,094 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:57:50,097 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:57:51,300 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 19:57:51,770 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:57:51,898 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:57:53,158 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 19:57:55,599 DEBUG   [ikakit.chrome] [lobby] [info] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3-static.geo.gfsrv.net/browsergamelobby/ikariam/7.3.0-r1/media/glyphicons-halflings-regular.448c34a5.woff2
+2026-11-05 19:57:56,384 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 19:57:56,385 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 19:57:56,909 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:57:56,923 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:57:59,114 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:58:00,758 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 19:58:00,762 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 19:58:01,468 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 19:58:01,490 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 19:58:01,953 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:58:03,286 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:58:03,400 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:58:06,621 INFO    [ikakit.bastion]   El Tercero : refuse — Le bouton « Jouer » de El Tercero n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:58:06,665 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 19:58:06,902 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 19:58:06,946 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 37910, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 19:58:11,268 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Segundo attend son tour
+2026-11-05 19:58:22,507 WARNING [ikakit.navigateur] Chrome (pid 20028) tient encore le profil apres 20.0 s
+2026-11-05 19:58:22,508 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 20028)
+2026-11-05 19:58:38,619 WARNING [ikakit.navigateur] Fermeture de Chrome (pid 20028) impossible : Command '['taskkill', '/PID', '20028', '/T', '/F']' timed out after 15 seconds
+2026-11-05 19:58:38,686 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 27203, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 19:58:38,763 INFO    [ikakit.entrepot] Scan de Zala (Atlas) enregistre : 3 ville(s) -> Zala-Atlas-en.json
+2026-11-05 19:58:38,795 ERROR   [ikakit.service-up-auto] Up auto : echec sur Zala|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Zala n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 19:58:38,987 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — helmut786 attend son tour
+2026-11-05 19:58:41,276 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:59:15,728 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 19:59:31,144 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:59:39,813 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:59:40,810 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:59:57,902 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 19:59:58,621 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 19:59:59,101 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:00:00,911 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:00:34,937 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:00:37,268 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:00:41,316 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:00:42,581 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:00:52,642 INFO    [ikakit.entrepot] Scan de Diabolix1-1 (Atlas) enregistre : 4 ville(s) -> Diabolix1-1-Atlas-en.json
+2026-11-05 20:00:52,693 ERROR   [ikakit.service-up-auto] Up auto : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:00:56,874 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 7895, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:00:58,054 INFO    [ikakit.entrepot] Scan de El Tercero (Atlas) enregistre : 4 ville(s) -> El_Tercero-Atlas-en.json
+2026-11-05 20:00:58,131 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 20:01:00,289 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Uno attend son tour
+2026-11-05 20:01:00,835 WARNING [ikakit.navigateur] Chrome (pid 18448) tient encore le profil apres 20.0 s
+2026-11-05 20:01:00,835 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 18448)
+2026-11-05 20:01:13,900 DEBUG   [ikakit.navigateur] taskkill 18448 : code 128, 
+2026-11-05 20:01:13,913 INFO    [ikakit.service-construction] Construction : Mirror TC attend son tour (Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.)
+2026-11-05 20:01:13,945 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 20:01:27,346 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:01:27,989 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:01:33,193 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:01:33,355 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:01:34,969 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:01:35,101 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:01:35,171 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:01:37,846 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:01:38,049 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:01:50,324 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-200127-bastion_1.png, jouer-clic-intercepte-20261105-200127-bastion_1.html
+2026-11-05 20:01:56,427 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:01:56,837 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:02:03,262 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8554
+2026-11-05 20:02:06,331 INFO    [ikakit.bastion]   Zala : refuse — Le bouton « Jouer » de Zala n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:02:06,378 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 29305, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:02:09,709 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — fritzz attend son tour
+2026-11-05 20:02:14,460 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:02:15,278 INFO    [ikakit.lobby] Jeu ouvert : https://s74-en.ikariam.gameforge.com/?view=city&cityId=8554
+2026-11-05 20:02:15,302 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Segundo (Atlas) — bastion
+2026-11-05 20:02:43,816 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:02:44,009 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 63807, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:02:59,046 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:03:11,534 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:03:26,697 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:03:27,899 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:03:33,274 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:03:42,954 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:03:43,897 INFO    [ikakit.trouver] Bastion trouvé dans la ville 8554
+2026-11-05 20:03:44,168 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:03:44,282 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:03:44,783 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:04:16,520 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:04:20,023 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:04:21,727 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:04:23,391 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:04:30,215 WARNING [ikakit.bastion]   tableur : PdC non ecrits (tableur injoignable : _ssl.c:1063: The handshake operation timed out)
+2026-11-05 20:04:32,330 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:04:45,080 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58234, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:04:45,089 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58235, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:04:45,102 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Segundo attend son tour
+2026-11-05 20:04:48,114 INFO    [ikakit.bastion]   El Segundo : lancee (30m)
+2026-11-05 20:04:48,966 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 13502, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:04:51,781 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Uno attend son tour
+2026-11-05 20:05:06,114 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:05:06,276 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:05:10,317 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:05:24,780 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:05:44,587 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:06:32,970 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:06:33,035 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:06:33,735 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:07:02,203 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:07:02,643 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8558
+2026-11-05 20:07:03,459 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:07:04,071 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:07:04,221 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:07:05,694 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:07:06,056 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:07:13,689 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,081 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,139 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,204 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,219 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:07:14,231 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,553 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:07:14,567 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:07:15,361 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:07:15,483 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:07:15,808 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:07:17,000 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 49918, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:07:17,132 INFO    [ikakit.entrepot] Scan de helmut786 (Atlas) enregistre : 4 ville(s) -> helmut786-Atlas-en.json
+2026-11-05 20:07:17,158 ERROR   [ikakit.service-up-auto] Up auto : echec sur helmut786|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de helmut786 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:07:17,397 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:07:33,570 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 20:08:06,411 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:08:08,157 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:08:08,838 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:08:31,298 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:08:32,653 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 20:08:33,435 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:08:34,305 DEBUG   [ikakit.chrome] [lobby] [info] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3-static.geo.gfsrv.net/browsergamelobby/ikariam/7.3.0-r1/media/glyphicons-halflings-regular.448c34a5.woff2
+2026-11-05 20:08:35,034 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:08:35,578 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 20:08:35,579 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:08:36,722 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:08:37,963 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:08:37,964 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:08:38,455 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 20:08:38,528 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:08:38,898 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:08:38,898 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:08:39,771 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2026-11-05 20:08:40,008 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8567
+2026-11-05 20:08:41,652 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:08:42,322 WARNING [ikakit.navigateur] Chrome (pid 14836) tient encore le profil apres 20.0 s
+2026-11-05 20:08:42,328 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 14836)
+2026-11-05 20:08:45,266 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:08:45,537 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:08:47,890 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:08:48,644 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:08:57,656 DEBUG   [ikakit.navigateur] taskkill 14836 : code 128, Op‚ration r‚ussieÿ: le processus de PID 18288 (processus enfant de PID 14836) a ‚t‚
+arrˆt‚.
+2026-11-05 20:08:57,664 INFO    [ikakit.service-construction] Construction : Mirror TC attend son tour (Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.)
+2026-11-05 20:08:57,703 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 20:08:57,946 INFO    [ikakit.session] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupé — Diabolix1-1 attend son tour
+2026-11-05 20:09:00,079 ERROR   [ikakit.service-alerte] Alerte : echec sur Atlas-7440|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Atlas-7440 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:09:00,472 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 34337, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:09:01,300 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:09:07,038 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:09:29,514 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:09:37,194 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:09:38,108 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:09:40,343 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:09:42,715 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:09:49,026 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:09:53,285 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:09:55,274 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:10:00,776 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:10:17,109 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:10:36,359 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:10:36,361 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:10:36,680 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8587
+2026-11-05 20:10:41,414 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:10:41,563 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:10:42,084 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:10:45,110 ERROR   [ikakit.service-alerte] Alerte : echec sur El Segundo|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 133, in partie_ouverte
+ikakit.session.Refus: Le profil est resté occupé plus de 6 min par une autre tâche. « El Segundo » n'a pas été traité.
+2026-11-05 20:10:45,140 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Tercero attend son tour
+2026-11-05 20:10:47,670 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:10:50,752 ERROR   [ikakit.service-alerte] Alerte : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:10:50,759 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 21534, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:10:50,799 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — Zala attend son tour
+2026-11-05 20:10:51,798 INFO    [ikakit.bastion]   El Uno : refuse — Le profil est resté occupé plus de 6 min par une autre tâche. « El Uno » n'a pas été traité.
+2026-11-05 20:11:06,479 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:11:10,050 WARNING [ikakit.navigateur] Chrome (pid 7540) tient encore le profil apres 20.0 s
+2026-11-05 20:11:10,050 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 7540)
+2026-11-05 20:11:11,145 WARNING [ikakit.navigateur] Chrome (pid 26236) tient encore le profil apres 20.0 s
+2026-11-05 20:11:11,146 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 26236)
+2026-11-05 20:11:17,455 DEBUG   [ikakit.navigateur] taskkill 26236 : code 128, Op‚ration r‚ussieÿ: le processus de PID 9440 (processus enfant de PID 26236) a ‚t‚
+arrˆt‚.
+2026-11-05 20:11:17,488 ERROR   [ikakit.service-alerte] Alerte : echec sur Kymera|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 373, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 9949, in reload
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.reload(
+        ^^^^^^^^^^^^^^^^^^^^^^
+            timeout=to_milliseconds(timeout), waitUntil=wait_until
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 570, in reload
+    await self._channel.send(
+    ...<3 lines>...
+    )
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until "load"
+    - navigated to "https://lobby.ikariam.gameforge.com/fr_FR/accounts"
+
+2026-11-05 20:11:17,953 DEBUG   [ikakit.navigateur] taskkill 7540 : code 128, 
+2026-11-05 20:11:18,212 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 56669, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:11:19,278 INFO    [ikakit.entrepot] Scan de El Uno (Atlas) enregistre : 3 ville(s) -> El_Uno-Atlas-en.json
+2026-11-05 20:11:19,282 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:11:19,604 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Uno|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Uno n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:11:24,816 INFO    [ikakit.service-up-auto] Tournee Up auto : 9 compte(s) sur 5 profil(s), 3 de front
+2026-11-05 20:11:25,568 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Segundo attend son tour
+2026-11-05 20:11:25,570 INFO    [ikakit.session] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupé — Diabolix1-1 attend son tour
+2026-11-05 20:11:30,156 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 50835, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:11:51,525 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:11:55,002 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:12:02,394 INFO    [ikakit.bastion]   fritzz : refuse — Le bouton « Jouer » de fritzz n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:12:02,399 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 61975, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:12:05,368 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — helmut786 attend son tour
+2026-11-05 20:12:16,151 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:12:18,163 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:12:19,022 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:19,199 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:19,386 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:12:25,562 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:12:30,752 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:12:34,814 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:12:40,434 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:12:40,488 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:12:45,625 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:12:46,665 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:51,456 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:52,286 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:52,371 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:12:52,964 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:12:53,280 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:12:53,280 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:12:53,302 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:12:53,316 INFO    [ikakit.occupation] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupe par Diabolix1-1 (Atlas) — scan
+2026-11-05 20:12:53,929 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 20:12:54,322 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:12:56,838 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:12:56,857 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:12:56,985 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:00,261 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:02,837 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:13:03,462 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:13:04,982 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:13:07,048 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:13:32,315 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:38,894 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:13:39,666 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:41,972 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:13:42,078 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:13:45,157 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:13:45,481 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:13:46,071 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:51,983 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:13:55,362 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:13:55,364 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:13:55,947 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6420
+2026-11-05 20:14:06,203 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:14:06,516 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:14:06,998 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:14:09,236 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:14:12,294 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:14:16,565 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 20:14:16,577 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 20:14:16,578 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:14:16,585 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:14:16,587 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:14:17,455 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:14:17,605 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par Zala (Atlas) — scan
+2026-11-05 20:14:21,870 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:14:23,649 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:14:24,154 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8629&currentCityId=8629&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-253px&cityLeft=-1981px&cityRight=&cityWorldviewScale=1
+2026-11-05 20:14:26,679 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:14:34,673 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:14:34,685 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:14:42,197 WARNING [ikakit.navigateur] Chrome (pid 4080) tient encore le profil apres 20.0 s
+2026-11-05 20:14:42,198 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 4080)
+2026-11-05 20:14:51,881 DEBUG   [ikakit.navigateur] taskkill 4080 : code 128, Op‚ration r‚ussieÿ: le processus de PID 24244 (processus enfant de PID 4080) a ‚t‚
+arrˆt‚.
+2026-11-05 20:14:51,892 ERROR   [ikakit.service-alerte] Alerte : echec sur Zala|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 490, in _regarder
+  File "ikakit\scan.py", line 222, in attendre_le_jeu
+  File "ikakit\scan.py", line 181, in _attendre_vrai
+  File "playwright\sync_api\_generated.py", line 12744, in wait_for_timeout
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.wait_for_timeout(timeout=to_milliseconds(timeout))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 1144, in wait_for_timeout
+    await self._main_frame.wait_for_timeout(timeout)
+  File "playwright\_impl\_frame.py", line 925, in wait_for_timeout
+    await self._channel.send("waitForTimeout", None, {"waitTimeout": timeout})
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+2026-11-05 20:14:51,927 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 35919, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:14:51,939 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — fritzz attend son tour
+2026-11-05 20:15:06,026 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8596
+2026-11-05 20:15:17,552 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:15:17,575 ERROR   [ikakit.service-alerte] Alerte : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Tercero n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:15:17,590 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 19707, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:15:17,620 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Uno attend son tour
+2026-11-05 20:15:36,272 WARNING [ikakit.navigateur] Chrome (pid 18340) tient encore le profil apres 20.0 s
+2026-11-05 20:15:36,274 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 18340)
+2026-11-05 20:15:43,960 DEBUG   [ikakit.navigateur] taskkill 18340 : code 128, 
+2026-11-05 20:15:45,438 INFO    [ikakit.entrepot] Scan de Kymera (Atlas) enregistre : 5 ville(s) -> Kymera-Atlas-en.json
+2026-11-05 20:15:45,523 ERROR   [ikakit.service-up-auto] Up auto : echec sur Kymera|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Kymera n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:15:47,969 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 20792, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:15:49,783 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:16:05,450 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:16:22,519 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:16:25,166 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:16:34,689 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:16:34,698 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:16:35,999 INFO    [ikakit.chrome] [jeu] [onglet ferme]
+2026-11-05 20:16:38,079 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:16:38,263 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:16:38,332 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:16:38,851 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:16:38,918 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:16:39,282 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:16:41,871 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:16:57,014 WARNING [ikakit.navigateur] Chrome (pid 24688) tient encore le profil apres 20.0 s
+2026-11-05 20:16:57,015 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 24688)
+2026-11-05 20:16:57,039 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:16:58,293 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:17:13,896 WARNING [ikakit.navigateur] Fermeture de Chrome (pid 24688) impossible : Command '['taskkill', '/PID', '24688', '/T', '/F']' timed out after 15 seconds
+2026-11-05 20:17:14,004 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 62083, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:17:14,015 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 20:17:14,212 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:17:14,421 INFO    [ikakit.session] Profil bfad6c55-2f5e-4eba-9349-60d371155609_1 occupé — Mirror TC attend son tour
+2026-11-05 20:17:14,606 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:17:22,457 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:17:22,458 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:17:23,739 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8558
+2026-11-05 20:17:25,023 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:17:29,651 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:17:30,563 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:17:30,910 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:17:32,535 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:17:32,536 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:17:33,004 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8554
+2026-11-05 20:17:35,646 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:17:40,144 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:17:40,770 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:17:40,906 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:17:41,644 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:17:44,638 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:17:45,737 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:17:46,425 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:18:10,036 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:18:13,006 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:18:21,753 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:18:26,203 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:18:30,426 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:18:32,381 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:18:35,629 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:18:35,630 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:18:36,257 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 20:18:39,297 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:18:42,020 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:18:59,144 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:18:59,188 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:18:59,191 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:19:02,276 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:19:02,390 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:19:04,379 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:19:04,641 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:19:05,967 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:19:06,193 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:19:08,938 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:19:23,442 INFO    [ikakit.bastion]   helmut786 : refuse — Le bouton « Jouer » de helmut786 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:19:23,443 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 14966, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:19:26,588 INFO    [ikakit.bastion] Ronde 6 terminee — prochaine vers 20:49 (30 min)
+2026-11-05 20:19:37,864 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 1956, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:19:37,910 INFO    [ikakit.entrepot] Scan de El Segundo (Atlas) enregistre : 3 ville(s) -> El_Segundo-Atlas-en.json
+2026-11-05 20:19:37,940 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Segundo|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Segundo n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:19:38,019 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Tercero attend son tour
+2026-11-05 20:19:42,523 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:19:55,521 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:20:15,149 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:20:18,025 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:20:20,397 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:20:20,398 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:20:21,463 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 20:20:25,743 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:20:26,061 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:20:28,522 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:20:44,382 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:20:46,583 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:20:46,645 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:20:46,659 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:21:04,571 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:21:04,586 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:21:04,794 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:21:05,074 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:21:05,797 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:21:06,452 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:21:06,897 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:21:07,048 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:21:07,129 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:21:07,596 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:21:08,751 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:21:09,029 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:21:23,735 WARNING [ikakit.navigateur] Chrome (pid 25176) tient encore le profil apres 20.0 s
+2026-11-05 20:21:23,736 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 25176)
+2026-11-05 20:21:41,562 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:21:42,703 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:21:45,144 WARNING [ikakit.navigateur] Fermeture de Chrome (pid 25176) impossible : Command '['taskkill', '/PID', '25176', '/T', '/F']' timed out after 15 seconds
+2026-11-05 20:21:46,009 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 54656, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:21:48,519 INFO    [ikakit.entrepot] Scan de Mirror TC (Atlas) enregistre : 6 ville(s) -> Mirror_TC-Atlas-en.json
+2026-11-05 20:21:49,397 ERROR   [ikakit.service-up-auto] Up auto : echec sur Mirror TC|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:21:53,297 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — Zala attend son tour
+2026-11-05 20:22:04,668 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:22:08,261 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:22:08,262 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:22:09,274 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8587
+2026-11-05 20:22:11,453 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:22:13,399 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:22:14,800 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:22:15,274 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:22:15,289 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:22:15,290 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:22:16,900 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8567
+2026-11-05 20:22:17,215 WARNING [ikakit.navigateur] Chrome (pid 17624) tient encore le profil apres 20.0 s
+2026-11-05 20:22:17,216 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 17624)
+2026-11-05 20:22:22,151 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:22:22,868 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:22:27,949 DEBUG   [ikakit.navigateur] taskkill 17624 : code 128, Op‚ration r‚ussieÿ: le processus de PID 13380 (processus enfant de PID 17624) a ‚t‚
+arrˆt‚.
+2026-11-05 20:22:28,007 INFO    [ikakit.entrepot] Scan de Diabolix1-1 (Atlas) enregistre : 4 ville(s) -> Diabolix1-1-Atlas-en.json
+2026-11-05 20:22:28,028 ERROR   [ikakit.service-up-auto] Up auto : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:22:36,079 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:22:48,162 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:22:48,422 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:22:48,615 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:22:49,732 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:22:57,024 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:22:59,282 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:23:01,564 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:23:03,750 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:23:05,366 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:23:06,946 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:23:19,148 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:23:39,346 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:23:39,417 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:23:40,464 ERROR   [ikakit.service-alerte] Alerte : echec sur El Uno|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Uno n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:23:40,474 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 56951, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:23:40,832 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:23:41,710 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:23:41,711 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:23:42,048 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 20:23:45,306 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:23:45,523 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:23:47,400 ERROR   [ikakit.service-alerte] Alerte : echec sur fritzz|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 478, in _regarder
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de fritzz n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:23:47,447 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — helmut786 attend son tour
+2026-11-05 20:23:47,588 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 61236, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:24:09,598 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:24:15,498 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:24:21,998 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:24:23,681 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:24:35,492 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:24:35,637 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:24:36,311 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:24:37,141 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:24:38,622 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:24:38,930 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:24:39,179 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:24:39,386 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:24:39,509 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:24:40,739 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:24:40,843 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:24:42,106 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:24:46,302 INFO    [ikakit.service-construction] Construction : Mirror TC attend son tour (Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.)
+2026-11-05 20:24:46,330 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 20:25:08,276 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:25:11,520 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:25:28,318 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:25:32,593 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:25:43,500 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:25:52,963 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8596
+2026-11-05 20:25:54,439 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-202532-ThreadPoolExecutor-13_2.png, jouer-clic-intercepte-20261105-202532-ThreadPoolExecutor-13_2.html
+2026-11-05 20:25:58,466 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2026-11-05 20:26:12,770 INFO    [ikakit.entrepot] Scan de El Tercero (Atlas) enregistre : 4 ville(s) -> El_Tercero-Atlas-en.json
+2026-11-05 20:26:12,793 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de El Tercero n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:26:12,880 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 36827, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:26:15,472 WARNING [ikakit.navigateur] Chrome (pid 22732) tient encore le profil apres 20.0 s
+2026-11-05 20:26:15,473 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 22732)
+2026-11-05 20:26:16,326 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 22676, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:26:32,063 WARNING [ikakit.navigateur] Fermeture de Chrome (pid 22732) impossible : Command '['taskkill', '/PID', '22732', '/T', '/F']' timed out after 15 seconds
+2026-11-05 20:26:32,144 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 58373, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:26:32,486 INFO    [ikakit.entrepot] Scan de Zala (Atlas) enregistre : 3 ville(s) -> Zala-Atlas-en.json
+2026-11-05 20:26:32,575 ERROR   [ikakit.service-up-auto] Up auto : echec sur Zala|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Zala n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:26:34,343 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupé — fritzz attend son tour
+2026-11-05 20:26:46,901 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:26:46,999 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:26:52,438 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:26:54,602 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:26:55,948 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:26:56,034 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:26:56,428 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:26:57,157 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:26:57,671 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:26:58,184 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:26:58,346 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:26:58,442 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:26:58,544 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:26:58,545 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:26:58,599 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:26:59,197 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:26:59,215 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:26:59,524 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:27:00,505 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:27:17,388 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 20:27:17,722 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Target page, context or browser has been closed
+2026-11-05 20:27:17,725 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:27:17,783 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:27:17,821 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Uno (Atlas) — scan
+2026-11-05 20:27:17,942 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:27:18,054 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 20:27:18,153 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:27:18,157 WARNING [ikakit.navigateur] Alignement de l'identite impossible : : Protocol error (Target.attachToTarget): No target with given id found
+2026-11-05 20:27:18,160 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:27:18,179 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:27:18,253 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par helmut786 (Atlas) — scan
+2026-11-05 20:27:18,561 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:27:18,562 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:27:18,579 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:27:18,592 INFO    [ikakit.occupation] Profil bfad6c55-2f5e-4eba-9349-60d371155609_1 occupe par Mirror TC (Atlas) — scan
+2026-11-05 20:27:18,933 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6973
+2026-11-05 20:27:19,882 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:27:19,935 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:27:21,777 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:27:22,026 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:27:22,095 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:27:23,903 DEBUG   [ikakit.scan] Evaluation repoussee : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:27:23,941 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=6976&currentCityId=6976&oldBackgroundView=city&containerWidth=1902px&containerHeight=984px&worldviewWidth=1902px&worldviewHeight=938px&cityTop=-280px&cityLeft=-1891px&cityRight=&cityWorldviewScale=1
+2026-11-05 20:27:24,896 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:27:24,960 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:27:26,368 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:27:30,269 INFO    [ikakit.entrepot] Scan de El Uno (Atlas) enregistre : 3 ville(s) -> El_Uno-Atlas-en.json
+2026-11-05 20:27:30,283 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Uno|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 560, in _visiter
+  File "ikakit\scan.py", line 222, in attendre_le_jeu
+  File "ikakit\scan.py", line 181, in _attendre_vrai
+  File "playwright\sync_api\_generated.py", line 12744, in wait_for_timeout
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.wait_for_timeout(timeout=to_milliseconds(timeout))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 1144, in wait_for_timeout
+    await self._main_frame.wait_for_timeout(timeout)
+  File "playwright\_impl\_frame.py", line 925, in wait_for_timeout
+    await self._channel.send("waitForTimeout", None, {"waitTimeout": timeout})
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+2026-11-05 20:27:38,769 WARNING [ikakit.navigateur] Chrome (pid 24800) tient encore le profil apres 20.0 s
+2026-11-05 20:27:38,770 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 24800)
+2026-11-05 20:27:39,232 DEBUG   [ikakit.construction-etat] File enregistree : 2 entree(s)
+2026-11-05 20:27:39,558 DEBUG   [ikakit.navigateur] taskkill 24800 : code 128, Op‚ration r‚ussieÿ: le processus de PID 6960 (processus enfant de PID 24800) a ‚t‚
+arrˆt‚.
+Op‚ration r‚ussieÿ: le processus de PID 24800 (processus enfant de PID 16796) a ‚t‚
+arrˆt‚.
+2026-11-05 20:27:39,565 ERROR   [ikakit.service-alerte] Alerte : echec sur helmut786|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_alerte.py", line 307, in _un_compte
+  File "ikakit\interface\service_alerte.py", line 490, in _regarder
+  File "ikakit\scan.py", line 222, in attendre_le_jeu
+  File "ikakit\scan.py", line 181, in _attendre_vrai
+  File "playwright\sync_api\_generated.py", line 12744, in wait_for_timeout
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.wait_for_timeout(timeout=to_milliseconds(timeout))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_page.py", line 1144, in wait_for_timeout
+    await self._main_frame.wait_for_timeout(timeout)
+  File "playwright\_impl\_frame.py", line 925, in wait_for_timeout
+    await self._channel.send("waitForTimeout", None, {"waitTimeout": timeout})
+  File "playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+2026-11-05 20:27:39,574 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 29003, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:27:39,602 INFO    [ikakit.service-alerte] Alerte : tour de 9 compte(s) en 1377 s — 0 annonce(s)
+2026-11-05 20:27:49,410 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:27:51,148 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:27:51,225 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:27:51,356 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:27:53,172 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:28:00,085 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:28:00,185 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:28:00,212 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par fritzz (Atlas) — scan
+2026-11-05 20:28:00,955 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8587
+2026-11-05 20:28:01,493 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:28:01,549 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:28:03,176 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:28:24,890 WARNING [ikakit.navigateur] Chrome (pid 9684) tient encore le profil apres 20.0 s
+2026-11-05 20:28:24,892 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 9684)
+2026-11-05 20:28:26,301 DEBUG   [ikakit.navigateur] taskkill 9684 : code 128, Op‚ration r‚ussieÿ: le processus de PID 3996 (processus enfant de PID 9684) a ‚t‚
+arrˆt‚.
+Op‚ration r‚ussieÿ: le processus de PID 9684 (processus enfant de PID 16796) a ‚t‚
+arrˆt‚.
+2026-11-05 20:28:26,442 INFO    [ikakit.entrepot] Scan de fritzz (Atlas) enregistre : 3 ville(s) -> fritzz-Atlas-en.json
+2026-11-05 20:28:26,685 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 2156, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:28:38,088 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:28:41,236 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:28:41,510 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:28:41,734 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:28:44,065 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:28:51,550 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:28:51,564 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:28:51,579 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par helmut786 (Atlas) — scan
+2026-11-05 20:28:52,793 INFO    [ikakit.interface] Ouverture du module Bastion
+2026-11-05 20:28:54,288 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8558
+2026-11-05 20:28:54,768 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:28:54,930 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:28:55,409 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:29:12,989 INFO    [ikakit.entrepot] Scan de helmut786 (Atlas) enregistre : 4 ville(s) -> helmut786-Atlas-en.json
+2026-11-05 20:29:13,474 INFO    [ikakit.service-up-auto] Tournee Up auto : 5 compte(s) sur 4 profil(s), 3 de front
+2026-11-05 20:29:13,733 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 15468, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:29:13,734 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 15469, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:29:14,024 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 15472, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:30:01,746 INFO    [ikakit.entrepot] Scan de Diabolix1-1 (Atlas) enregistre : 4 ville(s) -> Diabolix1-1-Atlas-en.json
+2026-11-05 20:30:01,759 ERROR   [ikakit.service-up-auto] Up auto : echec sur Diabolix1-1|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\navigateur.py", line 359, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 17243, in connect_over_cdp
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.connect_over_cdp(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_browser_type.py", line 209, in connect_over_cdp
+    response = await self._channel.send_return_as_dict(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "connectOverCDP", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 103, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: : read ECONNRESET
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:15469
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 385, in chrome_detache_connecte
+UnboundLocalError: cannot access local variable 'contexte' where it is not associated with a value
+2026-11-05 20:30:02,161 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 46897, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:30:04,545 INFO    [ikakit.entrepot] Scan de Mirror TC (Atlas) enregistre : 6 ville(s) -> Mirror_TC-Atlas-en.json
+2026-11-05 20:30:04,562 ERROR   [ikakit.service-up-auto] Up auto : echec sur Mirror TC|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 357, in chrome_detache_connecte
+  File "playwright\sync_api\_context_manager.py", line 83, in start
+    return self.__enter__()
+           ~~~~~~~~~~~~~~^^
+  File "playwright\sync_api\_context_manager.py", line 46, in __enter__
+                raise Error(
+    ...<2 lines>...
+                )
+playwright._impl._errors.Error: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-11-05 20:30:05,500 INFO    [ikakit.entrepot] Scan de Atlas-7440 (Atlas) enregistre : 5 ville(s) -> Atlas-7440-Atlas-en.json
+2026-11-05 20:30:05,913 ERROR   [ikakit.service-up-auto] Up auto : echec sur Atlas-7440|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\navigateur.py", line 359, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 17243, in connect_over_cdp
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.connect_over_cdp(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_browser_type.py", line 209, in connect_over_cdp
+    response = await self._channel.send_return_as_dict(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "connectOverCDP", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 103, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: : read ECONNRESET
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:15472
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 385, in chrome_detache_connecte
+UnboundLocalError: cannot access local variable 'contexte' where it is not associated with a value
+2026-11-05 20:30:06,084 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 4900, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:30:10,400 INFO    [ikakit.entrepot] Scan de Kymera (Atlas) enregistre : 5 ville(s) -> Kymera-Atlas-en.json
+2026-11-05 20:30:10,651 ERROR   [ikakit.service-up-auto] Up auto : echec sur Kymera|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 357, in chrome_detache_connecte
+  File "playwright\sync_api\_context_manager.py", line 83, in start
+    return self.__enter__()
+           ~~~~~~~~~~~~~~^^
+  File "playwright\sync_api\_context_manager.py", line 46, in __enter__
+                raise Error(
+    ...<2 lines>...
+                )
+playwright._impl._errors.Error: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-11-05 20:30:13,999 INFO    [ikakit.entrepot] Scan de El Segundo (Atlas) enregistre : 3 ville(s) -> El_Segundo-Atlas-en.json
+2026-11-05 20:30:14,020 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Segundo|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\navigateur.py", line 359, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 17243, in connect_over_cdp
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.connect_over_cdp(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_browser_type.py", line 209, in connect_over_cdp
+    response = await self._channel.send_return_as_dict(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "connectOverCDP", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 103, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: : read ECONNRESET
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:15468
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 385, in chrome_detache_connecte
+UnboundLocalError: cannot access local variable 'contexte' where it is not associated with a value
+2026-11-05 20:30:15,023 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 23357, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:30:28,517 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:30:31,613 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:30:31,745 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:30:31,844 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:30:33,867 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:30:33,902 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:30:33,921 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:30:34,459 INFO    [ikakit.chrome] [lobby] [onglet ferme]
+2026-11-05 20:30:34,797 WARNING [ikakit.navigateur] Session CDP impossible pour l'arret : : Target page, context or browser has been closed
+2026-11-05 20:30:35,165 WARNING [ikakit.navigateur] Chrome ne s'est pas ferme seul, arret force (pid 22028)
+2026-11-05 20:30:36,186 DEBUG   [ikakit.navigateur] taskkill 22028 : code 128, 
+2026-11-05 20:30:37,229 INFO    [ikakit.entrepot] Scan de El Tercero (Atlas) enregistre : 4 ville(s) -> El_Tercero-Atlas-en.json
+2026-11-05 20:30:37,242 ERROR   [ikakit.service-up-auto] Up auto : echec sur El Tercero|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: « El Tercero » (Atlas) est introuvable dans la liste du lobby. Relance un test pour rafraichir la liste.
+2026-11-05 20:31:32,091 INFO    [ikakit.bastion] Boucle bastion arretee apres 6 ronde(s)
+2026-11-05 20:31:44,157 INFO    [ikakit.service-bastion] Bastion demarre : 10 compte(s), mode perso
+2026-11-05 20:31:44,171 INFO    [ikakit.bastion] Ronde bastion (jour — 1h) — 10 compte(s) sur 5 profil(s), 3 de front
+2026-11-05 20:31:44,182 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 47110, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\bfad6c55-2f5e-4eba-9349-60d371155609_1
+2026-11-05 20:31:44,184 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 47109, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:31:44,187 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 47111, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:32:09,768 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 51088, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:32:42,608 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:32:43,290 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:33:01,020 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:33:01,570 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:33:05,092 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:33:07,117 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:33:08,613 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:33:20,691 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:33:21,391 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:33:21,488 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:33:21,935 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:33:23,567 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:33:23,618 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:33:24,079 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:33:24,533 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:33:26,274 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:33:30,740 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:33:52,274 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:33:55,468 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:33:55,662 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:33:58,024 WARNING [ikakit.chrome] [lobby] [error] Failed to load resource: the server responded with a status of 400 ()
+2026-11-05 20:34:00,149 WARNING [ikakit.navigateur] Alignement de l'identite impossible : : Protocol error (Target.attachToTarget): No target with given id found
+2026-11-05 20:34:00,151 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:34:08,080 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:09,730 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:34:11,303 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-203355-bastion_2.png, jouer-clic-intercepte-20261105-203355-bastion_2.html
+2026-11-05 20:34:12,029 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:14,558 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:34:14,560 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:34:14,657 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 20:34:20,021 INFO    [ikakit.bastion]   Mirror TC : refuse — Le bouton « Jouer » de Mirror TC n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:34:21,327 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:34:21,341 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:34:22,475 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 12324, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:34:39,425 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:34:40,047 WARNING [ikakit.journal] Capture de diagnostic impossible : : Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+
+2026-11-05 20:34:41,756 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:34:44,517 WARNING [ikakit.lobby] Clic sur « Jouer » refuse (TimeoutError) — seconde tentative
+2026-11-05 20:34:47,827 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:48,333 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:48,629 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:34:49,330 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:34:54,422 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:56,003 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:34:57,267 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:34:57,886 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:34:58,920 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:35:04,392 INFO    [ikakit.journal] Diagnostic enregistre : jouer-clic-intercepte-20261105-203444-Dummy-4.png, jouer-clic-intercepte-20261105-203444-Dummy-4.html
+2026-11-05 20:35:08,728 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:09,231 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:09,314 DEBUG   [ikakit.navigateur] Lecture de l'agent utilisateur impossible : : Execution context was destroyed, most likely because of a navigation
+2026-11-05 20:35:09,315 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:35:09,420 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:35:09,438 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Tercero (Atlas) — bastion
+2026-11-05 20:35:09,457 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8596
+2026-11-05 20:35:10,183 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:35:10,205 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:35:12,065 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:35:12,798 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:13,418 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:14,564 INFO    [ikakit.entrepot] Scan de Zala (Atlas) enregistre : 3 ville(s) -> Zala-Atlas-en.json
+2026-11-05 20:35:14,640 ERROR   [ikakit.service-up-auto] Up auto : echec sur Zala|Atlas|en
+Traceback (most recent call last):
+  File "ikakit\interface\service_up_auto.py", line 370, in _un_compte
+  File "ikakit\interface\service_up_auto.py", line 552, in _visiter
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 191, in _ouvrir
+ikakit.session.Refus: Le bouton « Jouer » de Zala n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:35:17,854 WARNING [ikakit.navigateur] Chrome (pid 24104) tient encore le profil apres 20.0 s
+2026-11-05 20:35:17,854 WARNING [ikakit.navigateur] Extinction trop lente, arret force (pid 24104)
+2026-11-05 20:35:19,465 DEBUG   [ikakit.navigateur] taskkill 24104 : code 128, Op‚ration r‚ussieÿ: le processus de PID 20496 (processus enfant de PID 24104) a ‚t‚
+arrˆt‚.
+2026-11-05 20:35:19,470 INFO    [ikakit.bastion]   Diabolix1-1 : refuse — Le bouton « Jouer » de Diabolix1-1 n'a pas pu être cliqué. Voir la capture dans diagnostics.
+2026-11-05 20:35:21,945 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 19128, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:35:27,026 INFO    [ikakit.bastion]   tableur : El Tercero : 2121 points écrits (ligne 18)
+2026-11-05 20:35:29,985 INFO    [ikakit.bastion]   El Tercero : lancee (1h)
+2026-11-05 20:35:31,338 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:35:32,717 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:35:32,845 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 27838, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:35:32,947 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:35:33,099 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:35:36,173 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:35:39,691 ERROR   [ikakit.bastion] Bastion : echec inattendu sur Kymera
+Traceback (most recent call last):
+  File "ikakit\navigateur.py", line 359, in chrome_detache_connecte
+  File "playwright\sync_api\_generated.py", line 17243, in connect_over_cdp
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.connect_over_cdp(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "playwright\_impl\_browser_type.py", line 209, in connect_over_cdp
+    response = await self._channel.send_return_as_dict(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "connectOverCDP", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 103, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 180000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:47111
+  - <ws connecting> ws://127.0.0.1:47111/devtools/browser/28c7b94d-00a5-4047-bfd0-535f30541896
+  - <ws connected> ws://127.0.0.1:47111/devtools/browser/28c7b94d-00a5-4047-bfd0-535f30541896
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "ikakit\bastion.py", line 613, in un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 385, in chrome_detache_connecte
+UnboundLocalError: cannot access local variable 'contexte' where it is not associated with a value
+2026-11-05 20:35:39,772 INFO    [ikakit.bastion]   Kymera : erreur — UnboundLocalError : cannot access local variable 'contexte' where it is not associated with a value
+2026-11-05 20:35:40,748 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:35:42,569 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 31511, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:35:43,487 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:35:43,522 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:35:43,754 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:35:43,795 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:35:43,849 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:35:44,166 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:35:45,234 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:45,276 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:45,375 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:35:45,499 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:35:45,557 INFO    [ikakit.lobby] Jeu ouvert : https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:35:45,577 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par Zala (Atlas) — bastion
+2026-11-05 20:35:50,870 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:35:50,908 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:35:50,919 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Segundo (Atlas) — bastion
+2026-11-05 20:35:51,024 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:35:51,306 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:35:51,552 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:52,955 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8554
+2026-11-05 20:35:54,249 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:55,616 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:35:55,652 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:35:56,948 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:35:58,496 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:58,980 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:35:59,420 INFO    [ikakit.bastion]   tableur : Zala : 0 points écrits (ligne 16)
+2026-11-05 20:36:05,201 INFO    [ikakit.bastion]   Zala : lancee (1h)
+2026-11-05 20:36:09,945 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 7519, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:36:10,727 INFO    [ikakit.bastion]   tableur : El Segundo : 4942 points écrits (ligne 20)
+2026-11-05 20:36:13,124 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 7f01560b-99de-42b7-9a8d-a4f5192ab792_0 (tentative 1) — nettoyage
+2026-11-05 20:36:13,692 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Uno attend son tour
+2026-11-05 20:36:16,064 DEBUG   [ikakit.navigateur] taskkill 14276 : code 128, 
+2026-11-05 20:36:18,076 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 9896, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:36:18,277 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:36:20,246 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:36:20,297 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:36:20,429 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:36:20,522 INFO    [ikakit.bastion]   El Segundo : lancee (1h)
+2026-11-05 20:36:20,528 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 9900, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:36:23,503 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Uno attend son tour
+2026-11-05 20:36:23,623 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:36:29,663 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:36:31,498 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:36:31,794 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:36:31,960 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:36:33,994 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:34,060 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:34,561 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:36:34,659 INFO    [ikakit.chrome] [nouvelle page] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8587
+2026-11-05 20:36:34,856 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:36:34,862 INFO    [ikakit.lobby] Jeu ouvert : https://s74-en.ikariam.gameforge.com/?view=city&cityId=8587
+2026-11-05 20:36:34,894 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par fritzz (Atlas) — bastion
+2026-11-05 20:36:40,005 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:36:40,036 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:36:40,049 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Uno (Atlas) — scan
+2026-11-05 20:36:40,428 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:36:40,533 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:36:40,547 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:42,265 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8567
+2026-11-05 20:36:45,362 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:45,759 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:36:45,774 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:36:48,267 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 7f01560b-99de-42b7-9a8d-a4f5192ab792_0 (tentative 2) — nettoyage
+2026-11-05 20:36:48,355 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:36:49,274 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:50,015 DEBUG   [ikakit.navigateur] taskkill 12280 : code 128, 
+2026-11-05 20:36:50,018 ERROR   [ikakit.bastion] Bastion : echec inattendu sur Atlas-7440
+Traceback (most recent call last):
+  File "ikakit\bastion.py", line 613, in un_compte
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\session.py", line 148, in partie_ouverte
+  File "ikakit\session.py", line 175, in _ouvrir
+  File "contextlib.py", line 141, in __enter__
+  File "ikakit\navigateur.py", line 350, in chrome_detache_connecte
+RuntimeError: Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-11-05 20:36:50,052 INFO    [ikakit.bastion]   Atlas-7440 : erreur — RuntimeError : Chrome n'a pas ouvert son port de pilotage, meme apres une seconde tentative. Le plus souvent, une fenetre utilise deja ce profil : ferme-la et reessaie.
+2026-11-05 20:36:50,344 INFO    [ikakit.bastion]   tableur : fritzz : 3270 points écrits (ligne 19)
+2026-11-05 20:36:52,361 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:36:56,693 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 64604, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:36:56,770 INFO    [ikakit.entrepot] Scan de El Uno (Atlas) enregistre : 3 ville(s) -> El_Uno-Atlas-en.json
+2026-11-05 20:36:57,110 INFO    [ikakit.bastion]   fritzz : lancee (1h)
+2026-11-05 20:36:59,897 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 12530, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:37:11,524 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:37:15,039 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:37:15,854 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:37:16,916 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:37:17,964 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:37:18,128 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:37:18,136 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:37:18,749 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:37:18,885 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:19,696 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:20,063 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:37:21,017 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:37:29,102 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:37:29,114 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:37:29,125 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Uno (Atlas) — bastion
+2026-11-05 20:37:29,336 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:29,627 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:37:29,826 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:30,741 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8567
+2026-11-05 20:37:30,742 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:37:30,744 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:37:32,083 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:37:34,107 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:37:34,576 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:37:34,592 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par helmut786 (Atlas) — bastion
+2026-11-05 20:37:34,646 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:37:35,505 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8558
+2026-11-05 20:37:35,514 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:37:35,525 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:37:37,243 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:37:37,706 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:37,788 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:39,718 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 17205, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0
+2026-11-05 20:37:39,718 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 17204, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:37:39,721 INFO    [ikakit.session] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupé — El Segundo attend son tour
+2026-11-05 20:37:50,009 INFO    [ikakit.bastion]   tableur : El Uno : 14138 points écrits (ligne 17)
+2026-11-05 20:37:51,695 INFO    [ikakit.bastion]   tableur : helmut786 : 3535 points écrits (ligne 13)
+2026-11-05 20:37:54,143 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:37:55,766 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:37:55,864 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:37:55,879 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:37:57,094 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:37:57,107 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:37:57,179 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:01,724 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:38:01,735 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:38:01,744 INFO    [ikakit.occupation] Profil f2d6e9a0-97c0-41a7-9fc6-667fae4507a4_0 occupe par Diabolix1-1 (Atlas) — scan
+2026-11-05 20:38:01,947 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:38:02,046 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:38:02,316 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:02,386 INFO    [ikakit.bastion]   El Uno : lancee (1h)
+2026-11-05 20:38:02,390 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 14911, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:38:02,730 INFO    [ikakit.bastion]   helmut786 : lancee (1h)
+2026-11-05 20:38:03,329 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=7954
+2026-11-05 20:38:03,686 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:38:03,706 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:38:03,743 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:04,652 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:38:07,424 INFO    [ikakit.bastion] Ronde 1 terminee — prochaine vers 21:42 (65 min)
+2026-11-05 20:38:09,926 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:10,011 ERROR   [ikakit.navigateur] Pas de port de pilotage sur 7f01560b-99de-42b7-9a8d-a4f5192ab792_0 (tentative 1) — nettoyage
+2026-11-05 20:38:10,494 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:11,756 DEBUG   [ikakit.navigateur] taskkill 344 : code 128, 
+2026-11-05 20:38:12,589 INFO    [ikakit.interface] Ouverture du module Bastion
+2026-11-05 20:38:13,195 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:38:13,764 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 37338, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\7f01560b-99de-42b7-9a8d-a4f5192ab792_0
+2026-11-05 20:38:14,877 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:38:14,924 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:38:15,057 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:38:16,535 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:16,578 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:16,583 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:38:16,728 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 22139, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_1
+2026-11-05 20:38:17,773 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/loading
+2026-11-05 20:38:17,885 INFO    [ikakit.chrome] [jeu] [navigation] https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:38:17,905 DEBUG   [ikakit.chrome] [jeu] [log] Cookie Consent {necessary: true, preferences: true, statistics: true, marketing: true}
+2026-11-05 20:38:23,015 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/fr_FR/loading
+2026-11-05 20:38:23,025 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_0 occupe par El Segundo (Atlas) — scan
+2026-11-05 20:38:23,113 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:38:23,374 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:38:23,566 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:24,324 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8554
+2026-11-05 20:38:24,646 DEBUG   [ikakit.chrome] [lobby] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:24,663 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:38:24,668 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: true, statistics: true, marketing: true, necessary: true}
+2026-11-05 20:38:25,914 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
+2026-11-05 20:38:26,238 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:26,427 INFO    [ikakit.navigateur] Identite alignee sur un Chrome a fenetre : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+2026-11-05 20:38:27,654 DEBUG   [ikakit.chrome] [jeu] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2026-11-05 20:38:28,537 INFO    [ikakit.navigateur] Sans fenetre : zone d'affichage 1902x984
+2026-11-05 20:38:28,619 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:38:28,808 DEBUG   [ikakit.chrome] [lobby] [log] Dispatching GFLocaleChange with {locale: fr-FR}
+2026-11-05 20:38:29,925 INFO    [ikakit.lobby] Etat a l'ouverture : liste
+2026-11-05 20:38:33,083 INFO    [ikakit.navigateur] Lancement detache de Chrome (port 16216, sans fenetre) sur C:\Users\melis\AppData\Local\IkaKit v2\profils\157ee362-65fd-493d-aa24-6828f61fcacd_0
+2026-11-05 20:38:34,349 INFO    [ikakit.chrome] [nouvelle page] https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:38:34,373 INFO    [ikakit.lobby] Jeu ouvert : https://lobby.ikariam.gameforge.com/en_GB/loading
+2026-11-05 20:38:34,386 INFO    [ikakit.occupation] Profil 157ee362-65fd-493d-aa24-6828f61fcacd_1 occupe par Zala (Atlas) — scan
+2026-11-05 20:38:35,422 DEBUG   [ikakit.chrome] [jeu] [log] Dispatching GFLocaleChange with {locale: en-GB}
+2026-11-05 20:38:35,942 INFO    [ikakit.chrome] [jeu] [navigation] https://s74-en.ikariam.gameforge.com/?view=city&cityId=8591
+2026-11-05 20:38:36,136 DEBUG   [ikakit.chrome] [jeu] [log] Cookie banner version 0.21.0 loaded
+2026-11-05 20:38:36,167 DEBUG   [ikakit.chrome] [jeu] [log] Initial consent: {preferences: undefined, statistics: undefined, marketing: undefined, necessary: true}
+2026-11-05 20:38:37,184 WARNING [ikakit.chrome] [jeu] [error] Permissions policy violation: unload is not allowed in this document.
