@@ -5,15 +5,15 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-10T01:19:09",
-  "publie_le": "2026-11-10T01:24:08",
+  "publie_le": "2026-11-10T20:54:25",
   "points_course": null,
   "villes": [
     {
       "nom": "vin marcel",
       "coordonnees": "[91:22]",
-      "bois": 448978,
+      "bois": 404085,
       "vin": 288205,
-      "marbre": 68378,
+      "marbre": 0,
       "cristal": 81457,
       "soufre": 38755
     },
@@ -22,7 +22,7 @@
       "coordonnees": "[93:20]",
       "bois": 211498,
       "vin": 9282,
-      "marbre": 25287,
+      "marbre": 0,
       "cristal": 12220,
       "soufre": 12675
     },
@@ -31,7 +31,7 @@
       "coordonnees": "[92:23]",
       "bois": 108966,
       "vin": 9743,
-      "marbre": 8639,
+      "marbre": 0,
       "cristal": 89690,
       "soufre": 12676
     },
@@ -40,7 +40,7 @@
       "coordonnees": "[89:20]",
       "bois": 86576,
       "vin": 5753,
-      "marbre": 21258,
+      "marbre": 0,
       "cristal": 12220,
       "soufre": 12676
     },
@@ -49,7 +49,7 @@
       "coordonnees": "[90:20]",
       "bois": 116772,
       "vin": 34993,
-      "marbre": 13669,
+      "marbre": 0,
       "cristal": 12220,
       "soufre": 180746
     }
