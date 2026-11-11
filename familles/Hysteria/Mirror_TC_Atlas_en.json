@@ -4,15 +4,15 @@
   "joueur": "Mirror TC",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-11-10T01:03:31",
-  "publie_le": "2026-11-10T20:54:25",
+  "scanne_le": "2026-11-11T01:00:43",
+  "publie_le": "2026-11-11T01:05:10",
   "points_course": null,
   "villes": [
     {
       "nom": "oly",
       "coordonnees": "[91:22]",
-      "bois": 314393,
-      "vin": 199051,
+      "bois": 372518,
+      "vin": 232451,
       "marbre": 17422,
       "cristal": 27204,
       "soufre": 6477
@@ -20,35 +20,35 @@
     {
       "nom": "Marcel",
       "coordonnees": "[92:23]",
-      "bois": 577395,
-      "vin": 48724,
-      "marbre": 13000,
-      "cristal": 263676,
+      "bois": 639894,
+      "vin": 46060,
+      "marbre": 58000,
+      "cristal": 289314,
       "soufre": 1079
     },
     {
       "nom": "Lerinai",
       "coordonnees": "[92:23]",
-      "bois": 645398,
-      "vin": 18252,
+      "bois": 704586,
+      "vin": 15588,
       "marbre": 2862,
-      "cristal": 334057,
+      "cristal": 363816,
       "soufre": 36675
     },
     {
       "nom": "brocky",
       "coordonnees": "[92:23]",
-      "bois": 94538,
-      "vin": 9179,
+      "bois": 154267,
+      "vin": 6515,
       "marbre": 1956,
-      "cristal": 62521,
+      "cristal": 88688,
       "soufre": 0
     },
     {
       "nom": "Premium",
       "coordonnees": "[91:24]",
-      "bois": 26144,
-      "vin": 53497,
+      "bois": 45965,
+      "vin": 59543,
       "marbre": 1,
       "cristal": 6635,
       "soufre": 2385
@@ -56,9 +56,9 @@
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 132384,
-      "vin": 2624,
-      "marbre": 87550,
+      "bois": 174229,
+      "vin": 2648,
+      "marbre": 114415,
       "cristal": 309,
       "soufre": 7596
     }
