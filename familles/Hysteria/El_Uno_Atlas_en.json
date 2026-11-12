@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-12T01:14:52",
-  "publie_le": "2026-11-12T01:16:46",
+  "publie_le": "2026-11-12T20:56:36",
   "points_course": null,
   "villes": [
     {
@@ -20,7 +20,7 @@
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 6434,
+      "bois": 0,
       "vin": 13602,
       "marbre": 24908,
       "cristal": 16887,
@@ -29,11 +29,11 @@
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 5620,
+      "bois": 0,
       "vin": 15925,
       "marbre": 0,
       "cristal": 16887,
-      "soufre": 2467
+      "soufre": 0
     }
   ]
 }
