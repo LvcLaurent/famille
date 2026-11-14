@@ -4,54 +4,54 @@
   "joueur": "Atlas-7440",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-11-13T01:07:24",
-  "publie_le": "2026-11-13T20:58:03",
+  "scanne_le": "2026-11-14T01:11:03",
+  "publie_le": "2026-11-14T01:16:29",
   "points_course": null,
   "villes": [
     {
       "nom": "vin marcel",
       "coordonnees": "[91:22]",
-      "bois": 512672,
-      "vin": 357642,
-      "marbre": 63201,
+      "bois": 548508,
+      "vin": 382094,
+      "marbre": 62482,
       "cristal": 111457,
       "soufre": 38755
     },
     {
       "nom": "marbre",
       "coordonnees": "[93:20]",
-      "bois": 216911,
-      "vin": 2946,
-      "marbre": 23208,
+      "bois": 238837,
+      "vin": 834,
+      "marbre": 49894,
       "cristal": 12220,
       "soufre": 12675
     },
     {
       "nom": "cristal",
       "coordonnees": "[92:23]",
-      "bois": 170191,
-      "vin": 3407,
+      "bois": 198639,
+      "vin": 1295,
       "marbre": 0,
-      "cristal": 144379,
+      "cristal": 132861,
       "soufre": 12676
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 118438,
+      "bois": 136894,
       "vin": 33,
-      "marbre": 23592,
+      "marbre": 41994,
       "cristal": 12220,
       "soufre": 12676
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 186147,
-      "vin": 29282,
+      "bois": 215480,
+      "vin": 28670,
       "marbre": 0,
       "cristal": 12220,
-      "soufre": 241442
+      "soufre": 263171
     }
   ]
 }
