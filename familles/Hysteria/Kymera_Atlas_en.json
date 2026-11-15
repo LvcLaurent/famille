@@ -5,7 +5,7 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-14T01:01:53",
-  "publie_le": "2026-11-14T20:59:26",
+  "publie_le": "2026-11-15T21:14:50",
   "points_course": null,
   "villes": [
     {
@@ -14,7 +14,7 @@
       "bois": 597464,
       "vin": 472592,
       "marbre": 0,
-      "cristal": 16458,
+      "cristal": 0,
       "soufre": 28950
     },
     {
@@ -32,8 +32,8 @@
       "bois": 30795,
       "vin": 10007,
       "marbre": 0,
-      "cristal": 12052,
-      "soufre": 236033
+      "cristal": 0,
+      "soufre": 50533
     },
     {
       "nom": "Cristal1",
@@ -41,7 +41,7 @@
       "bois": 137532,
       "vin": 24365,
       "marbre": 0,
-      "cristal": 57991,
+      "cristal": 0,
       "soufre": 13668
     },
     {
@@ -50,7 +50,7 @@
       "bois": 53198,
       "vin": 8737,
       "marbre": 0,
-      "cristal": 12052,
+      "cristal": 0,
       "soufre": 12276
     }
   ]
