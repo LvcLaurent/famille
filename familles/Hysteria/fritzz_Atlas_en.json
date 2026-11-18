@@ -4,15 +4,15 @@
   "joueur": "fritzz",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-11-17T22:19:08",
-  "publie_le": "2026-11-17T22:27:06",
+  "scanne_le": "2026-11-18T01:04:57",
+  "publie_le": "2026-11-18T01:17:38",
   "points_course": null,
   "villes": [
     {
       "nom": "Oly City",
       "coordonnees": "[91:22]",
-      "bois": 147586,
-      "vin": 89337,
+      "bois": 150767,
+      "vin": 91710,
       "marbre": 100858,
       "cristal": 0,
       "soufre": 71419
@@ -20,25 +20,25 @@
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 127913,
-      "vin": 12625,
-      "marbre": 138805,
+      "bois": 89270,
+      "vin": 13661,
+      "marbre": 143228,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 87983,
-      "vin": 19044,
+      "bois": 88723,
+      "vin": 18780,
       "marbre": 0,
       "cristal": 0,
-      "soufre": 33221
+      "soufre": 36186
     },
     {
       "nom": "Polis",
       "coordonnees": "[94:21]",
-      "bois": 2500,
+      "bois": 1761,
       "vin": 2500,
       "marbre": 2500,
       "cristal": 0,
