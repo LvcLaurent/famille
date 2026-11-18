@@ -5,23 +5,23 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-09T01:00:17",
-  "publie_le": "2026-11-17T22:02:55",
+  "publie_le": "2026-11-18T22:03:52",
   "points_course": null,
   "villes": [
     {
       "nom": "marbre",
       "coordonnees": "[92:24]",
-      "bois": 57801,
-      "vin": 43037,
-      "marbre": 19574,
-      "cristal": 51176,
+      "bois": 0,
+      "vin": 800,
+      "marbre": 0,
+      "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Gengar pinard",
       "coordonnees": "[91:22]",
       "bois": 279212,
-      "vin": 18759,
+      "vin": 800,
       "marbre": 0,
       "cristal": 17839,
       "soufre": 16072
@@ -29,20 +29,20 @@
     {
       "nom": "cristal",
       "coordonnees": "[88:22]",
-      "bois": 33092,
+      "bois": 15846,
       "vin": 13,
       "marbre": 0,
-      "cristal": 65629,
+      "cristal": 0,
       "soufre": 145
     },
     {
       "nom": "souffre",
       "coordonnees": "[90:20]",
-      "bois": 36257,
+      "bois": 0,
       "vin": 0,
-      "marbre": 255,
+      "marbre": 0,
       "cristal": 0,
-      "soufre": 113243
+      "soufre": 24243
     }
   ]
 }
