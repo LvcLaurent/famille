@@ -4,63 +4,63 @@
   "joueur": "Mirror TC",
   "monde": "Atlas",
   "pays": "en",
-  "scanne_le": "2026-11-22T01:00:59",
-  "publie_le": "2026-11-25T14:12:48",
+  "scanne_le": "2026-11-26T01:00:28",
+  "publie_le": "2026-11-26T01:11:38",
   "points_course": null,
   "villes": [
     {
       "nom": "oly",
       "coordonnees": "[91:22]",
-      "bois": 554152,
-      "vin": 311642,
-      "marbre": 17422,
-      "cristal": 27204,
-      "soufre": 6477
+      "bois": 644695,
+      "vin": 392295,
+      "marbre": 71390,
+      "cristal": 50954,
+      "soufre": 33912
     },
     {
       "nom": "Marcel",
       "coordonnees": "[92:23]",
-      "bois": 1276582,
-      "vin": 16756,
-      "marbre": 55070,
-      "cristal": 603734,
-      "soufre": 1079
+      "bois": 819997,
+      "vin": 218720,
+      "marbre": 367804,
+      "cristal": 750817,
+      "soufre": 229234
     },
     {
       "nom": "Lerinai",
       "coordonnees": "[92:23]",
-      "bois": 1253177,
-      "vin": 6284,
-      "marbre": 94709,
-      "cristal": 630794,
-      "soufre": 36632
+      "bois": 186299,
+      "vin": 92269,
+      "marbre": 166962,
+      "cristal": 138404,
+      "soufre": 103372
     },
     {
       "nom": "brocky",
       "coordonnees": "[92:23]",
-      "bois": 362667,
-      "vin": 34441,
-      "marbre": 1956,
-      "cristal": 153913,
-      "soufre": 0
+      "bois": 289453,
+      "vin": 40402,
+      "marbre": 43436,
+      "cristal": 149219,
+      "soufre": 27435
     },
     {
       "nom": "Premium",
       "coordonnees": "[91:24]",
-      "bois": 20707,
-      "vin": 62039,
-      "marbre": 1,
-      "cristal": 6635,
-      "soufre": 2385
+      "bois": 111290,
+      "vin": 105690,
+      "marbre": 27076,
+      "cristal": 33710,
+      "soufre": 29460
     },
     {
       "nom": "Marbre",
       "coordonnees": "[89:20]",
-      "bois": 385711,
-      "vin": 512,
-      "marbre": 284162,
-      "cristal": 309,
-      "soufre": 7596
+      "bois": 461231,
+      "vin": 27683,
+      "marbre": 350553,
+      "cristal": 27384,
+      "soufre": 34671
     }
   ]
 }
