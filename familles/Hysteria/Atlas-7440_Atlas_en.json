@@ -5,51 +5,51 @@
   "monde": "Atlas",
   "pays": "en",
   "scanne_le": "2026-11-26T01:05:03",
-  "publie_le": "2026-11-26T01:11:38",
+  "publie_le": "2026-11-26T14:14:19",
   "points_course": null,
   "villes": [
     {
       "nom": "vin marcel",
       "coordonnees": "[91:22]",
-      "bois": 870280,
+      "bois": 867074,
       "vin": 627601,
-      "marbre": 278798,
+      "marbre": 275435,
       "cristal": 422400,
       "soufre": 471174
     },
     {
       "nom": "marbre",
       "coordonnees": "[93:20]",
-      "bois": 404589,
+      "bois": 402428,
       "vin": 18,
-      "marbre": 15950,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "cristal",
       "coordonnees": "[92:23]",
-      "bois": 408727,
+      "bois": 407947,
       "vin": 31,
-      "marbre": 707,
-      "cristal": 86974,
+      "marbre": 0,
+      "cristal": 10974,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[89:20]",
-      "bois": 220215,
+      "bois": 217009,
       "vin": 65,
-      "marbre": 40810,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 0
     },
     {
       "nom": "Polis",
       "coordonnees": "[90:20]",
-      "bois": 475292,
+      "bois": 474247,
       "vin": 12576,
-      "marbre": 2,
+      "marbre": 0,
       "cristal": 0,
       "soufre": 129152
     }
